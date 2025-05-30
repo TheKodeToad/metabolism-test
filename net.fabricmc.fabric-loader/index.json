@@ -13,7 +13,7 @@
     {
       "version": "0.16.13",
       "type": "release",
-      "recommended": false,
+      "recommended": true,
       "releaseTime": "2025-04-08T14:43:36.000Z",
       "sha256": "1811a9732c193e313d0c628da50fc66c2bae6edecc51b9dbb27a653bbfa39767"
     },
