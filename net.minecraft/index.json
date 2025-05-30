@@ -1,0 +1,5719 @@
+{
+  "uid": "net.minecraft",
+  "name": "Minecraft",
+  "formatVersion": 1,
+  "versions": [
+    {
+      "version": "1.21.6-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-05-28T09:34:04+00:00",
+      "sha256": "af29bf578a60ade6cca1a448e6fa81ed2876c692e6322337f774fc2b306f614b"
+    },
+    {
+      "version": "25w21a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-05-20T12:09:09+00:00",
+      "sha256": "47471db266e6de73cf3a0a8e8c9f39ded1cf448d01c007a589e0a9f8a2951bfb"
+    },
+    {
+      "version": "25w20a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-05-13T11:46:28+00:00",
+      "sha256": "6b7924ef5e9c6bc16f746cfead7e37ce7d3f9e8941d02147422abea1f972a8d1"
+    },
+    {
+      "version": "25w19a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-05-06T12:57:57+00:00",
+      "sha256": "bcbf76ca53505a6820bb74eeac90e8fdf1a873eaa6cd7d864982a82e9065e07f"
+    },
+    {
+      "version": "25w18a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-04-29T12:21:01+00:00",
+      "sha256": "47e06dd53c06f034e7023b7c9d3d9b2dbf361c8d589daddbfa3ffd6f523c056d"
+    },
+    {
+      "version": "25w17a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-04-22T12:51:30+00:00",
+      "sha256": "59ef45022fac409359c66660f6abd58ebb7f22afb3e739eb0e22c23a4f152fb0"
+    },
+    {
+      "version": "25w16a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-04-15T12:01:58+00:00",
+      "sha256": "3c5458fc3c84781fadb6c46d2adebaeca9b9b5e4482c46b510d1295a2ac3df07"
+    },
+    {
+      "version": "25w15a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-04-08T12:16:59+00:00",
+      "sha256": "cd03d64833ec116ec63315e9690689c984b681695da19ddc6f828eea773f4f91"
+    },
+    {
+      "version": "25w14craftmine",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-04-01T15:50:09+00:00",
+      "sha256": "d71583b2af1a078092fb8757bd926b9d2e0263bce16e2914d172597436ee265b"
+    },
+    {
+      "version": "1.21.5",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2025-03-25T12:14:58+00:00",
+      "sha256": "ae1c82b5d60fd367ebcaac211d469e747f11275f73e67eb8f11b0233b6366fb1"
+    },
+    {
+      "version": "1.21.5-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-03-24T13:07:03+00:00",
+      "sha256": "661cb77aafff2a7939524dd4a8cd2f08682e65ee812aa0b3fd8ed3a43ea92bd5"
+    },
+    {
+      "version": "1.21.5-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-03-20T13:45:48+00:00",
+      "sha256": "78beeec8a721732f496c1a4ee612ee44e9029d806c4366d45d6f7e72a32c4332"
+    },
+    {
+      "version": "1.21.5-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-03-18T13:58:30+00:00",
+      "sha256": "36be9712bf1f7d347f29f06b331f568b2e812dc836b8508d3e49c0ce54e3c068"
+    },
+    {
+      "version": "1.21.5-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-03-12T12:36:02+00:00",
+      "sha256": "c7cdfae369ee06543d84738499f4423d0cc2df229d07737e9bbf24e52c6941d3"
+    },
+    {
+      "version": "1.21.5-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-03-11T12:49:44+00:00",
+      "sha256": "4b0b3a64ef3b6e95211383f12bcec304ea81d10dc0ec17108d63fcb4bcc6bd5b"
+    },
+    {
+      "version": "25w10a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-03-05T13:11:13+00:00",
+      "sha256": "7aacf34fe4e4dd3828daea35beaa6614a7df56ab5aa0157fc7577c1fa65e5a64"
+    },
+    {
+      "version": "25w09b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-02-27T11:07:08+00:00",
+      "sha256": "7df4661a8637d6daba6e40bc6b46f771ffa0de4eb2446e6b4e5966f28db1a241"
+    },
+    {
+      "version": "25w09a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-02-26T15:16:02+00:00",
+      "sha256": "6f721ffe9babd8dc1646cfa415670fc72d3eeab3dbb2aadd98b121b48e819eb5"
+    },
+    {
+      "version": "25w08a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-02-19T13:41:43+00:00",
+      "sha256": "6d4f9cb986a50c4b51e6b2e939c2896268eb97f30490ff471e46b30010ceb2a4"
+    },
+    {
+      "version": "25w07a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-02-13T12:55:37+00:00",
+      "sha256": "03b026db8e4efe86f8c2713687f0b8dd0ad878052feaf1cb0cbd8b74fa1e8716"
+    },
+    {
+      "version": "25w06a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-02-05T12:41:17+00:00",
+      "sha256": "7e101ee2ca386388eb892176a7c8ec04d65786c33b500c52986cb400b7fea302"
+    },
+    {
+      "version": "25w05a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-01-29T14:03:54+00:00",
+      "sha256": "054875fc3617d28a16ffc808d3f2c955d72cb022c00415d5ffc095d43da74b61"
+    },
+    {
+      "version": "25w04a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-01-22T13:14:44+00:00",
+      "sha256": "cf4f9eb6c891711c795fae45b0fd8431935dad3d21b9d4f9bbccb43fb3d40d20"
+    },
+    {
+      "version": "25w03a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-01-15T14:28:04+00:00",
+      "sha256": "b4cae11ad14ac1ef1e1cbb0466236e712c232f0c218fc3051be2883f8a74c46b"
+    },
+    {
+      "version": "25w02a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2025-01-08T13:42:18+00:00",
+      "sha256": "009660ac263284836d87e839430a2bc50f745d2bde1faccb5f23b007f3491232"
+    },
+    {
+      "version": "1.21.4",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2024-12-03T10:12:57+00:00",
+      "sha256": "131ef2812a6d239d5aa7440e0da429cdb4bbcd4d37e32d50eac8bff4577808d4"
+    },
+    {
+      "version": "1.21.4-rc3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-11-29T17:02:53+00:00",
+      "sha256": "c92c9a36791acaec3770d28d1737d5f5506813a9d299e3a2c7582842992ef69e"
+    },
+    {
+      "version": "1.21.4-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-11-29T10:33:13+00:00",
+      "sha256": "90fc916e0e23b9533a07536e655a61ded6a9e82714ab821a2d654ee2823a50c9"
+    },
+    {
+      "version": "1.21.4-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-11-28T10:19:01+00:00",
+      "sha256": "7392f307e156197f5c89adb406e0ea67bba54aae4f928bdcd4c447ed3d964e35"
+    },
+    {
+      "version": "1.21.4-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-11-26T15:07:29+00:00",
+      "sha256": "73e56f93dd81f5d45d928ab61650e0efc4460f72acf58bfd6a8cc483814386ec"
+    },
+    {
+      "version": "1.21.4-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-11-25T13:18:35+00:00",
+      "sha256": "9cc02717312511d68e78cd8ac17f259ef0909b8296301edfa05833b5e816835b"
+    },
+    {
+      "version": "1.21.4-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-11-20T13:45:00+00:00",
+      "sha256": "43d1865cdd6eda2e5d16fcbced530271bddfbc6f392e083d129436894bfd7622"
+    },
+    {
+      "version": "24w46a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-11-13T13:12:38+00:00",
+      "sha256": "406d67a74c232575b03299acc78a8816196772adefa99c1df8bb6ec6fa117985"
+    },
+    {
+      "version": "24w45a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-11-06T13:31:58+00:00",
+      "sha256": "a452e815f153d14d12476ecdee4c5f95cefb9288a09fb39ea7fe85f879090f58"
+    },
+    {
+      "version": "24w44a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-10-30T12:53:55+00:00",
+      "sha256": "cdbaf2c9f6bd3a9a83b9e997904e6b72738f1686f0296f88ac5b508cb942b9cd"
+    },
+    {
+      "version": "1.21.3",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2024-10-23T12:28:15+00:00",
+      "sha256": "df3cd04b187c561b7b84c3e6282d02804cf48643222517e8cf1ad5050c1daa4b"
+    },
+    {
+      "version": "1.21.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2024-10-22T09:58:55+00:00",
+      "sha256": "071cdd969e7177b92127b1a72e102545aef5990f327b62f8c7c46cd786d58dde"
+    },
+    {
+      "version": "1.21.2-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-10-21T15:53:05+00:00",
+      "sha256": "17d397c3aa845ca9445d7f2513186230fd6eb5e94ade85e2cd5b57b44094e7b2"
+    },
+    {
+      "version": "1.21.2-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-10-17T12:43:18+00:00",
+      "sha256": "1f85bba05ac5983e69eab7f24423299eb5ce7c53f0614115f2e0bd43b020b7ce"
+    },
+    {
+      "version": "1.21.2-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-10-16T13:30:35+00:00",
+      "sha256": "0a4d49a7784c60ec6d1dd0e3d5620180bb962b3aee05d4eb67c64c041fb4aa70"
+    },
+    {
+      "version": "1.21.2-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-10-15T11:59:11+00:00",
+      "sha256": "a54504f5b868e78fd6656794ec78574c5210fc8eef8b4e4b57c40e0ec97d23d8"
+    },
+    {
+      "version": "1.21.2-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-10-11T12:32:27+00:00",
+      "sha256": "0640b49f7decdf7275f7357a7dc2dbb46d3a7bbe6533108b65f90bd8a475bcec"
+    },
+    {
+      "version": "1.21.2-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-10-10T12:59:14+00:00",
+      "sha256": "4c4acdf5853903b56dcd0fbe67ef8f165fb75d833335121d1f07c3dc90c816c9"
+    },
+    {
+      "version": "1.21.2-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-10-08T13:22:12+00:00",
+      "sha256": "ecb1affe08dc2fbda4a0664537a6e56900dc1612dcdc6d610fef6794ebf07de9"
+    },
+    {
+      "version": "24w40a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-10-02T13:15:42+00:00",
+      "sha256": "5b77e88781ffd693f4da20c66e7d9b3b2f2996481ab59b98649d51ef7f445ab4"
+    },
+    {
+      "version": "24w39a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-09-25T13:08:41+00:00",
+      "sha256": "ae95a5e1912d96056bef77ab2ef116a24d4d586ec5a189a214e5d91cb30c91c6"
+    },
+    {
+      "version": "24w38a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-09-18T12:32:07+00:00",
+      "sha256": "c24a0b3aff265400928209b2e4e4fe82a86de89173e54139f7d723e0476bc41d"
+    },
+    {
+      "version": "24w37a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-09-11T13:01:31+00:00",
+      "sha256": "3760c9ed57fd3ad7ac89784dbb70e71f9842bd0419c76eca1b3508c7fac35626"
+    },
+    {
+      "version": "24w36a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-09-04T12:44:12+00:00",
+      "sha256": "41930295c86aaa609d697d6b903286e916e5df50c5dd76038f4d4cc416f4f45e"
+    },
+    {
+      "version": "24w35a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-08-28T12:25:10+00:00",
+      "sha256": "6690b1d18e1ec31e5de4a846c0a20cbd64b85c3160a7f71883d15c2fb578fba3"
+    },
+    {
+      "version": "24w34a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-08-21T14:14:13+00:00",
+      "sha256": "f5723137eed378066ffacc68430d70b2516c62298af344e7ba987420c26ab0a9"
+    },
+    {
+      "version": "24w33a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-08-15T12:39:34+00:00",
+      "sha256": "a695f2a1514e20a3a2a13d388b9b2d614aeab96b50597a10ceaf15339cb81e3c"
+    },
+    {
+      "version": "1.21.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2024-08-08T12:24:45+00:00",
+      "sha256": "35a95f6f1b2536bac34e4258207bb345d7e64cc91163f13e67cad70121d7cb95"
+    },
+    {
+      "version": "1.21.1-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-08-07T14:29:18+00:00",
+      "sha256": "f8055f04a22f608278f339b0e0f8975ea2e73f951363f796cec1f81a0e50e7b0"
+    },
+    {
+      "version": "1.21",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2024-06-13T08:24:03+00:00",
+      "sha256": "a421de5268c757e6b35a74164dfc82c3184d4ee163ef37cdabd9022cab7387a9"
+    },
+    {
+      "version": "1.21-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-06-10T12:24:08+00:00",
+      "sha256": "93fda6f841d875e9ce747e4f546f0ef0f760c27be1a75daa48d0bc0f53ea00d1"
+    },
+    {
+      "version": "1.21-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-06-07T12:00:15+00:00",
+      "sha256": "9eed083395b94d422e6b5638422d8237cf5647f75e66b816d5ccd7e16cd87176"
+    },
+    {
+      "version": "1.21-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-06-05T08:51:44+00:00",
+      "sha256": "0d55ef9ac22b7d8e73756cd833c068a790130b637ff3010949a0f64872be7ff2"
+    },
+    {
+      "version": "1.21-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-05-31T12:44:56+00:00",
+      "sha256": "0fbeb018bdf10e32a0492bc088f1162ffddd230eb6be9fabcb01009f80ce5df6"
+    },
+    {
+      "version": "1.21-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-05-29T12:04:43+00:00",
+      "sha256": "5b644e4f2e6308fcea7d2247dad3706778c99855abc474e6e7135326ed9bc547"
+    },
+    {
+      "version": "24w21b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-05-22T16:25:41+00:00",
+      "sha256": "ee811986386f010edb074eb52c507881902b1748bd56256486fc07a513ca61bf"
+    },
+    {
+      "version": "24w21a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-05-22T14:18:26+00:00",
+      "sha256": "268791bfd6ed130b8ddc103891a4f711541c6309b67ef2b6e5107f3daddc544a"
+    },
+    {
+      "version": "24w20a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-05-15T12:00:35+00:00",
+      "sha256": "58caadf5d6ed4cd6ed0f2fc75b933383df5ffdf3deb12fa4e185f7c77428acd1"
+    },
+    {
+      "version": "24w19b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-05-10T14:32:42+00:00",
+      "sha256": "8024449c680d0f8eadb8669ea2b6712fe2218b9571f5748828cc5e20c50d6399"
+    },
+    {
+      "version": "24w19a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-05-10T12:15:31+00:00",
+      "sha256": "676c1675ccf8dedde4e8a6f7a7f0cc51c142eb4c4ca65f48e674a40daac3d7a2"
+    },
+    {
+      "version": "24w18a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-05-03T12:08:27+00:00",
+      "sha256": "e48880c7dfd79870e828d4dff4e8cc4a2fea960294035bd2a0c22cfc217b65eb"
+    },
+    {
+      "version": "1.20.6",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2024-04-29T12:40:45+00:00",
+      "sha256": "c175a97d23cae28d23b2df85bb07eb21092d6053d6a05798caccfc90d60f8b9c"
+    },
+    {
+      "version": "1.20.6-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-04-26T10:12:17+00:00",
+      "sha256": "3a27d749cafaa9376623a4a9bace58ca723057043d803e6e5802745a71505646"
+    },
+    {
+      "version": "1.20.5",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2024-04-23T11:54:12+00:00",
+      "sha256": "21612e2c731e1f72205a00ee46dd796606eba8567575db66e56e4909de3c6c30"
+    },
+    {
+      "version": "1.20.5-rc3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-04-22T13:42:34+00:00",
+      "sha256": "a01cd7eae94261ce4da8619762fc3a7794d5975365e4c75b304d13fa5b5edc8d"
+    },
+    {
+      "version": "1.20.5-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-04-19T13:13:15+00:00",
+      "sha256": "ee0081a2bf40a59742913f7d9188b49c8b9ce8d41deb306cf568e8eddd767a54"
+    },
+    {
+      "version": "1.20.5-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-04-18T11:45:40+00:00",
+      "sha256": "2bb4db4fba3d6b444272bbbea32ad08d06f38f27a5167c3eb4480bfa225edbd6"
+    },
+    {
+      "version": "1.20.5-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-04-17T11:56:02+00:00",
+      "sha256": "30ba8111b351247d59326262a7812d2878a35a918adb9bf8bffcdb486b373ba3"
+    },
+    {
+      "version": "1.20.5-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-04-16T11:57:30+00:00",
+      "sha256": "a02453906ccb6f8419d53112c584d50132993fd2d4f9cc5a08dd16cc3eda92da"
+    },
+    {
+      "version": "1.20.5-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-04-15T12:36:05+00:00",
+      "sha256": "e6ef44089b7fdaf6dd92737779b36e13e0e080be669fd82d0899a2e4ea35a059"
+    },
+    {
+      "version": "1.20.5-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-04-10T12:44:25+00:00",
+      "sha256": "316be0a5bf82c166e1262f95c671dd08ad8b16c42ff6e777763b80d9c2f98a7f"
+    },
+    {
+      "version": "24w14a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-04-03T11:49:39+00:00",
+      "sha256": "f0cdbdf0e2a1802d9f329f5911bc6da7dcc134ed96dee51500369e8d9d4cf7a0"
+    },
+    {
+      "version": "24w14potato",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-04-01T11:07:19+00:00",
+      "sha256": "ce97463d3bd12e1cb4e0c0950261bb24cb8b86ad9796d69d75733ac9caee8673"
+    },
+    {
+      "version": "24w13a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-03-27T14:30:20+00:00",
+      "sha256": "df6282f8e584632eec763887da5589b746ec7f85d8d449f1d7e968f9a7b84b1d"
+    },
+    {
+      "version": "24w12a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-03-20T14:38:37+00:00",
+      "sha256": "c347384e0ecf0349061f6f34ae0f8e792de95ebcb86b17e7f0c12c5d3292260d"
+    },
+    {
+      "version": "24w11a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-03-14T14:21:33+00:00",
+      "sha256": "647a1086408fde16b3d83b6cf486a6b9e528a1ea32a48a947f2090b8d4d4797f"
+    },
+    {
+      "version": "24w10a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-03-06T10:37:35+00:00",
+      "sha256": "d6a04ca9df0bfcd74bcabb71bf3d359869c9b7b5939ff3ca923566eddecec828"
+    },
+    {
+      "version": "24w09a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-02-28T12:38:12+00:00",
+      "sha256": "e5e349fc92bf7e426c1a1f87ec0886155197722d14c42eaea001eb1ebabc0e22"
+    },
+    {
+      "version": "24w07a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-02-14T12:51:01+00:00",
+      "sha256": "af4b206715ec70e99186e9a1308c83d6c820a60d8bc3d6112aa07f9b67af82c6"
+    },
+    {
+      "version": "24w06a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-02-07T14:47:18+00:00",
+      "sha256": "66bc2187bfca5c347a7746fdce5785218406fd6f524213b4c95cd7267ff1396b"
+    },
+    {
+      "version": "24w05b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-02-01T12:55:14+00:00",
+      "sha256": "8ed3b1df23691013298d8910094248d5774c40cf28e6aab3ada4d26ced580589"
+    },
+    {
+      "version": "24w05a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-01-31T13:05:26+00:00",
+      "sha256": "4cab85af6bb7416c214d8a6beedf0398c77c7193ad16af1acf0fc42ca6aabe0e"
+    },
+    {
+      "version": "24w04a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-01-24T13:42:45+00:00",
+      "sha256": "54f00bf6da45c4405ae1f4d4e20dda0a2efbf93d2246ae5feb0b9767281ecc80"
+    },
+    {
+      "version": "24w03b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-01-18T12:42:37+00:00",
+      "sha256": "32953fb21723990c1222c2ad53db34b060d0d216a74545865865e5ef796ca6d0"
+    },
+    {
+      "version": "24w03a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2024-01-17T13:19:20+00:00",
+      "sha256": "ec0e6a5e2d456a75b281f8719af7aa25688231689f82a0ef16967c757e99d637"
+    },
+    {
+      "version": "23w51b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-12-18T15:39:14+00:00",
+      "sha256": "598b768c40a1fca16c1c87ca224c47ae4491654ef417286e081e67c166204dae"
+    },
+    {
+      "version": "23w51a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-12-18T13:36:46+00:00",
+      "sha256": "07bd154a00086f61f46d85d9b0ed3337e4dccaf9ad39c58b81905ef754bc5533"
+    },
+    {
+      "version": "1.20.4",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2023-12-07T12:56:20+00:00",
+      "sha256": "a7a64865d936aaa8f352f16f606d37edf8d728102b2097671ee553cbcf7cf44f"
+    },
+    {
+      "version": "1.20.4-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-12-06T14:38:01+00:00",
+      "sha256": "b2e25067d8e71cf05f84d063e1f7b41f01b457ce5d379feb40c8ea5fb5e664e8"
+    },
+    {
+      "version": "1.20.3",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2023-12-04T12:10:32+00:00",
+      "sha256": "6cb41b06e89b99830954a9c52ad935f076d5d350a885b2ebe23521e801493010"
+    },
+    {
+      "version": "1.20.3-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-11-30T13:41:45+00:00",
+      "sha256": "57314d89d66209e9601e41b8e52afb4fd77aaebec0eef98e39be0282b2f4a0fe"
+    },
+    {
+      "version": "1.20.3-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-11-28T13:47:32+00:00",
+      "sha256": "f1a98f6ea07709f1dfefad3212623c9f429c55c9d1329ac5a3ea4409fb5cf2fa"
+    },
+    {
+      "version": "1.20.3-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-11-27T14:24:36+00:00",
+      "sha256": "22ab47b600c034563d34b2ca7ab9d189cedf7847059615b10e13040eb7ba1f8e"
+    },
+    {
+      "version": "1.20.3-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-11-22T12:21:26+00:00",
+      "sha256": "c10b2af3981230ff54babefde4641f90feed487b986d7f3017be6166d17bfb7a"
+    },
+    {
+      "version": "1.20.3-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-11-20T15:40:14+00:00",
+      "sha256": "735e414eaf3e5d6653b03a8456b6e9fdc59a0194b2073321f4e0289cb6f4906e"
+    },
+    {
+      "version": "23w46a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-11-16T14:11:33+00:00",
+      "sha256": "3954b871e9f48dc0d276dc57706d13aa264437e19eb97cb5d1087e661c47cfe1"
+    },
+    {
+      "version": "23w45a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-11-08T13:59:58+00:00",
+      "sha256": "8cf9a979a2eccf13d9a57ddaa1a0f658532ea8e891bd79c37314b392e4c7b5b7"
+    },
+    {
+      "version": "23w44a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-11-01T12:30:52+00:00",
+      "sha256": "cf6ba7181f83136858adc73c6d0b85c9f11ab7b56b0d62ccccfba336ba15da02"
+    },
+    {
+      "version": "23w43b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-10-26T13:46:16+00:00",
+      "sha256": "b560799a2ca3e9d22789e74fc07619d72e506f5e233878efd1cdd1dcc3053f1c"
+    },
+    {
+      "version": "23w43a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-10-25T13:34:37+00:00",
+      "sha256": "e135398900662d9dd61f96f7fe22e982d9fa3dff0022e26ae1b7d24edc004ef6"
+    },
+    {
+      "version": "23w42a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-10-18T11:37:28+00:00",
+      "sha256": "1b0de28ef6b4d51b91a1381707b75f17d0b08de09827cc5acd105d7bf733b831"
+    },
+    {
+      "version": "23w41a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-10-11T12:32:46+00:00",
+      "sha256": "4a8759054e18423ba022f266e805b92c6dd23a8949748993ec7fe1e81d031417"
+    },
+    {
+      "version": "23w40a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-10-04T12:48:53+00:00",
+      "sha256": "d2d66474f049015dc21cf7e5a2ce9aaf37bd2f195dda2935389a3fc85d8a4e48"
+    },
+    {
+      "version": "1.20.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2023-09-20T09:02:57+00:00",
+      "sha256": "1f2e3f0db3559b0114bc0cb96c20b4f7c5eb80eb9cfdc850fad2634a443276f2"
+    },
+    {
+      "version": "1.20.2-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-09-18T12:34:57+00:00",
+      "sha256": "ad775805402b604f07e7760e8cd45be0bfd3de105a4db6cf804078ae54cfb554"
+    },
+    {
+      "version": "1.20.2-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-09-15T13:10:30+00:00",
+      "sha256": "e24f64dc19e289158e18851dc4a4a6050bc2a299fe63e81464056b2ecb0d093a"
+    },
+    {
+      "version": "1.20.2-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-09-13T15:06:51+00:00",
+      "sha256": "0e63dc1726ade66c86eb9b47d138a57424bf6ab278877042756914ca0c30c348"
+    },
+    {
+      "version": "1.20.2-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-09-12T12:15:08+00:00",
+      "sha256": "01819ca4b24ad8f24882a3f6ef3836672fa9d71d6af8e6a598e96330821e136c"
+    },
+    {
+      "version": "1.20.2-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-09-07T12:42:32+00:00",
+      "sha256": "c62e056d4e1fe56aa2e911c3ac581d9d8b4d25b969afd7c27f34a9d9a0ce1137"
+    },
+    {
+      "version": "1.20.2-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-09-05T12:06:20+00:00",
+      "sha256": "e855e32720aba7ceaee6cce3ef91ff0a5b6557c7716c3596f6ff2a1faea4b7c7"
+    },
+    {
+      "version": "23w35a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-08-30T11:24:35+00:00",
+      "sha256": "7828ac528a262e8add1076bbf0caeac1cc9df88312e5e70ad22a8f345f218d4d"
+    },
+    {
+      "version": "23w33a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-08-17T11:39:08+00:00",
+      "sha256": "364610de2f3630cc9f8aeb69cf7c71756b784c55617e000ca74476ce4396ff60"
+    },
+    {
+      "version": "23w32a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-08-09T12:14:25+00:00",
+      "sha256": "240ac8453124a7e3c479052e40d9b6d0fd101b2e5a78422dbaae64354a18da1a"
+    },
+    {
+      "version": "23w31a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-08-01T10:03:13+00:00",
+      "sha256": "fbe035a23474a186ef0930b63537ba0f1d39fb5e4db1ae23b74ae1c9d7e7a5c4"
+    },
+    {
+      "version": "1.20.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2023-06-12T13:25:51+00:00",
+      "sha256": "6f2241c3666a56da7689d8c607a21ffd258569a0ff455882316a9c4cd804b6bd"
+    },
+    {
+      "version": "1.20.1-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-06-09T14:15:49+00:00",
+      "sha256": "bb78921feb30a00241f8f7beeeb669fc6194bf4ff3cd2d1acb8c13a8352c493f"
+    },
+    {
+      "version": "1.20",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2023-06-02T08:36:17+00:00",
+      "sha256": "3c4ed231b630ec536c65eea4c5e6dbb1d48f36a73e7b942c25c616a3e58fe341"
+    },
+    {
+      "version": "1.20-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-05-31T12:33:33+00:00",
+      "sha256": "5c8636076f410927e33ed0fa3f2333a597c6c150a3bd242ac86859d76285319b"
+    },
+    {
+      "version": "1.20-pre7",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-05-29T13:44:34+00:00",
+      "sha256": "4585db92e11189652d79069025d0927544d65357c2adb1d3da3a718d783be75e"
+    },
+    {
+      "version": "1.20-pre6",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-05-25T12:22:00+00:00",
+      "sha256": "518a33af7724f96c36819860e5e12e90804506f0e970f3d5656fa4bc4de3ef1b"
+    },
+    {
+      "version": "1.20-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-05-23T12:22:52+00:00",
+      "sha256": "e867806137e6ee73f75df8e0f75f50c5e7788dd1a884d08e24349355e74aadcf"
+    },
+    {
+      "version": "1.20-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-05-19T13:13:45+00:00",
+      "sha256": "b759f9b8191a9743351e8355d3e6599bc7c316e3a52280f8ac5b0810aed87413"
+    },
+    {
+      "version": "1.20-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-05-19T11:39:46+00:00",
+      "sha256": "40b8670f78a3c1db3b2985e77a0e51f5759993519620aad576874377be89612a"
+    },
+    {
+      "version": "1.20-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-05-16T11:34:54+00:00",
+      "sha256": "24ea1ac3bb1b50215bac6670f1bd5529cdd306a239f1f86e9cf70504a31ef25a"
+    },
+    {
+      "version": "1.20-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-05-10T12:19:34+00:00",
+      "sha256": "90240d9275f2340a95408c408f7b6bf436fc0794f8145c956952b8ac4c5f7351"
+    },
+    {
+      "version": "23w18a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-05-03T11:29:26+00:00",
+      "sha256": "853997e029010bbfc3a55dbbbc38f1866188bdbdd4d046b008f6f53b0c05ee1f"
+    },
+    {
+      "version": "23w17a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-04-26T12:09:48+00:00",
+      "sha256": "b3230a35d04bdf06b14e3483ea59288eeebb2d444481c32a267d4acc07da4207"
+    },
+    {
+      "version": "23w16a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-04-20T11:55:19+00:00",
+      "sha256": "8a1b6911dde50c5a12e084ac8671de2d7b820b94395093e0ce38d45923aff741"
+    },
+    {
+      "version": "23w14a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-04-05T12:05:17+00:00",
+      "sha256": "a49a062c40c9a5f602dc80d446e0b6390f2f5f0751e508764188cffe8564b963"
+    },
+    {
+      "version": "23w13a_or_b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-04-01T12:52:18+00:00",
+      "sha256": "23da1065bee5d234f20285de4124bc9dafb56a6ef2c04a24316794db0b3470f1"
+    },
+    {
+      "version": "23w13a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-03-29T13:54:16+00:00",
+      "sha256": "04edb45d9fd0a63ca29f32ecc6152d3e86bc89ee72fb66d3da096d021f6d7077"
+    },
+    {
+      "version": "23w12a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-03-22T13:28:42+00:00",
+      "sha256": "12bfbf0c5a746242d6d381f77a6f803273a9f197f2ef122c50dea99c84ede008"
+    },
+    {
+      "version": "1.19.4",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2023-03-14T12:56:18+00:00",
+      "sha256": "6f856a2f57f639481499b297cd70f0aef89729a785f6f78526580099c0e33492"
+    },
+    {
+      "version": "1.19.4-rc3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-03-13T10:03:11+00:00",
+      "sha256": "dd0d89c3917e085dcc651d125fee837109ec94e65cccb46e68170e2aac09c2aa"
+    },
+    {
+      "version": "1.19.4-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-03-10T12:42:54+00:00",
+      "sha256": "9c34fb9df2705b19f98c644e07f42ac27f3509ba0ddb0f219216bd0d58b573ed"
+    },
+    {
+      "version": "1.19.4-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-03-09T14:35:50+00:00",
+      "sha256": "a0321121948af577287a345e32167d8ccad6bc7561ae14f5982ba54d6cee53e4"
+    },
+    {
+      "version": "1.19.4-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-03-08T13:08:22+00:00",
+      "sha256": "520eaa499599749a031601593c1c95a33702f0e565638ff9b1b1ba6171f96340"
+    },
+    {
+      "version": "1.19.4-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-03-01T14:11:05+00:00",
+      "sha256": "56a5678f6f05e52fb735d0c0af633f858dd9556b7b6946a59ed8e8bc89aad0f2"
+    },
+    {
+      "version": "1.19.4-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-02-27T13:38:53+00:00",
+      "sha256": "5493ad61558f875bbc61bb75f4791f49ef792d09670fb4925020007932697c26"
+    },
+    {
+      "version": "1.19.4-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-02-22T16:00:34+00:00",
+      "sha256": "e9247dbb7e0c33ff8a9d8c76d9e25e950958be65b3dd1daa0e78b14c5875f065"
+    },
+    {
+      "version": "23w07a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-02-15T14:32:29+00:00",
+      "sha256": "c3d05048cb5c46fcc103f897f4e018e279840371d5eac30faaeec3a02edf382f"
+    },
+    {
+      "version": "23w06a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-02-08T15:00:04+00:00",
+      "sha256": "b203f6d54f632b2783992baa132314d64a720dc9e884289ca839055d2a047ab5"
+    },
+    {
+      "version": "23w05a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-02-01T14:20:33+00:00",
+      "sha256": "f9d4443034efe03bebed60ac0f55f44a44f68e41c0c1fda201d92d00ba720bf6"
+    },
+    {
+      "version": "23w04a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-01-24T15:19:06+00:00",
+      "sha256": "c264816910c216a215ebbc83b2524c00bcfaeacb00aaf97ae89bc9986062c4a6"
+    },
+    {
+      "version": "23w03a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2023-01-18T13:10:31+00:00",
+      "sha256": "f1e471f5787378341dc313f40585c257e899e6cc7ff27d1a7b1bd37dd3340a1e"
+    },
+    {
+      "version": "1.19.3",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2022-12-07T08:17:18+00:00",
+      "sha256": "c3b99f70e548db0b400ddbe2a96a707268ea7260ff83ec1788897a0e3f82a006"
+    },
+    {
+      "version": "1.19.3-rc3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-12-06T10:24:01+00:00",
+      "sha256": "b397bfce39838ce196b06dd67bde2966369d47edf9372f5fbbb4157ef86040bc"
+    },
+    {
+      "version": "1.19.3-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-12-05T13:21:34+00:00",
+      "sha256": "f7a98126c98909a97d6d70df7767afc92d933481e09635292481373b0964d71c"
+    },
+    {
+      "version": "1.19.3-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-12-01T13:45:18+00:00",
+      "sha256": "1091292d0648a9fb6de7f0b31beb335ac3e7313c043ccf5363e73a4dc0c9fe77"
+    },
+    {
+      "version": "1.19.3-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-11-29T14:28:08+00:00",
+      "sha256": "46b6a4cf3b29ec773ab2af46634db04fe938523a8dcb61baaff22f88040168d4"
+    },
+    {
+      "version": "1.19.3-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-11-23T16:12:25+00:00",
+      "sha256": "76ef0dd5098371d37abe2f9a111f27407fcd4f8af691dc729d918c407861002a"
+    },
+    {
+      "version": "1.19.3-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-11-22T13:59:37+00:00",
+      "sha256": "fb9d8a013d3c0aa53807ab1ccccda293485466473918043cc6dbb5a422a47e51"
+    },
+    {
+      "version": "22w46a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-11-16T13:32:50+00:00",
+      "sha256": "040413d33580abb702dcd1757a5bc5a4d98542e9a998801b73f0189e5188af77"
+    },
+    {
+      "version": "22w45a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-11-09T14:30:16+00:00",
+      "sha256": "338aff447138613ef3dfca3062eac7b5f82a7c3b5368c3573fa7322fcc4fd825"
+    },
+    {
+      "version": "22w44a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-11-02T13:15:43+00:00",
+      "sha256": "81be33c98a200a30943cd619591ef7ca6dd485e9a9cd118d22b9657bff97621a"
+    },
+    {
+      "version": "22w43a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-10-26T11:55:59+00:00",
+      "sha256": "28bf7013f1ea375e2ace853aebdeec03cc1738195efd6d26920046691502cea9"
+    },
+    {
+      "version": "22w42a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-10-19T09:34:22+00:00",
+      "sha256": "e6ae4025f6a839bef5730770f4112e11436acbaf8829ef16be82c20bbde6af30"
+    },
+    {
+      "version": "1.19.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2022-08-05T11:57:05+00:00",
+      "sha256": "42f1fcf469895721bb7cda2577ee987e8f1020960f4a812a57ad33c8f64337e2"
+    },
+    {
+      "version": "1.19.2-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-08-04T15:19:44+00:00",
+      "sha256": "d71863694367aa3b58728c5a3d653e772774b8e86ef124e8743eb1e01a486e12"
+    },
+    {
+      "version": "1.19.2-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-08-04T10:07:26+00:00",
+      "sha256": "bc9b10bd3a00d40f327b947b7056b2b4e17e3c61f331539efc7322142554d1f9"
+    },
+    {
+      "version": "1.19.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2022-07-27T09:25:33+00:00",
+      "sha256": "06ae256946004ad581313ac46157a2cb1bc26517c0acb23218d1184eb40a3b86"
+    },
+    {
+      "version": "1.19.1-rc3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-07-26T15:34:35+00:00",
+      "sha256": "7c1d33f26ff3c9bee0b92735a1d9cbb79c3b36f277972b08bdcf358680f7a1e1"
+    },
+    {
+      "version": "1.19.1-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-07-21T16:25:50+00:00",
+      "sha256": "2c6cb7640a04248ce9511984c593be842113e6ec806df88c53756d6b8be9a088"
+    },
+    {
+      "version": "1.19.1-pre6",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-07-20T15:49:31+00:00",
+      "sha256": "7ed229049146bfb517744501472ac1a346a7db67d30fa17c8eb95c03c0cba550"
+    },
+    {
+      "version": "1.19.1-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-07-15T11:51:44+00:00",
+      "sha256": "c59655108ec9ee3e88f70c8e6e7e71f71369da5d761964dadaf2687ad9196a24"
+    },
+    {
+      "version": "1.19.1-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-07-08T11:41:59+00:00",
+      "sha256": "78c66db24f22ddcb59cfba0e70fc6da11f9388b90f95f265c70c49b35ef92448"
+    },
+    {
+      "version": "1.19.1-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-07-06T14:50:46+00:00",
+      "sha256": "3faac0ff1d1127b8668ddd494c33c9faed961f56fabee93184b3518d78ed71fe"
+    },
+    {
+      "version": "1.19.1-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-06-30T15:57:20+00:00",
+      "sha256": "5ac7ae11e531c018ae9fe8d656b92b32650250aeba64bc3560f57cf6f39abc8c"
+    },
+    {
+      "version": "1.19.1-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-06-23T16:32:41+00:00",
+      "sha256": "33443a6de0bbff6bfd395e476319a430bf2e371f79ed7e5701256605fbcdc99c"
+    },
+    {
+      "version": "1.19.1-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-06-21T17:13:59+00:00",
+      "sha256": "d3435294306e9aba9494bdf8f39ed345cd370d7c73831b88ec452e223283ecae"
+    },
+    {
+      "version": "22w24a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-06-15T16:21:49+00:00",
+      "sha256": "151ee27d76be5468adec843bc337163bcdea10d6d2fceebbefd9287455114978"
+    },
+    {
+      "version": "1.19",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2022-06-07T09:42:18+00:00",
+      "sha256": "5453cf6a25657e1f6fd5761b016af692c90c8ae76fa439a7ce7db1e43b7aecd2"
+    },
+    {
+      "version": "1.19-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-06-03T11:47:25+00:00",
+      "sha256": "c73d14bca82f2b69fc6247de2c1d02a296662a477faff237bdd11a7b00961bda"
+    },
+    {
+      "version": "1.19-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-06-02T12:12:52+00:00",
+      "sha256": "5c5b16f36cdc643a7002c0aa4ea085ee8407d8c3a620bf8ecaaa05ac67f1ff02"
+    },
+    {
+      "version": "1.19-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-06-01T10:56:23+00:00",
+      "sha256": "b38b39f0291bf1d4f35ad101f8625cf46ff9a19381de8ded727e70e5e52d4178"
+    },
+    {
+      "version": "1.19-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-05-30T14:43:01+00:00",
+      "sha256": "4e625c22d6a6413d44dc9e71583219b0ded70afd4ece609f38d13f654a06cb2a"
+    },
+    {
+      "version": "1.19-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-05-25T09:56:47+00:00",
+      "sha256": "b7861e1ff02ce7b1a62702878152a664055cd2de9f0803e390a0468e2813417a"
+    },
+    {
+      "version": "1.19-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-05-23T14:54:00+00:00",
+      "sha256": "dc79888177d37686b5dab72d87c3b515801ca25132913384c17102165a74279f"
+    },
+    {
+      "version": "1.19-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-05-18T13:51:54+00:00",
+      "sha256": "d83379c58f27767e27075062facb3da5afc1caf3f0a1382293b6772aacc96f0e"
+    },
+    {
+      "version": "22w19a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-05-12T15:36:11+00:00",
+      "sha256": "676d895bc5fc790375ae84a4a8749cf2412d719493812bbb7b01812c85a9ef99"
+    },
+    {
+      "version": "22w18a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-05-04T14:41:35+00:00",
+      "sha256": "44463ed90f190e887245a19c2c824ea2d2aa1f11c5613372becd8c371aa9e736"
+    },
+    {
+      "version": "22w17a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-04-27T15:54:15+00:00",
+      "sha256": "e8ed40cb8deb0bcbcccdda44288a08daf88b018acbbe76aedb856c9eadaed9b1"
+    },
+    {
+      "version": "22w16b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-04-20T17:25:32+00:00",
+      "sha256": "b9cba19f43eca4c348f2c376cdea5e62424cb3ec84ad47605d8755d6a6a1a12a"
+    },
+    {
+      "version": "22w16a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-04-20T14:37:07+00:00",
+      "sha256": "269ede57f3cb3743842eb0af995c94ef2e42cb725853ef2387b49e4598e0db97"
+    },
+    {
+      "version": "22w15a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-04-13T15:41:17+00:00",
+      "sha256": "2a5e844f6afa3630b39337f8fa2283cbde090bbef8624b9d72b8170682c95885"
+    },
+    {
+      "version": "22w14a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-04-06T13:37:12+00:00",
+      "sha256": "48938b8f33b12a2f2a40086977ebf277396734736491ff98f4ed0efc7bbde1bd"
+    },
+    {
+      "version": "22w13oneblockatatime",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-04-01T11:56:58+00:00",
+      "sha256": "6420277712fac5113cf6e8f1d35c0ffdc9015bb581d6d00c39798af516abc8f4"
+    },
+    {
+      "version": "22w13a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-03-31T14:53:25+00:00",
+      "sha256": "ceb00093bc4aca840c43815587e20bff045983ac3cd5f1e194e706d774398cb3"
+    },
+    {
+      "version": "22w12a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-03-24T16:15:02+00:00",
+      "sha256": "3127950769d2a147dae4b0e43f5973a3a425122c4892d7ae9a9d6a3bd5486a3f"
+    },
+    {
+      "version": "22w11a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-03-16T15:55:38+00:00",
+      "sha256": "bec73394e8c24aa3f0b11915721b2ea12aef4bd479bf31cd366d43b4e41d197c"
+    },
+    {
+      "version": "1.18.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2022-02-28T10:42:45+00:00",
+      "sha256": "388ac5902126eabbc64c70109ad5287e4082b1ed142d7d76561ce48f2fd2b817"
+    },
+    {
+      "version": "1.18.2-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-02-25T13:25:40+00:00",
+      "sha256": "6b629170d80c83e675fcaa48600d7663f3f5d41c5808c4ef5934f540722da5a8"
+    },
+    {
+      "version": "1.18.2-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-02-23T15:23:12+00:00",
+      "sha256": "a651ef18af1294e57a37ad25af3ce45d3246bba6afaef44db608615876335fc9"
+    },
+    {
+      "version": "1.18.2-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-02-21T15:26:19+00:00",
+      "sha256": "340fd13c5c7769edaeaac66125219e6d1d20d94fe6e7ef124c7326fe309e4010"
+    },
+    {
+      "version": "1.18.2-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-02-18T16:00:32+00:00",
+      "sha256": "059be0c1ac871f7ef4d3fda31294ea41968bdcc9631efa71912758eac3630f2f"
+    },
+    {
+      "version": "22w07a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-02-16T16:13:58+00:00",
+      "sha256": "b4e7452334295be9ff4fbc6521e507717ac8212ae8743af06564150336d69a53"
+    },
+    {
+      "version": "22w06a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-02-09T16:47:48+00:00",
+      "sha256": "9a7bcd5438dcf7c0e3164efbdec6b419063d2988589e16bdcb507b37dc4c89a5"
+    },
+    {
+      "version": "22w05a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-02-02T16:08:39+00:00",
+      "sha256": "2d12b16e4fd4e361b6573fb4122e99efd98474fcddc812d182c9aa56c3eef87a"
+    },
+    {
+      "version": "22w03a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2022-01-19T16:04:59+00:00",
+      "sha256": "ce619026867601c2fedb8ee5b8c29cd07321dc7be2f085c34ca28d2e4bb3f2eb"
+    },
+    {
+      "version": "1.18.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2021-12-10T08:23:00+00:00",
+      "sha256": "510e2e021eb1622ea92bd3f97d77a1a8303414d1d9c263363056454abf3ea48f"
+    },
+    {
+      "version": "1.18.1-rc3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-12-10T03:36:38+00:00",
+      "sha256": "50e51fe58753044c3d26ece432ea1321d54a240a10270ad9394a1c2484756ca9"
+    },
+    {
+      "version": "1.18.1-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-12-08T12:29:36+00:00",
+      "sha256": "991322fa43c4292e352f940efefc170936709911fe8824c758a9baeaf63b8f00"
+    },
+    {
+      "version": "1.18.1-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-12-07T15:52:47+00:00",
+      "sha256": "49f260fe5dc1bdbe9fe6efab6f00bdd6866e9083d16c99a7b288c8ea795a32e6"
+    },
+    {
+      "version": "1.18.1-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-12-03T13:45:38+00:00",
+      "sha256": "a997be961c2e5ce6f52302701fb1b5528f0d82c97f354a4213a3443037483cc5"
+    },
+    {
+      "version": "1.18",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2021-11-30T09:16:29+00:00",
+      "sha256": "a8f944934c4ad580d0f17bfeab89015c5cec371273504e08138adf5104e6a3e3"
+    },
+    {
+      "version": "1.18-rc4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-29T13:43:42+00:00",
+      "sha256": "31b37d236714d704d4f3eda2ac27c884cb7ff41b67cabf9d36b305dc9be620ee"
+    },
+    {
+      "version": "1.18-rc3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-26T15:51:56+00:00",
+      "sha256": "8c5f1d66d78e79b0a38cc8721ce7a67972abbd54dbfb75c9fab44b9b78aa4632"
+    },
+    {
+      "version": "1.18-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-26T10:02:04+00:00",
+      "sha256": "0cefeac0101fa44838ae5c2529348ad49e6c5a1679f52673d8fc62cb504c493b"
+    },
+    {
+      "version": "1.18-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-25T14:28:49+00:00",
+      "sha256": "400c801c9a94b8af67998e6c5467d78d44a3f250f787a1ce8c7be634e62f2a2b"
+    },
+    {
+      "version": "1.18-pre8",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-24T14:57:32+00:00",
+      "sha256": "f98712ff4fd9c518200b38bb4afc0fd118cec21a490d138cec93dd4aafecfe18"
+    },
+    {
+      "version": "1.18-pre7",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-23T16:37:41+00:00",
+      "sha256": "5e39bbb5b7eb2c78b86f8da64996207f98e1be049d9e35a394132cbe9ae4dc67"
+    },
+    {
+      "version": "1.18-pre6",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-22T17:09:05+00:00",
+      "sha256": "8fc51462fdb7a902694e30e2b01a681315c01a33c8ae99a40172fa06b062a162"
+    },
+    {
+      "version": "1.18-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-19T15:47:09+00:00",
+      "sha256": "a3df200aec43859aad1c99bf61097c3187ed4266e2cd81db7d9a33639e111d5f"
+    },
+    {
+      "version": "1.18-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-17T18:07:56+00:00",
+      "sha256": "b73b8a9e2c5a726ebe245ac105d27ff9379b7871ebcb6b0ee320eb33eec655a4"
+    },
+    {
+      "version": "1.18-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-17T16:04:25+00:00",
+      "sha256": "bfbf7da59cdafae8019ee70f6c75b69854319bc826ca3d97823a57c8141f5bc3"
+    },
+    {
+      "version": "1.18-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-16T17:04:48+00:00",
+      "sha256": "a9a2917715808a16bc4634ba3c7f9185342878e9546b0aed2fda5e6fcad1af7e"
+    },
+    {
+      "version": "1.18-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-11T16:14:06+00:00",
+      "sha256": "1c12dbd9830e15062feda8dc2c9cd20cbeb9e09e999c01fb5e09e437a3a9d4ef"
+    },
+    {
+      "version": "21w44a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-11-03T16:14:34+00:00",
+      "sha256": "08a826c3444dd1726b51129126345e1c749d3bfa3731265e755fa6ac0bebe207"
+    },
+    {
+      "version": "21w43a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-10-27T14:38:55+00:00",
+      "sha256": "346585537b27d4178e1cc1ff0128cc5b4f89d710d50962335e8dac010b19bf4a"
+    },
+    {
+      "version": "21w42a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-10-20T12:41:25+00:00",
+      "sha256": "3ac53bf35831769e678a06764aeb53b1e8ead5c7579f793d9e04d134177257a1"
+    },
+    {
+      "version": "21w41a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-10-13T15:23:23+00:00",
+      "sha256": "4c5e13ee35f359771c343c5605f80ba479b0a9ba46ff9c515ee5e648361e2680"
+    },
+    {
+      "version": "21w40a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-10-07T11:17:50+00:00",
+      "sha256": "c0ca32116c173923345f5021eded19e4bd84fa83f70a92b547c7e60a6e877bb2"
+    },
+    {
+      "version": "21w39a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-09-29T16:27:05+00:00",
+      "sha256": "36bd3a57a57a9adfcc94f8078999b39be9e2be53b5c3bacc5c78b68263da27ba"
+    },
+    {
+      "version": "21w38a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-09-23T14:36:06+00:00",
+      "sha256": "3519d18f77863482ad71a026f49fffc2099b77ccd9e68daf9509bc86f646452d"
+    },
+    {
+      "version": "21w37a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-09-15T16:04:30+00:00",
+      "sha256": "8430c3b3ee78879b0a1ba89d94d9c10af60653be2a125845131eaf96d4a74454"
+    },
+    {
+      "version": "1.17.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2021-07-06T12:01:34+00:00",
+      "sha256": "7e419e4c5c12494928eed0608e439a8132bd51b126aed5e6db9beec7dc40a82d"
+    },
+    {
+      "version": "1.17.1-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-07-05T12:58:01+00:00",
+      "sha256": "3fd7bcc343b6a7ae96611ba6a959def49e7124ba95725c1665b321dd8ceb8dbe"
+    },
+    {
+      "version": "1.17.1-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-07-01T15:23:37+00:00",
+      "sha256": "8836114428f2d326b5b4b7794f223fa2b4bbaf3aa99b781c5d7678f92d3cbce1"
+    },
+    {
+      "version": "1.17.1-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-06-30T15:43:16+00:00",
+      "sha256": "0a0039f84bbdaa0bf01ba87fa2c025e5d5e623a99f16c65b4c37564d2ab55b4d"
+    },
+    {
+      "version": "1.17.1-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-06-29T15:14:12+00:00",
+      "sha256": "a480130cccee5d5b25b8b71e4b5e4af8edecca0bb8a50836741a054bdb8c4578"
+    },
+    {
+      "version": "1.17.1-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-06-18T12:24:40+00:00",
+      "sha256": "405cd8c6d6dc2edf6ba1270f55cb3518d6d6f38acd61b8ae449b421b9dd6571c"
+    },
+    {
+      "version": "1.17",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2021-06-08T11:00:40+00:00",
+      "sha256": "5883e19e6ac255db12dde30386fc9224978ad8729aea93345d6a249cd909e5d3"
+    },
+    {
+      "version": "1.17-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-06-07T11:46:28+00:00",
+      "sha256": "09acdbe86f27e0b0d58598e763d78077d519c55ac668821bf180248cf27d105e"
+    },
+    {
+      "version": "1.17-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-06-04T13:24:48+00:00",
+      "sha256": "9468f88716134e6325aeafc8a257b29751618534d99a7e90030c0f3c56773661"
+    },
+    {
+      "version": "1.17-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-06-03T17:01:28+00:00",
+      "sha256": "05707d8436f1c39331442c5159716d7f4f9bc4f4024ff86b34ea00762ca0dfbf"
+    },
+    {
+      "version": "1.17-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-06-02T16:15:43+00:00",
+      "sha256": "7e1f16212b9c28ed6b88676d648381bba9a687c5decff84d40596439263d2166"
+    },
+    {
+      "version": "1.17-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-06-01T15:43:46+00:00",
+      "sha256": "6b0633c2ddfcaaf630c81eb97684060bd5521eaea081818db07ba060b1de56df"
+    },
+    {
+      "version": "1.17-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-05-31T15:54:05+00:00",
+      "sha256": "7bebed2fd03631fa19993df482a7a4b85533da2f1e41c880cb60f66e20c2f4f7"
+    },
+    {
+      "version": "1.17-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-05-27T09:39:21+00:00",
+      "sha256": "19ca3e2c64b40a90e1294e5d51a3509ef38a17b8c8a15f1c8c7dd186213ac105"
+    },
+    {
+      "version": "21w20a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-05-19T15:22:02+00:00",
+      "sha256": "0306e646b9afad8e4d5af4e905686c1732ffb59026114fe2ec87942544df6724"
+    },
+    {
+      "version": "21w19a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-05-12T11:19:15+00:00",
+      "sha256": "5773282d5f869ee814b5fbaba9014973c6555c3ae35c1f4368cba8674e282ef6"
+    },
+    {
+      "version": "21w18a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-05-05T15:24:35+00:00",
+      "sha256": "31d688c7c9ad6416b53d1588b3f356d2f72e8592a7edd880d2dc2dde3e62c59d"
+    },
+    {
+      "version": "21w17a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-04-28T13:54:05+00:00",
+      "sha256": "da8e2c388eee0146d7b4c4f4e606ebf66b1744dcc4c79354650e84d0261eaf3c"
+    },
+    {
+      "version": "21w16a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-04-21T16:41:14+00:00",
+      "sha256": "d2d8c31b314fff0d81ea0f8be6d1ef4411aef2cfbf3fd83ae0f135f74ccd28c9"
+    },
+    {
+      "version": "21w15a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-04-14T13:41:34+00:00",
+      "sha256": "65ab8694586267cb07486e7dded77bd3732d8eb49ecf16849b4cb8d3fb2541bd"
+    },
+    {
+      "version": "21w14a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-04-07T14:04:09+00:00",
+      "sha256": "adcd00c42066883a19e5f931800baafb21322504adc467d4781dc59662f98a84"
+    },
+    {
+      "version": "21w13a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-03-31T16:17:46+00:00",
+      "sha256": "3b25c6cb5f1dc744285a54fab3bd19b69d6ca7ebe9f7368718018b7d6c31b6ef"
+    },
+    {
+      "version": "21w11a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-03-17T15:05:50+00:00",
+      "sha256": "2e9f7e83c04280930da7337c294ae587d09be083893866754359f68f8c6ffadb"
+    },
+    {
+      "version": "21w10a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-03-10T15:24:38+00:00",
+      "sha256": "09776ce0bd5426cd2bff6eda1a4c0b9664a6cae23a8182ea98378c5460cb294a"
+    },
+    {
+      "version": "21w08b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-02-25T11:46:34+00:00",
+      "sha256": "56b9fc967bf23411ef40a63990802fae7be41a14ed0484860b759cfcb392a93e"
+    },
+    {
+      "version": "21w08a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-02-24T14:38:51+00:00",
+      "sha256": "7369d98e5f8da117eaa69aaf927f6720b0e497f75d7c41d0c2d0789828422cc7"
+    },
+    {
+      "version": "21w07a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-02-17T16:35:40+00:00",
+      "sha256": "280215d4edc4d57023c6e1958a4090eb4b5061cd0cda3f467f3320b5ed31c0f9"
+    },
+    {
+      "version": "21w06a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-02-10T17:13:54+00:00",
+      "sha256": "9940ecb6f28ac881dca37fdae7a892fc261f2527501d75d4ea79a070e4d7b828"
+    },
+    {
+      "version": "21w05b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-02-04T15:09:29+00:00",
+      "sha256": "a0b431a8b30174e3ca3b66dcaf3263fdc7d20d7a53b03ebac090d33e9e28a032"
+    },
+    {
+      "version": "21w05a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-02-03T15:56:54+00:00",
+      "sha256": "b4148568c9c15bf0ade677135462fa2122627481ad6a666be2df4a58b0387d3c"
+    },
+    {
+      "version": "21w03a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-01-20T14:56:29+00:00",
+      "sha256": "c37f3cc89be426d6372670dbb27522e61bd1d6edb15d42adc536e0a1b7eefc6a"
+    },
+    {
+      "version": "1.16.5",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2021-01-14T16:05:32+00:00",
+      "sha256": "ca8259acd05d71753edb285978e750619d593fcd8e29ce8946fc41e98a9dcbb9"
+    },
+    {
+      "version": "1.16.5-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2021-01-13T15:58:55+00:00",
+      "sha256": "1112d180019dac4ee156508fad261778a01d2c1675f7433b79644de94336abed"
+    },
+    {
+      "version": "20w51a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-12-16T16:27:57+00:00",
+      "sha256": "3aefea957a64502ce503d0c3ad5b2e32f3a451e564cc2ee9499a1ac109138abd"
+    },
+    {
+      "version": "20w49a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-12-02T16:47:20+00:00",
+      "sha256": "4fd92cffd395a560a6c0b5f5752a0ebe9db99963fc5a32535efad31a8a4f3c35"
+    },
+    {
+      "version": "20w48a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-11-25T15:42:24+00:00",
+      "sha256": "03176486b449608942aa5013ee01d6f173605baa0d068e665f2369d3385c6b7c"
+    },
+    {
+      "version": "20w46a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-11-11T15:30:32+00:00",
+      "sha256": "50385b824b95db5833a0064406ee6591e1f6bad068f938c3be4e4ff1711f74a0"
+    },
+    {
+      "version": "20w45a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-11-04T16:42:00+00:00",
+      "sha256": "4fec0b7073c5597dcebc39ec186f6946e8bee4565bf5ad5ffeac6a54751a56f9"
+    },
+    {
+      "version": "1.16.4",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2020-10-29T15:49:37+00:00",
+      "sha256": "ee8adc986918c7b07044c5c21a3a0430bb5f133059b4a4da36ae281937a7de02"
+    },
+    {
+      "version": "1.16.4-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-10-27T16:31:08+00:00",
+      "sha256": "4ca2b195da318917443868c6be552737f1bfd73dcc09a6f97d6621778bfb04f3"
+    },
+    {
+      "version": "1.16.4-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-10-22T15:32:17+00:00",
+      "sha256": "50460ff5e5269fb0dbe0a83172eab0c89e898576a8d27d5bf68da3f2a677b60b"
+    },
+    {
+      "version": "1.16.4-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-10-13T14:36:07+00:00",
+      "sha256": "7f13f457c1587f74201bd1993e7276e1a8e2540e5bde9f966c6767c93251906d"
+    },
+    {
+      "version": "1.16.3",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2020-09-10T13:42:37+00:00",
+      "sha256": "2abc9c9f5ee994fe42199adf7b5cfd06eac0efe56972e4f0878dd8b2fbfb557c"
+    },
+    {
+      "version": "1.16.3-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-09-07T12:34:06+00:00",
+      "sha256": "00d46476aee44905c8f8492e2f062f2b7947c5b77377c2cd959edbe7fef9195a"
+    },
+    {
+      "version": "1.16.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2020-08-11T10:13:46+00:00",
+      "sha256": "56dd15d482af7d643be75c2cc3d8ae85f8134b816c8d531842b0f2af9da34bbf"
+    },
+    {
+      "version": "1.16.2-rc2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-08-10T11:43:36+00:00",
+      "sha256": "0cab0d1f8b26ca6f57d6ad7653b5e5c0cd3c3dfe7e472af21e65c22263d5a289"
+    },
+    {
+      "version": "1.16.2-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-08-07T14:35:39+00:00",
+      "sha256": "06be61bd364f7df0c220fe69712f0c0dcd3bf753211b26369795ab8888a9e159"
+    },
+    {
+      "version": "1.16.2-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-08-06T16:44:52+00:00",
+      "sha256": "55d99f58bbbeb2195c2fbc9d44aa99cd225ea04635a0a0693cd26a6df07472a0"
+    },
+    {
+      "version": "1.16.2-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-08-05T15:30:50+00:00",
+      "sha256": "e42b79117d3f7ac1139b8879ba0284d891f644a8b16f4d606f42f4e12e814f1e"
+    },
+    {
+      "version": "1.16.2-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-07-29T13:19:05+00:00",
+      "sha256": "365ef079a34781f39785e38e7c7345042fea76874c96322135d0c57b1faf302e"
+    },
+    {
+      "version": "20w30a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-07-22T15:05:15+00:00",
+      "sha256": "22f784da5731b5363ba3f14e7b329ae490dc52aacba11bdd05e61e413145f393"
+    },
+    {
+      "version": "20w29a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-07-15T14:13:47+00:00",
+      "sha256": "f9e9f2361618ba5ac4b4f331542bb7cc136b08123cd76e15fd7628024fd0b351"
+    },
+    {
+      "version": "20w28a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-07-08T15:10:40+00:00",
+      "sha256": "1a02ad0fd1eec37d55f9d8a889445f556f0cebf9871988e79c7bd45c5c9ac901"
+    },
+    {
+      "version": "20w27a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-07-01T15:07:35+00:00",
+      "sha256": "a0f0512934a3737c0846377e2e0b3b86d6d47de933fc3362e18fc9a632758474"
+    },
+    {
+      "version": "1.16.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2020-06-24T10:31:40+00:00",
+      "sha256": "3b0fdd5507778060ae1a12a64d388aa57dd98076ac8b4859d6ef4d0a1e57d170"
+    },
+    {
+      "version": "1.16",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2020-06-23T16:20:52+00:00",
+      "sha256": "571e78d840e827e096178cdc02743f1fbba830d72d00993c62f4727ff5919fdc"
+    },
+    {
+      "version": "1.16-rc1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-06-18T12:49:28+00:00",
+      "sha256": "911be3d2d2f9e19f62a2e009ee240e35dd6eac2686b9201746f07ad9cea608f2"
+    },
+    {
+      "version": "1.16-pre8",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-06-17T14:45:23+00:00",
+      "sha256": "c8b300741ec809b1aef04bd2683f1c2b5e80748db44662e02389b841ae10dfd9"
+    },
+    {
+      "version": "1.16-pre7",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-06-16T15:31:35+00:00",
+      "sha256": "6b1c23ee8004ec3d706e9bd5bffa8aad672b9f47eb652f52f7eefdcee55d2b54"
+    },
+    {
+      "version": "1.16-pre6",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-06-15T16:57:57+00:00",
+      "sha256": "a229e50be91ca86a4067c0aeb1d47d4bca70466bdc482b786523439737a63f20"
+    },
+    {
+      "version": "1.16-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-06-12T14:33:59+00:00",
+      "sha256": "43ca647138cce954924767a1cdb6171c25b45536823eaaa3a66d5ece6a54d690"
+    },
+    {
+      "version": "1.16-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-06-11T15:45:55+00:00",
+      "sha256": "3a52704f71ce0be22600091216090bf89d3339b84a7614407b74d09b840ee5a0"
+    },
+    {
+      "version": "1.16-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-06-10T14:57:43+00:00",
+      "sha256": "acd6ec2ca9323220954178b41fcd9d4dea4193e48358990809f9054eb0c0e1a3"
+    },
+    {
+      "version": "1.16-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-06-05T10:47:59+00:00",
+      "sha256": "00f8bdd782076bd085e7b243f7911f2873680535023abb8030b59b013501c49e"
+    },
+    {
+      "version": "1.16-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-06-04T18:17:51+00:00",
+      "sha256": "a91eceb61e1e8f1cdb30c6e01d0bc96f12a200c912867c9f1047aca036b3d82b"
+    },
+    {
+      "version": "20w22a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-05-29T11:25:02+00:00",
+      "sha256": "2d8b6e172f10435eef45261c73d37b5716d261571632e27fae457b1943c9d2f4"
+    },
+    {
+      "version": "20w21a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-05-20T12:07:18+00:00",
+      "sha256": "9faa6b391fc83fab9d08334a5977e90632682e970d11c8fc72c9874de47654a7"
+    },
+    {
+      "version": "20w20b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-05-14T08:16:26+00:00",
+      "sha256": "ffa8cbbf176e82b298bbb484a2f8e9477767b77a4cd512626483febade2883d0"
+    },
+    {
+      "version": "20w20a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-05-13T15:11:43+00:00",
+      "sha256": "14a8fdf20f0761d38344234bef0b600ba6cc6f5877c19195f86ea7af4f58cb0c"
+    },
+    {
+      "version": "20w19a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-05-06T16:23:24+00:00",
+      "sha256": "83079a00cd5af89b30e8ff3a7dfb4da9b5624e9c635fe95dcd1e91a26b2a931c"
+    },
+    {
+      "version": "20w18a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-04-29T15:16:34+00:00",
+      "sha256": "ecc44cd4e729e4184e1f8b62f703ed8a5b729db013c465052f050edaa25f2a43"
+    },
+    {
+      "version": "20w17a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-04-22T13:47:50+00:00",
+      "sha256": "39e474fb075d5df5d55638d199c8d76d20aa637276a5994d62734ee53ca87c1f"
+    },
+    {
+      "version": "20w16a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-04-15T14:13:01+00:00",
+      "sha256": "c5e022fa22f6f24dde591539e392993df8b3de359c87bf6f30882cab1c93b7a1"
+    },
+    {
+      "version": "20w15a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-04-08T12:29:24+00:00",
+      "sha256": "d01f9c210741f516e8ebf4557de91711545c82f2db3ab594ed5f0e7eaba24f4f"
+    },
+    {
+      "version": "20w14a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-04-02T14:28:06+00:00",
+      "sha256": "db9f78547fc6b65bee88ba244a9f9361d6386e2ce5ed2ef6729828cd13318320"
+    },
+    {
+      "version": "20w14infinite",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-04-01T12:47:08+00:00",
+      "sha256": "8f52c592f12b8126f2295760791f1283c646638d5078a6f5a0a31ad8a91028e9"
+    },
+    {
+      "version": "20w13b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-03-26T13:00:34+00:00",
+      "sha256": "05fad48ac5402e10499eee745de56b38b1e589773278bd7e140a17b67f32c6f2"
+    },
+    {
+      "version": "20w13a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-03-25T17:05:33+00:00",
+      "sha256": "24b411db7d46784e78445567e39daec1cc694c633fb8844602dbb822237bae29"
+    },
+    {
+      "version": "20w12a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-03-18T16:42:06+00:00",
+      "sha256": "81b2c201e4fb8ddb964a5c747b47879810bdc2d617d0941b7b472c8d9d47a149"
+    },
+    {
+      "version": "20w11a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-03-11T16:28:27+00:00",
+      "sha256": "694533ffe5332ae1e7341f49f72ced576f06b4a3f9ac4193f978f989de9c14b2"
+    },
+    {
+      "version": "20w10a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-03-04T16:21:41+00:00",
+      "sha256": "8dea32fff4b7b59ca1fa4a58a3f3ad76e3a43c13a8e57358f4ffea3e610634d2"
+    },
+    {
+      "version": "20w09a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-02-26T16:43:08+00:00",
+      "sha256": "2dc8204aec17dcd76bbaef8ae224786bb542122f0599f877b5466123ed9afd45"
+    },
+    {
+      "version": "20w08a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-02-19T13:30:09+00:00",
+      "sha256": "ab02ccb148d77bfcb67fcf624ea680909ad96663fdc7b0197d154dab71f7d415"
+    },
+    {
+      "version": "20w07a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-02-14T13:20:49+00:00",
+      "sha256": "4f9f408f5a324e26be65897b8e04532e1b845f05fcc9325afd8c92ee4f819f55"
+    },
+    {
+      "version": "20w06a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-02-05T16:05:22+00:00",
+      "sha256": "b0063aee796d114043a91257b8eefd0e93cb5f35ab001d6c2ec2045ee8820959"
+    },
+    {
+      "version": "1.15.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2020-01-17T10:03:52+00:00",
+      "sha256": "458d4a3a7966eebc758b27e1a75a06d96bea9ee4290aca9e4271c23cc091050d"
+    },
+    {
+      "version": "1.15.2-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-01-16T12:35:57+00:00",
+      "sha256": "93f5f04aa4144f4215891760e4a52624027d574d8c001d1f7e2458cdf3b0e048"
+    },
+    {
+      "version": "1.15.2-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2020-01-14T16:19:31+00:00",
+      "sha256": "7799120aa17ce376b6b1df0ef4357f40097a7d5462d2510fa7981f81efe56def"
+    },
+    {
+      "version": "1.15.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2019-12-16T10:29:47+00:00",
+      "sha256": "24727790c9473e51b13598b70c0174024db5a903f345b5f1a8694abe49835b64"
+    },
+    {
+      "version": "1.15.1-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-12-12T14:02:30+00:00",
+      "sha256": "39e548ff6522c2f916c5e6d2726b6113070128af4c54f588d06be452728d9818"
+    },
+    {
+      "version": "1.15",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2019-12-09T13:13:38+00:00",
+      "sha256": "065f42905e7e9fe0d1e34691a2c243a2016c3a6b2947f7f80b937ce9867fc5a3"
+    },
+    {
+      "version": "1.15-pre7",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-12-09T12:14:11+00:00",
+      "sha256": "4b51cf84a615d0a40beff9cd55f154bceda3434018272a13e1a63487b016ef79"
+    },
+    {
+      "version": "1.15-pre6",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-12-06T12:04:30+00:00",
+      "sha256": "b967350e4e9a19f1d1bf990464fce45ceabd7e54bb30b2259a601d656bd2b89b"
+    },
+    {
+      "version": "1.15-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-12-05T13:20:00+00:00",
+      "sha256": "d94fe6c5b85b2cb8c510d82432c7d57ff5f02bb080ff9f3c8d642a7e6cd5dd0e"
+    },
+    {
+      "version": "1.15-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-12-03T12:24:24+00:00",
+      "sha256": "7fccc8a6648c5d7219565cd4e6e62380cbd441f9af13101bb998fb57ea472cf3"
+    },
+    {
+      "version": "1.15-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-11-28T17:17:50+00:00",
+      "sha256": "830c8b4b33ab8ecf0b6da883c865518d688ebab5fda04a98d7a7d7c18a135c03"
+    },
+    {
+      "version": "1.15-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-11-25T18:09:38+00:00",
+      "sha256": "fd0afee8b2947b47ab42fa3bdade6885c244e9f7c3cb6bf917100ded19998f4b"
+    },
+    {
+      "version": "1.15-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-11-21T17:01:17+00:00",
+      "sha256": "cfcaa2dc610b746efae7d2b3821bee54b0fdda820b722d9be32b07c89e176092"
+    },
+    {
+      "version": "19w46b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-11-14T13:29:24+00:00",
+      "sha256": "722b9b4d8bbf02e66ad028b426f5d13af31d5111dca71c66b9fdf6236ce05bdd"
+    },
+    {
+      "version": "19w46a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-11-13T16:37:46+00:00",
+      "sha256": "0e573315689030e8e78243e7a28ef8ad088ea5d62b500868cfffcc240f8d2903"
+    },
+    {
+      "version": "19w45b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-11-08T12:42:44+00:00",
+      "sha256": "0f4cd47736905231c4f530842de174a2b563946dbc7eb84470f71d3727f9170f"
+    },
+    {
+      "version": "19w45a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-11-07T16:19:20+00:00",
+      "sha256": "afe26994e88972da42f82155151f76b89d725ed769c5c95561c90fa23e2bd55d"
+    },
+    {
+      "version": "19w44a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-10-30T15:31:44+00:00",
+      "sha256": "97611ddeddcf740d673086ecd95b9cd3f7a449ac0dceed775a36f7a88ee23ec0"
+    },
+    {
+      "version": "19w42a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-10-16T15:30:39+00:00",
+      "sha256": "0d9e66d674a79456c7f493be380d827c4509a5c1265e046199f881cc8128ead5"
+    },
+    {
+      "version": "19w41a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-10-09T15:21:35+00:00",
+      "sha256": "e48e40af03129a171ddd507be3ff1b1c10fb84452bcd8ad277e38ce568fbf97d"
+    },
+    {
+      "version": "19w40a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-10-02T13:40:26+00:00",
+      "sha256": "ac0a6f6ea48a30e711e895d641c0b7610af283011c333895f4fe363d204aee95"
+    },
+    {
+      "version": "19w39a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-09-27T10:13:33+00:00",
+      "sha256": "f29dc706bd6cc8e09c8f3d252afb28ce9eb0712a71008205114bc93c19e823b9"
+    },
+    {
+      "version": "19w38b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-09-18T14:59:13+00:00",
+      "sha256": "1991992a37cbc91242042d8dd5f68e87767e65ba2bea2f83b3074ee51c15e4d0"
+    },
+    {
+      "version": "19w38a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-09-18T10:03:22+00:00",
+      "sha256": "291042f0a1a60748be9c3f376022fa9cc1ae97dace9959bfc7bed4fdc0b3e78c"
+    },
+    {
+      "version": "19w37a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-09-11T11:46:44+00:00",
+      "sha256": "02e0684a6d56a99e452ff4e7bfff38a543fad803fb58082f7313d8b049a22a6f"
+    },
+    {
+      "version": "19w36a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-09-04T11:19:34+00:00",
+      "sha256": "df4272866e3741076855ed3df805e62accd875a2e0b2c040343452b3385c687f"
+    },
+    {
+      "version": "19w35a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-08-28T15:01:44+00:00",
+      "sha256": "1bde0253a2a7844d0eae9db5cc57c784c2dc39caeb5465be9955eb61f2a311c4"
+    },
+    {
+      "version": "19w34a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-08-22T12:06:21+00:00",
+      "sha256": "63bcf37bd4462e84c393b9a185d8d86242219d6d83fdc48432bba65d8d5282d8"
+    },
+    {
+      "version": "1.14.4",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2019-07-19T09:25:47+00:00",
+      "sha256": "b1d04c9cf9022cb0b7b7449e22aca111c890dcded7da57633d55cecf71b078e1"
+    },
+    {
+      "version": "1.14.4-pre7",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-07-18T11:32:36+00:00",
+      "sha256": "b2944c96e74097ee4db6df884062161bea7999c95c08c40c7e18819f05dbb47f"
+    },
+    {
+      "version": "1.14.4-pre6",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-07-15T12:39:49+00:00",
+      "sha256": "a645812b8566ba9f93c650426e96434cc1151da0a2b91f33a0f4593ee08870fd"
+    },
+    {
+      "version": "1.14.4-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-07-11T10:52:33+00:00",
+      "sha256": "7168b8dabfa74c902f27ceed9fceb2528cf9819ed11e415c61cf2ab379e827f7"
+    },
+    {
+      "version": "1.14.4-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-07-10T12:53:29+00:00",
+      "sha256": "c3167824974073dda600492c64d576bcee893f63d8e35063b68a354e234ac55c"
+    },
+    {
+      "version": "1.14.4-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-07-08T11:21:42+00:00",
+      "sha256": "7df46cd9bea59112bbcef5cbca0a68ab18da5568ddaeea603b8673f94b9ce51f"
+    },
+    {
+      "version": "1.14.4-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-07-04T14:41:05+00:00",
+      "sha256": "e47ae1da38c7474549a7b80607171544c39f7b0ba9fb32cf9e4d4cba2f4e13e9"
+    },
+    {
+      "version": "1.14.4-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-07-03T13:01:01+00:00",
+      "sha256": "d517e56c5db9930883ffaf0ee94ae8149d7a7a5e5ab245aa0f25e55fb3a270c4"
+    },
+    {
+      "version": "1.14.3",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2019-06-24T12:52:52+00:00",
+      "sha256": "3f363eccba9ba2ebbd90349d6d317abea7adee4bd5756dacc0019bf6cbc045f7"
+    },
+    {
+      "version": "1.14.3-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-06-19T11:44:29+00:00",
+      "sha256": "44aad1528fc54258b93ffac5cd1f2ed708fc55cc4e18e6414cb51d9595d2057e"
+    },
+    {
+      "version": "1.14.3-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-06-14T08:03:33+00:00",
+      "sha256": "8e4e383840dbb2ddaf1b5c98ae679f1f71dfdfc4ae0a5fc6790599799b87d71c"
+    },
+    {
+      "version": "1.14.3-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-06-07T09:11:29+00:00",
+      "sha256": "f5910d516bc43e1ac60b2b2354ac8a079c54159088486ad616f19d73b6ede6f9"
+    },
+    {
+      "version": "1.14.3-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-06-03T14:34:20+00:00",
+      "sha256": "09a4a77b8136beb8199856af8698fe528ba4a86e2e9eeb57fcb5ebdc18b6ff5c"
+    },
+    {
+      "version": "1.14.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2019-05-27T11:48:25+00:00",
+      "sha256": "c79023378eb5509f909f6751acf3477e9ca2424b29560db2f1794f43911423ce"
+    },
+    {
+      "version": "1.14.2 Pre-Release 4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-05-27T07:21:11+00:00",
+      "sha256": "469502de4f3e164fa5de90bdc81a9a7dfab8a0246d1f79b9475b2ea904647bf7"
+    },
+    {
+      "version": "1.14.2 Pre-Release 3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-05-22T13:12:51+00:00",
+      "sha256": "073c479d87de50d05cf271f54fceae248a524425e6646a6f835a91934a3d2f55"
+    },
+    {
+      "version": "1.14.2 Pre-Release 2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-05-17T12:21:03+00:00",
+      "sha256": "1d162170b175ce239ba8ab3e6dad54efdacf03a3a84f2c68c857b181cd5e5a09"
+    },
+    {
+      "version": "1.14.2 Pre-Release 1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-05-16T15:40:25+00:00",
+      "sha256": "d6ed46cc02b207e6629b646eea95bc52f0020542875915336ce01d874ddc7ba7"
+    },
+    {
+      "version": "1.14.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2019-05-13T11:10:12+00:00",
+      "sha256": "70ce5bc22f856b2ed50b5befbe33c86388857b83f6a85dc577c706d1cfaf7dee"
+    },
+    {
+      "version": "1.14.1 Pre-Release 2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-05-09T14:01:04+00:00",
+      "sha256": "09e09a412e72b777b76009b9ac966fae94bca1cc659713a521e70eff161fb5e7"
+    },
+    {
+      "version": "1.14.1 Pre-Release 1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-05-07T14:44:42+00:00",
+      "sha256": "2fcd88621f6d6f481e04dbcb1002e00b933966b49937d7ed3ff3089b48d1d66c"
+    },
+    {
+      "version": "1.14",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2019-04-23T14:52:44+00:00",
+      "sha256": "ce30f203f49c6ada7d058146e5e031044df812ac42b6904afd9fa02254f5f9dc"
+    },
+    {
+      "version": "1.14 Pre-Release 5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-04-18T11:05:19+00:00",
+      "sha256": "918452dccefb1d8890680186ac82c3220014ba7b39312affff7dac426d9f89fc"
+    },
+    {
+      "version": "1.14 Pre-Release 4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-04-17T15:31:12+00:00",
+      "sha256": "5dcf0f83a29f0ec907cf780170b6d7949cd6f8cd2e6d9cbb0527b432eb66bdd0"
+    },
+    {
+      "version": "1.14 Pre-Release 3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-04-16T13:57:10+00:00",
+      "sha256": "a15238b353c601c4366256a35218e8a0bc6c7f4d24b04c2f47ba2797d49b29e2"
+    },
+    {
+      "version": "1.14 Pre-Release 2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-04-12T11:38:53+00:00",
+      "sha256": "92492053302f9acefc7f7855bf48cef71c06336ce775500c6379ad5098dd30b9"
+    },
+    {
+      "version": "1.14 Pre-Release 1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-04-10T14:24:16+00:00",
+      "sha256": "5bda57efde1edb2370b90872315281068a78fe2b6f2b3e1ec1f3c60bd557f507"
+    },
+    {
+      "version": "19w14b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-04-05T10:33:58+00:00",
+      "sha256": "9c70f4e839ef88cf5f4a2da55aeddff4d95a810271b246c175af2779953873b2"
+    },
+    {
+      "version": "19w14a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-04-03T13:45:00+00:00",
+      "sha256": "358333303bc6ee875b6b43512533cdda994b777c945162ba456439c7dbd3b555"
+    },
+    {
+      "version": "3D Shareware v1.34",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-04-01T11:18:08+00:00",
+      "sha256": "d23198b740afcd663d33bdc41da139fc51eabac0692d16384a2202f8eb04a887"
+    },
+    {
+      "version": "19w13b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-03-29T16:53:22+00:00",
+      "sha256": "77cb107cf468b7b85dd1fb4c33061fca32911b293df6303968b0375bc0291a95"
+    },
+    {
+      "version": "19w13a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-03-27T15:15:31+00:00",
+      "sha256": "11e6b9b57def8953dc6a98efe994dc7465cb4a89a05fd0f1929db74e4da5f8a4"
+    },
+    {
+      "version": "19w12b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-03-21T15:20:01+00:00",
+      "sha256": "f7a7cf409b58b9390018bf299ffc0a12215f4e88e9081d42fff1fe1f0fc99fa9"
+    },
+    {
+      "version": "19w12a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-03-20T16:47:34+00:00",
+      "sha256": "4f7f06fe3d1142431e8aed343848dc6d00ca79339e62040d9327bbafb0e6786a"
+    },
+    {
+      "version": "19w11b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-03-14T14:26:23+00:00",
+      "sha256": "668df0769ab6fb40b7d1ad1cf0b7451c45628bb08f9855dfac341ddea01a6146"
+    },
+    {
+      "version": "19w11a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-03-13T13:59:29+00:00",
+      "sha256": "0571a730a0c19fccc7092149d9984e58977100bddc48dc5968c9daa02dcb095b"
+    },
+    {
+      "version": "19w09a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-02-27T14:44:30+00:00",
+      "sha256": "7e6b9e6be89e170f8820c5718776cf03cbe234d9dd29e81dfb81cb663aee8a89"
+    },
+    {
+      "version": "19w08b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-02-21T13:38:09+00:00",
+      "sha256": "22cd0aa9b8dd2cf7cc3deb301a48b6ef1b47cb6b887eeadbef3f8d89a3825a0d"
+    },
+    {
+      "version": "19w08a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-02-20T14:56:58+00:00",
+      "sha256": "5b945ad038650cc7928f9718803852a651eddcee589f19ae9d598a143d8abd83"
+    },
+    {
+      "version": "19w07a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-02-13T16:12:08+00:00",
+      "sha256": "ac51f8987bf5ccecd1e081d96c9c27db7343d176d2864e510f13839f44108267"
+    },
+    {
+      "version": "19w06a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-02-06T16:24:13+00:00",
+      "sha256": "d8fab3add5b8664bcc0f07ae23d5a5daf46726da48385160dcad6d96f53c3361"
+    },
+    {
+      "version": "19w05a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-01-30T15:16:49+00:00",
+      "sha256": "e9d9304011c9d4caf3b7fe0ada3a2a10da22545575c7daf48524e80c11e6086a"
+    },
+    {
+      "version": "19w04b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-01-25T12:20:15+00:00",
+      "sha256": "5fb5b902be6babf0f9f0b3e494abd9db8c56ccc52bf87818de8417baf21a2ee4"
+    },
+    {
+      "version": "19w04a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-01-24T15:31:52+00:00",
+      "sha256": "7e8788926e5c4bf8ff93b73b19ad465ad0bf21bcd6ea8858dcbdf8f6d4befb57"
+    },
+    {
+      "version": "19w03c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-01-18T11:27:13+00:00",
+      "sha256": "6169c056db97e17cca0fbc83953ef205cd5849fba76652fed0c53b54b72798e1"
+    },
+    {
+      "version": "19w03b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-01-17T16:43:27+00:00",
+      "sha256": "fe2adaf4ba2fd7409fc10c33ac7578ee632d24bfadd48c3ac55c722d7e0e0901"
+    },
+    {
+      "version": "19w03a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-01-16T16:45:02+00:00",
+      "sha256": "fbf87379ce705cd3f08e153c71e456398838fbbabfa6552bc13916aadbcc6d34"
+    },
+    {
+      "version": "19w02a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2019-01-09T15:52:07+00:00",
+      "sha256": "0e9cea40e075b895d26c3005f379052ae75776f870cf4638ab863da142a86aec"
+    },
+    {
+      "version": "18w50a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-12-12T14:58:13+00:00",
+      "sha256": "b0428d569c09f7b31e1f0b10bcb8a8316606ea9e0dfa0ba50c31a741e418b727"
+    },
+    {
+      "version": "18w49a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-12-05T12:24:30+00:00",
+      "sha256": "862668b2fb774b88a80cf6a86bf4922bd368a3db9b3104b9e3d21abde418b5d7"
+    },
+    {
+      "version": "18w48b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-11-30T10:37:31+00:00",
+      "sha256": "c7728170c8d3e348b5bc137ac4bee8cba0513b2a05c3ca2e61fb05139ca5e9ed"
+    },
+    {
+      "version": "18w48a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-11-29T13:11:38+00:00",
+      "sha256": "5903888309628636722408d6040bf84b5ac408d15ddb0a7f8a0ab6162e3bdcac"
+    },
+    {
+      "version": "18w47b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-11-23T10:46:41+00:00",
+      "sha256": "97dbee922484aa80b5416607d9d1b9aa85d6a1a2cbc56e6ff7808ec7c9a226b1"
+    },
+    {
+      "version": "18w47a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-11-21T15:45:22+00:00",
+      "sha256": "54977f14c14e2c5ac418297872a4c14ce6ed30cdd3ad589ffa6263e8c980c100"
+    },
+    {
+      "version": "18w46a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-11-15T13:43:14+00:00",
+      "sha256": "959b31ca9ac8b48195db4255e41f349a78d321e1a5b2f0f225e1def27e87661f"
+    },
+    {
+      "version": "18w45a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-11-07T14:40:06+00:00",
+      "sha256": "9959837abd15aa29b8a0f619ccf7494f2400250c781c895765b7eb75472913ca"
+    },
+    {
+      "version": "18w44a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-10-31T15:29:16+00:00",
+      "sha256": "f2de4c13e01763e71bda144356c6257a908eb4027c16e3fe27aaf95b127f7f3d"
+    },
+    {
+      "version": "18w43c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-10-26T08:40:46+00:00",
+      "sha256": "2894d8f9f9da9b07b327dc23b458120662ffd4dad89797f3da82e095ea792b4e"
+    },
+    {
+      "version": "18w43b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-10-24T15:02:30+00:00",
+      "sha256": "b20d503f5d420176f6033fa83397b3bc2dd0f9438109b12b2f67ade074d5eb31"
+    },
+    {
+      "version": "18w43a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-10-24T10:52:16+00:00",
+      "sha256": "8d2d712839e94b5589c9d1fa991100eebc5537c6017dc45eb9c58a5e89ef770f"
+    },
+    {
+      "version": "1.13.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2018-10-22T11:41:07+00:00",
+      "sha256": "8451a41a02993cb26e3477784e9c8687fb5e9efcf72acfe30d75b99bca19425f"
+    },
+    {
+      "version": "1.13.2-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-10-18T14:46:12+00:00",
+      "sha256": "314d067bcf1ed4f7b010683dcca9c803d01dabba8ec9ae54b01464bfd46ebd23"
+    },
+    {
+      "version": "1.13.2-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-10-16T13:40:58+00:00",
+      "sha256": "ee7c656b7e6b58183a9a4d7e6a393399f772bfb067ed6e2a10d66e6826b06bd0"
+    },
+    {
+      "version": "1.13.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2018-08-22T14:03:42+00:00",
+      "sha256": "040ce0fcda89edcbd9c0ffff4ef353a5821767d9ce8df397da43b8259131fb56"
+    },
+    {
+      "version": "1.13.1-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-08-20T13:52:09+00:00",
+      "sha256": "f4c0644587e4b034c2348884d2d43c2c16035573d6dd238ed4d479f069140e69"
+    },
+    {
+      "version": "1.13.1-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-08-16T13:08:44+00:00",
+      "sha256": "566594a0cb92a282c258e5b8ecbd856909789f11bb21903a6776a8b9f0a35fd4"
+    },
+    {
+      "version": "18w33a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-08-15T14:28:56+00:00",
+      "sha256": "84ad1bdc1dcc060f77ef32761eca355a38c686aa1f932fb5f755a3986f98964b"
+    },
+    {
+      "version": "18w32a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-08-08T13:16:57+00:00",
+      "sha256": "95d297994bf34bea23d6350396ea1e4414c88b9819ad28d427082d1c8ae8a523"
+    },
+    {
+      "version": "18w31a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-08-01T12:54:44+00:00",
+      "sha256": "7ebc83fbc6a2dfbd0f725bf215d2b8519e5999d6dbd720c12fa5fcd63e13ffb7"
+    },
+    {
+      "version": "18w30b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-07-26T16:06:57+00:00",
+      "sha256": "b24b3ffe471f3b89b820ea88983ca06cf03a174c6b4ad0754487e27fdcbd2712"
+    },
+    {
+      "version": "18w30a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-07-25T14:29:31+00:00",
+      "sha256": "2759290a9cdf1a78dce1ef384c6c897b53da7ec0505ae26dca5db4369a689f9b"
+    },
+    {
+      "version": "1.13",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2018-07-18T15:11:46+00:00",
+      "sha256": "f26a3dea2e2b8c5f5639f7eb1cffd1c66bd310a07fb94683cb6b36481023f652"
+    },
+    {
+      "version": "1.13-pre10",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-07-17T14:48:06+00:00",
+      "sha256": "4fd0c52dde4dc9e6c3e819ead142412fade07acdfad69030f3940513f15436d6"
+    },
+    {
+      "version": "1.13-pre9",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-07-16T14:17:42+00:00",
+      "sha256": "7a850c148c851cabd8a0310049322e7609f868be655398971bec42744e32e5b0"
+    },
+    {
+      "version": "1.13-pre8",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-07-13T11:45:00+00:00",
+      "sha256": "ea5fa65868831cc1fa5bcdc21ebc95addee850605d94d63a475d86399812c75e"
+    },
+    {
+      "version": "1.13-pre7",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-07-10T14:21:42+00:00",
+      "sha256": "959a543c2eba90cb8a3de11c8fb660a915286a63be9cef737ddf0a9e80a71a7b"
+    },
+    {
+      "version": "1.13-pre6",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-07-04T12:36:00+00:00",
+      "sha256": "fe31256c63566b7d62582b51ad7ac382c3bdc2707b72629622686338fff9d008"
+    },
+    {
+      "version": "1.13-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-06-28T13:58:53+00:00",
+      "sha256": "efeb368b9f2b1bd9b277ee04ee8a9278545de2e874f07abcd99a9ba0781aaa99"
+    },
+    {
+      "version": "1.13-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-06-26T13:00:55+00:00",
+      "sha256": "290cc782b87b717c16f35b175c355b0925c6531ac641d83fb7f201f3c46e7032"
+    },
+    {
+      "version": "1.13-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-06-21T12:57:11+00:00",
+      "sha256": "3e23c5ab1b771bf7147e2934f4575dc08c7d8f6c6bb165ee94fd93bf3c5e02d3"
+    },
+    {
+      "version": "1.13-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-06-15T09:20:00+00:00",
+      "sha256": "4191114c7cf42d0ef4639a2659db9b357f777716220f5f5f4c9c5bed5ebd6009"
+    },
+    {
+      "version": "1.13-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-06-04T15:17:34+00:00",
+      "sha256": "27252cebf63bab11ba290a4659bd7feb0e0509d4ef347509fe34b0857a1e31e1"
+    },
+    {
+      "version": "18w22c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-05-31T13:53:15+00:00",
+      "sha256": "7a57bc58bb58287e8449ee49c8425ad44fcc5be6ad0b462b7dc56ff512f37add"
+    },
+    {
+      "version": "18w22b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-05-30T13:48:58+00:00",
+      "sha256": "dc5a4722ce9bc2ff17378e8aba71853e07e42751a5af7be57373656c38434fe1"
+    },
+    {
+      "version": "18w22a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-05-29T13:23:55+00:00",
+      "sha256": "05188c65ac8d4f1f004d0cb27336e27d07f46faf5ff250f2162bab26ad77759c"
+    },
+    {
+      "version": "18w21b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-05-25T10:09:09+00:00",
+      "sha256": "e043e404242ef0d86480ad2c29fc48572a9ec38879363e9078c87a5cc49f722f"
+    },
+    {
+      "version": "18w21a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-05-23T13:11:49+00:00",
+      "sha256": "651ef4a07a9bd22abbc7ecfecaf08ddb405948ceb6b78b751695f59ec85e1a4e"
+    },
+    {
+      "version": "18w20c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-05-17T14:06:56+00:00",
+      "sha256": "1407aef5b1f614d80844b588847ea29fed830a6d359368778457b3c60f529a00"
+    },
+    {
+      "version": "18w20b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-05-16T14:35:35+00:00",
+      "sha256": "88f84f37659ef9dd55e3171cacfd2c6a8dddec615829265e071ac6c60c150d51"
+    },
+    {
+      "version": "18w20a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-05-15T14:02:25+00:00",
+      "sha256": "8b35b1a35cdbfef4ab1d43f61e7ed5c16b87aeaf0185a2ee4e19a6f645e8a033"
+    },
+    {
+      "version": "18w19b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-05-09T10:00:51+00:00",
+      "sha256": "42597eb31d919314a8fce2670e211719e05db08aaa638368fae469f03d6a4980"
+    },
+    {
+      "version": "18w19a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-05-08T13:05:19+00:00",
+      "sha256": "58c73978fad39d25b8eefac9bdc64309b9664d957b41743e061fbd474f68d7d4"
+    },
+    {
+      "version": "18w16a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-04-19T14:46:35+00:00",
+      "sha256": "510e66bcbe802139e842362ae025c086b071a7ec2b9d13e674deed6375a6da07"
+    },
+    {
+      "version": "18w15a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-04-11T14:54:22+00:00",
+      "sha256": "425ca54c23e9868e7950155dc6803f67a69a1647cbeaf53fa6484b4e5c017d87"
+    },
+    {
+      "version": "18w14b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-04-05T14:44:02+00:00",
+      "sha256": "964b511799423588a45914c838765e21a9f9db782d44a224d721bed90f922542"
+    },
+    {
+      "version": "18w14a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-04-04T14:36:14+00:00",
+      "sha256": "6a4cb3a73db198fbc9da500ebbd5cd0dd90361da740025d04ce619ad57edb762"
+    },
+    {
+      "version": "18w11a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-03-13T15:10:59+00:00",
+      "sha256": "0974b3fd5fae7b70f36abad93b767fa9585ccf48fe9e6411ea3178ad624bac03"
+    },
+    {
+      "version": "18w10d",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-03-09T15:19:12+00:00",
+      "sha256": "89a58eb33ed51709de26d6d327cfce6070b8b12f2de3fa7bd3f11a63aaa002da"
+    },
+    {
+      "version": "18w10c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-03-08T15:29:23+00:00",
+      "sha256": "d80b29124575a6ba81d955781260cdd42e2956eb2356d895a85d8d62830c2114"
+    },
+    {
+      "version": "18w10b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-03-07T15:56:01+00:00",
+      "sha256": "f7f14ed57fbb2feb80b1fc258cc03e33da4061dadeb24ff91be5f17da5031825"
+    },
+    {
+      "version": "18w10a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-03-06T15:54:24+00:00",
+      "sha256": "9626d5ef5ed2f78989959e29d47fa7e6031d5feef31ac3496e992999a63dc9c6"
+    },
+    {
+      "version": "18w09a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-03-01T14:15:10+00:00",
+      "sha256": "2154172b7f779c8e09cffc4fb6bc73f14c853103f7bbfd77302817b639bbd9cc"
+    },
+    {
+      "version": "18w08b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-02-22T15:44:49+00:00",
+      "sha256": "69919be3f414e6cb08739e6bc8bfcbdb1870de5db99b900eae43b8a4ec6f8a5f"
+    },
+    {
+      "version": "18w08a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-02-21T14:59:00+00:00",
+      "sha256": "e32bba5bddbc165ea7eeca46f0f90ad5e46eac769af98bf9ae9c66543f8a6491"
+    },
+    {
+      "version": "18w07c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-02-16T13:23:32+00:00",
+      "sha256": "5c3b97d1386c44851ee7578eda13b8d54955ecef6757a99baeac50c1f73d0b3d"
+    },
+    {
+      "version": "18w07b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-02-15T14:28:42+00:00",
+      "sha256": "10a90dab36d47f322b00309bcbf7dc73b3bfd14b510fa33dca84b9a58818e19d"
+    },
+    {
+      "version": "18w07a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-02-14T17:34:13+00:00",
+      "sha256": "f985f679cf13de3a51c1125eb2375989b6589bf20deb21bdf679d4294b7c1284"
+    },
+    {
+      "version": "18w06a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-02-09T12:09:55+00:00",
+      "sha256": "d02d94ec28c5dbef4ae38f182b4c2af0a27f47e2d626b7689e314dba025db82d"
+    },
+    {
+      "version": "18w05a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-01-31T13:32:09+00:00",
+      "sha256": "b15bb67be9a64a62d1683ebce6d9b56994f272e903a976695db5a09770e0a043"
+    },
+    {
+      "version": "18w03b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-01-17T15:09:14+00:00",
+      "sha256": "9d1869755d981a722ee4298ce7ac637c0479711d067b2e864644c505fa2df004"
+    },
+    {
+      "version": "18w03a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-01-17T14:25:24+00:00",
+      "sha256": "6369f0d463f7929405c35fd04eb858430821f41abb62d5bd80015ceebad3348c"
+    },
+    {
+      "version": "18w02a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-01-10T11:54:55+00:00",
+      "sha256": "8a2156b303a8ae6f89b9494772c11a36dddbefad16a6d560d9dd65d22057f3a9"
+    },
+    {
+      "version": "18w01a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2018-01-03T13:29:30+00:00",
+      "sha256": "86dbe593d31b1c844991148b64d16e7f56812e48ee151cf1fe461b52b62777bb"
+    },
+    {
+      "version": "17w50a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-12-11T15:28:08+00:00",
+      "sha256": "a31f57e69cf563a095f96788dc1b2c65c34665cc6d5e62d453cdd2acd40abeeb"
+    },
+    {
+      "version": "17w49b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-12-07T15:29:54+00:00",
+      "sha256": "24f1dd707681f71ce491f19dde65b4602964a943dbf571ecdb10ccb0461e7016"
+    },
+    {
+      "version": "17w49a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-12-06T14:24:30+00:00",
+      "sha256": "bba137147ccea3049f8a7a47f3480381ded925d53312cec5dc8ba79542a643fa"
+    },
+    {
+      "version": "17w48a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-11-27T15:36:33+00:00",
+      "sha256": "fd4bafc75e830923df1a91c791080b7060cfd5c82731b64204d760fac5234ca2"
+    },
+    {
+      "version": "17w47b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-11-23T15:30:12+00:00",
+      "sha256": "562dc1d38d9abceabf05f144e18796a4492c830291a7d8e02e2522e5e917e5ff"
+    },
+    {
+      "version": "17w47a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-11-22T12:40:05+00:00",
+      "sha256": "94072beb96298cc88de3076d18f329bfd7a7a9ae50b39c429bad4f309f87bb65"
+    },
+    {
+      "version": "17w46a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-11-15T15:21:55+00:00",
+      "sha256": "3bd2b29755d4ac0efb5f9b48b93caeeaf7a72244b799ed470181dc4ea8cc4873"
+    },
+    {
+      "version": "17w45b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-11-10T10:07:02+00:00",
+      "sha256": "7ca4bb48489f1313260c0bfb3ceb45165b6d386328205b66f73fa88b7d808102"
+    },
+    {
+      "version": "17w45a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-11-08T15:48:00+00:00",
+      "sha256": "d6ddc33b92249cedc07f21cd2d28c5c944438edb8eb3f6969ec2ea4c08f49e7f"
+    },
+    {
+      "version": "17w43b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-10-26T13:36:22+00:00",
+      "sha256": "04e0b13ac98b1e9785e79cb8545363bdac10fca20097423d01c314f2c7554b9b"
+    },
+    {
+      "version": "17w43a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-10-25T14:43:50+00:00",
+      "sha256": "d0ae423c1cd5641f3c489036cb871e5b6cd7d6d33132238da83953d8da1049ac"
+    },
+    {
+      "version": "1.12.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2017-09-18T08:39:46+00:00",
+      "sha256": "e5def7aae2eb8e1bffc2295aba07c0ba2f184fca553cbb996db316180a7104d4"
+    },
+    {
+      "version": "1.12.2-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-09-15T08:21:17+00:00",
+      "sha256": "d78dfdd1b0a1e6fc8c2e4cd54acbc0e28c880175fae45f2fb93ab2155748e65f"
+    },
+    {
+      "version": "1.12.2-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-09-13T13:33:31+00:00",
+      "sha256": "f3a3483d0dc888256c1e63f51bb7131b29b53aa5773097ffc48bebfa2d090230"
+    },
+    {
+      "version": "1.12.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2017-08-03T12:40:39+00:00",
+      "sha256": "5980c1797ccb5260bf3a00d3cbd8511c76feb391917f909b9ba34fbef611daca"
+    },
+    {
+      "version": "1.12.1-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-08-02T10:53:55+00:00",
+      "sha256": "ad232bdbb935d2ebf17ce2d9b973e07ec5e2bd527ca6c26850d77c8a9e33289f"
+    },
+    {
+      "version": "17w31a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-08-01T09:41:23+00:00",
+      "sha256": "81b4c048990dd5d8aad04b4bcd286c65746b480672ea469425c359703451a22b"
+    },
+    {
+      "version": "1.12",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2017-06-02T13:50:27+00:00",
+      "sha256": "ea334e7950ef33af8e77223930764df7aecdd6d6021cad32510c5e50912ab438"
+    },
+    {
+      "version": "1.12-pre7",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-05-31T10:56:41+00:00",
+      "sha256": "6ed32f1ebcb07a9745bb80e1293558ea0f40f8783c0496de958ac060fb5f3315"
+    },
+    {
+      "version": "1.12-pre6",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-05-29T11:45:12+00:00",
+      "sha256": "309aee0213bf2573685df0358bd96407ae9efc43220c0280311c0b9118e092a4"
+    },
+    {
+      "version": "1.12-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-05-19T07:43:28+00:00",
+      "sha256": "68526777d53907c1c4107cba59c56090c615d2d3c1fc7a92487283e9aebf029f"
+    },
+    {
+      "version": "1.12-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-05-18T12:28:16+00:00",
+      "sha256": "6d23dc4b8c17390cfc474c8bd0dccaff69c840d017ebed1680a23abf648b8c53"
+    },
+    {
+      "version": "1.12-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-05-17T14:09:18+00:00",
+      "sha256": "0066386013cd4f0624db44c17633af1e57b796749b8896aa5083d2b1a2f33979"
+    },
+    {
+      "version": "1.12-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-05-11T12:11:12+00:00",
+      "sha256": "0390f01a3fdf9e81726db194835e13c85d9cdda83094629a89e2208987c5efce"
+    },
+    {
+      "version": "1.12-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-05-10T11:37:17+00:00",
+      "sha256": "b7a3ac6614a3b44f6f9812ec514f903b803a957822476d37fd145253f7b2bcf1"
+    },
+    {
+      "version": "17w18b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-05-04T13:40:22+00:00",
+      "sha256": "e8075664dc22298b82bf82fab84e06bf754edfcf1a85615d238055d12b6f77bc"
+    },
+    {
+      "version": "17w18a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-05-03T14:50:23+00:00",
+      "sha256": "c9c7992f0ccd503151526bb5f2205d4f82a9e5200eeddb84b5732d013a4e3d71"
+    },
+    {
+      "version": "17w17b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-04-27T13:24:23+00:00",
+      "sha256": "307c017cfa632e8582a06a2c69ae8f4fecdbb38450d501f7e7fdd0fa1ea5352e"
+    },
+    {
+      "version": "17w17a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-04-26T13:48:23+00:00",
+      "sha256": "e3e66ec413bac936182d3a522ac9d7adeada22a26e3bd5b8fdc6ec78ea2bc82a"
+    },
+    {
+      "version": "17w16b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-04-21T12:02:59+00:00",
+      "sha256": "6eaef92efc928a43952efe145a457d408f702d3c6709941963b8e4bf472972f4"
+    },
+    {
+      "version": "17w16a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-04-20T13:58:35+00:00",
+      "sha256": "087ec17f17033710a26023619da8c8616beb86f7f630305fd1efcdff3080d2f2"
+    },
+    {
+      "version": "17w15a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-04-12T09:30:50+00:00",
+      "sha256": "7abd1e555255b4096ad932453891fc2c9d91532bcf747d75e19fb226ec0a06b3"
+    },
+    {
+      "version": "17w14a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-04-05T13:58:01+00:00",
+      "sha256": "ac0cd93951a197cccab04c3c0ed444e2bb896368c1acebd6b62e79d4a0197e3a"
+    },
+    {
+      "version": "17w13b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-03-31T11:06:35+00:00",
+      "sha256": "26157c92a88ba649a852ac8fbd3f08df48f70308b374dad9e7dd878b1628fd1a"
+    },
+    {
+      "version": "17w13a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-03-30T09:32:19+00:00",
+      "sha256": "82b227f8337b118a93c6a4538930ac952eb2917b441948f4cda9189446f620ee"
+    },
+    {
+      "version": "17w06a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2017-02-08T13:16:29+00:00",
+      "sha256": "9696df8dd5f641097a29eef48b820211068197aa06c2c986fff22de0857eb473"
+    },
+    {
+      "version": "1.11.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2016-12-21T09:29:12+00:00",
+      "sha256": "a64dda50989388d10b980dc93333fa1400173294bc6f9d9867faa2e36486b046"
+    },
+    {
+      "version": "1.11.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2016-12-20T14:05:34+00:00",
+      "sha256": "05630731559f2344c1c8f58689f802e5c7f3d6795d8b632e1454edb072f00ccd"
+    },
+    {
+      "version": "16w50a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-12-15T14:38:52+00:00",
+      "sha256": "576a16277e44b31315c861f03ae561ae6c30ea25c3fbf5de2a82a7db20986b45"
+    },
+    {
+      "version": "1.11",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2016-11-14T14:34:40+00:00",
+      "sha256": "aca28cf1a1fb402c67e2711ef0f664d6cc968d90054ceb7d2781080205954c79"
+    },
+    {
+      "version": "1.11-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-11-08T13:42:50+00:00",
+      "sha256": "27ea5b0094706b93d3d56cd6eaff21c80bf53a18d3915a8c6642eecdd0bfde96"
+    },
+    {
+      "version": "16w44a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-11-03T14:17:11+00:00",
+      "sha256": "798a6d9767bb703d63605357ced8e1f9548f9bf3df0885743cea3385c749f534"
+    },
+    {
+      "version": "16w43a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-10-27T09:00:51+00:00",
+      "sha256": "c317a3928a4aaf39d4579f6e3c60c4045c0b6fddb34a21bf93ce760b11577b01"
+    },
+    {
+      "version": "16w42a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-10-19T11:17:47+00:00",
+      "sha256": "ec717fd1cb97e7047490cd8dd29225028670e7ff2c93ab18fbea9c0e295e319b"
+    },
+    {
+      "version": "16w41a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-10-13T14:28:35+00:00",
+      "sha256": "99dcfead586f0d28dc1c559e7eca965cdbe82bff706eb133eff115c086cc3b6f"
+    },
+    {
+      "version": "16w40a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-10-06T13:57:59+00:00",
+      "sha256": "edaa113bafd209e44fe61502e6d5c9ad3da99939a2287e13ab22cf16738ec228"
+    },
+    {
+      "version": "16w39c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-09-30T14:11:48+00:00",
+      "sha256": "d343a5372683b8e40e08555a4e870eed9d19ee523bdd60c64c0741e014b1f8ab"
+    },
+    {
+      "version": "16w39b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-09-29T14:39:39+00:00",
+      "sha256": "3618a6ecdc17689fc409f35e2a2890a4bd7c28781d6948cac7b8823defbddc21"
+    },
+    {
+      "version": "16w39a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-09-28T13:32:06+00:00",
+      "sha256": "2ee493fbfbd4c33b4e6712d5033cc87894de02e933b41e32e6f653c656eecfed"
+    },
+    {
+      "version": "16w38a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-09-20T12:40:49+00:00",
+      "sha256": "dbd19b4883326f8315ffc9db30b6c9ec498bba6e9e06aecab3aed07eac8a2725"
+    },
+    {
+      "version": "16w36a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-09-08T14:55:10+00:00",
+      "sha256": "9b8fe0d4f7f62f935f9ce07b14d4ee78d078bdca0624bb39ddb6f78aacb60ddf"
+    },
+    {
+      "version": "16w35a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-09-01T13:13:38+00:00",
+      "sha256": "8d3e54eae0855e3d9b0fbe0a1a4c7893c86cb781df50f968d08a5ea553130955"
+    },
+    {
+      "version": "16w33a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-08-17T12:48:57+00:00",
+      "sha256": "d35f1f6ca07fdf45fd6393847186fa27e56f50e0d349e0153b97c7e365aee34b"
+    },
+    {
+      "version": "16w32b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-08-11T14:34:29+00:00",
+      "sha256": "7980e69f523dadc2d363fe3b0cc27e6595b25bd288217672fc166ebd2028fa80"
+    },
+    {
+      "version": "16w32a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-08-10T12:30:10+00:00",
+      "sha256": "0b34af759f7180a411366865f652f08842307ae3ade1e163b5aec6bf599deb9f"
+    },
+    {
+      "version": "1.10.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2016-06-23T09:17:32+00:00",
+      "sha256": "aed69273d6f21d26aad298da6bad94696426d750a872c09e7b4872dd1c7853eb"
+    },
+    {
+      "version": "1.10.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2016-06-22T10:13:22+00:00",
+      "sha256": "cbadab7beb3d4e4a10f461fb7504ea50d5887cdb7acd6999c6c1cde4bd90f7f1"
+    },
+    {
+      "version": "1.10",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2016-06-08T13:06:18+00:00",
+      "sha256": "f4fbc0552e75785bdf153371d558077b9ea04911a4adda273a1faa274c4ead35"
+    },
+    {
+      "version": "1.10-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-06-07T14:56:34+00:00",
+      "sha256": "3dfdcadcdef86c2ff705aecc08f0bb495119159e760695f2425b7248c4c67d0f"
+    },
+    {
+      "version": "1.10-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-06-02T14:45:16+00:00",
+      "sha256": "52da0995fd4525d7539b0d1ee210dd28a61e1b58a5aad762e4dbb6d844ff08ae"
+    },
+    {
+      "version": "16w21b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-05-26T12:47:22+00:00",
+      "sha256": "b56884f0b9aff8f34f5dcbb8db8b1b58a6b88393993be1aa3d1a1a9abf930a5d"
+    },
+    {
+      "version": "16w21a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-05-25T13:12:09+00:00",
+      "sha256": "29564ced377fa8d2cbbf3eeabf22680a99e9e8b406ccec6d514db4cb19e343ec"
+    },
+    {
+      "version": "16w20a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-05-18T12:45:14+00:00",
+      "sha256": "a03435e9f099bcd8057d9686f682377ac323c5c3943f79d2276f190c836a99fa"
+    },
+    {
+      "version": "1.9.4",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2016-05-10T10:17:16+00:00",
+      "sha256": "c6e08db9ac4424a0295a0410580f7275fbf5786b2065c35917deaf7b33927579"
+    },
+    {
+      "version": "1.9.3",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2016-05-10T08:33:35+00:00",
+      "sha256": "720f68dd0ba1e79e281c8097ba7e8027a9f145b88c99c305bba27a32dd33396e"
+    },
+    {
+      "version": "1.9.3-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-05-03T09:28:11+00:00",
+      "sha256": "b3850a41c4f1432c82bde1a73d7517a3481e0f70ce150c48d5b4a02ced016551"
+    },
+    {
+      "version": "1.9.3-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-04-27T13:33:20+00:00",
+      "sha256": "994d6548fcb68d3209dbbd005ac48be6c29d904074acfab6cceb64a75c8f35be"
+    },
+    {
+      "version": "1.9.3-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-04-21T12:41:42+00:00",
+      "sha256": "e169ab1fc1a05f3df9aa659cf0c76ce2a96e8b80b20e63c4ef2b4fe94764b6d9"
+    },
+    {
+      "version": "16w15b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-04-13T13:56:41+00:00",
+      "sha256": "ca578f28c196d9cdedabf8b2920a0abd71a659f22cdf023ed19df8b88361fe57"
+    },
+    {
+      "version": "16w15a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-04-11T14:38:28+00:00",
+      "sha256": "ff352296c9c620e14ed322b50abf57d6733f99ea398b727b3856f1008bb91bc8"
+    },
+    {
+      "version": "16w14a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-04-07T12:47:51+00:00",
+      "sha256": "d973b35c8c6c6e41579b06fdf9a6adeb53b872603752db378b8ecd495e4f7277"
+    },
+    {
+      "version": "1.RV-Pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-03-31T16:18:53+00:00",
+      "sha256": "52086f6b92f7e94be93bfc107791afb44a55096cc89138ee83c5ec164904d944"
+    },
+    {
+      "version": "1.9.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2016-03-30T15:23:55+00:00",
+      "sha256": "a1557bc701de820736df4540e4483698b57fad54711a68a6e3f73f20ce64143d"
+    },
+    {
+      "version": "1.9.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2016-03-30T13:43:07+00:00",
+      "sha256": "d4a02ca1648a91e67505bd5461fdab63b8a8f9cf30a45923143089ccf81f0226"
+    },
+    {
+      "version": "1.9.1-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-03-11T09:20:36+00:00",
+      "sha256": "e641d6bb9358c550be7e0b75b5c038bd9d277ec1523fa2902b7f6de312329077"
+    },
+    {
+      "version": "1.9.1-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-03-10T15:06:03+00:00",
+      "sha256": "fabda291cca5a6358566d879bec12ea17fe7d9142ff8dec679c850914fc69e74"
+    },
+    {
+      "version": "1.9.1-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-03-09T16:27:29+00:00",
+      "sha256": "fa3f777d36a936c86e1a93a211a72cd7a8853d10d2cf3219b0ea9c04ac10672c"
+    },
+    {
+      "version": "1.9",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2016-02-29T13:49:54+00:00",
+      "sha256": "4efe140265ebe7aa65c215636a9f906eb951357bc6a1d80115d7c4ce71351472"
+    },
+    {
+      "version": "1.9-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-02-26T15:21:11+00:00",
+      "sha256": "19c4912e3969f3887129aaa6affdc362fa6c82871279101dfe510cd05f2f6757"
+    },
+    {
+      "version": "1.9-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-02-24T15:52:36+00:00",
+      "sha256": "1845dcb7e2d2091605604ede87508cd9a85099d6240c105f5f9002b556c3eace"
+    },
+    {
+      "version": "1.9-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-02-18T17:41:00+00:00",
+      "sha256": "41dc74674d4b5b7c23107a5b1a0c2a1c00335de3c873b87a330a2d104663f534"
+    },
+    {
+      "version": "1.9-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-02-17T15:23:19+00:00",
+      "sha256": "074258f8bb259b05a68283324d21425baf80364c87d0815f5d9b1a9718ba0935"
+    },
+    {
+      "version": "16w07b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-02-16T15:22:39+00:00",
+      "sha256": "e40bdff033e768181651b34e6f3707833ebfb86c31a10d0cf3c72e1f17294689"
+    },
+    {
+      "version": "16w07a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-02-15T15:48:46+00:00",
+      "sha256": "6e0eabe2e97607010bd66d6bf35694674a317a5b587bbe1524dcf52a850901fd"
+    },
+    {
+      "version": "16w06a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-02-10T15:06:41+00:00",
+      "sha256": "395589cea23c6b5c3969b1e8a3e9de68ef3e92495bda8c31ed6dc7cce65f3f02"
+    },
+    {
+      "version": "16w05b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-02-04T15:28:02+00:00",
+      "sha256": "b06f5a6e35e683a49f0fbe8f489bb103f0e34b8c817ba605fb17790b36815c3e"
+    },
+    {
+      "version": "16w05a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-02-03T15:48:38+00:00",
+      "sha256": "9f24cae8dccf0c9a53ccc7e121712655b924a41ec4ce82341582f985c7b788ab"
+    },
+    {
+      "version": "16w04a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-01-28T15:37:24+00:00",
+      "sha256": "0af5c73ada65150f8e06d9fe55787453e5ed5e9dc56dd8e77a40b6fe0d0f12e1"
+    },
+    {
+      "version": "16w03a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-01-20T14:29:24+00:00",
+      "sha256": "4ad9e41b7a3a3e95c71a79d8c7d61f57a39d300abe80709a31d9971b31ba139f"
+    },
+    {
+      "version": "16w02a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2016-01-13T15:15:16+00:00",
+      "sha256": "4c6416cdffbef51de6ac4b5346a7185000a774dac0b99a8aa7edd8543e3ab84a"
+    },
+    {
+      "version": "15w51b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-12-17T15:30:41+00:00",
+      "sha256": "1d8c78ecaf7d902d6d847848dad15b7135e898479b36d8a3a66d902231b3fce1"
+    },
+    {
+      "version": "15w51a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-12-17T14:02:37+00:00",
+      "sha256": "6b8f4f6e966caa5159ef7835c641f6aef71fccbeea50bb53fe61cbcaa4d8d131"
+    },
+    {
+      "version": "15w50a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-12-09T15:35:57+00:00",
+      "sha256": "e5aff125a47225d7b950b4f1782bb85c678ad49f560bcb786de3b3ab9eed8bec"
+    },
+    {
+      "version": "15w49b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-12-03T15:23:22+00:00",
+      "sha256": "9066a6581272a75efa8cf4c6fd2d9fb1d780218a6aeac6ccaaf5b323ad3fa368"
+    },
+    {
+      "version": "1.8.9",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2015-12-03T09:24:39+00:00",
+      "sha256": "408de041325c2e6bfc084beb5cc3eb12407cb236e22ac3aea7c1433dd4ed4fa2"
+    },
+    {
+      "version": "15w49a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-12-02T15:09:37+00:00",
+      "sha256": "42b081387fc55d019312f329c7694505bd2900f3ddce89893737e4fd7575b469"
+    },
+    {
+      "version": "15w47c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-11-20T12:46:56+00:00",
+      "sha256": "fed8b6b4b0ca2aca71e6b153dd236b6af4f6384fa0927cbe633ab6a10af2ccc0"
+    },
+    {
+      "version": "15w47b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-11-19T14:48:03+00:00",
+      "sha256": "f0493ad1131dc95cf2eaf7cb37be0c2278d549ba15be0ac241f8003400752eaa"
+    },
+    {
+      "version": "15w47a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-11-18T15:53:41+00:00",
+      "sha256": "451057270e7f52282b64f7b9e0f9de5347a5f1bdc34087500988c44601d593bf"
+    },
+    {
+      "version": "15w46a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-11-12T12:11:47+00:00",
+      "sha256": "a6f65899bb3d7bacd9e52445e49ae5f5abd5458d2023c5caaee20895ebc4f5a1"
+    },
+    {
+      "version": "15w45a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-11-05T13:04:07+00:00",
+      "sha256": "192683ecfb679995b4c2223eafd1c08bd066673edea88d6f777179fb363d9104"
+    },
+    {
+      "version": "15w44b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-10-30T11:23:17+00:00",
+      "sha256": "c0b0ff6b9a15372a3bf18d2151116fde496d24b1478630a0036c1dda5bafceeb"
+    },
+    {
+      "version": "15w44a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-10-28T15:09:36+00:00",
+      "sha256": "8b9ad7ef318b4b43a65fe2d9c720d9ccad3ab0b85f09bd2862076b8c3782e656"
+    },
+    {
+      "version": "15w43c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-10-23T15:35:55+00:00",
+      "sha256": "d2c7c6579342e43459472f9e30e02c8bb952cfef07e47815b8fb16ec0a195e89"
+    },
+    {
+      "version": "15w43b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-10-22T14:11:58+00:00",
+      "sha256": "80cb1ebf9eb372d6466883a682882ececa6083c596bc1226a629fd60e4c879b7"
+    },
+    {
+      "version": "15w43a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-10-21T15:28:52+00:00",
+      "sha256": "457da86994138bf407e506b0f18f488b74c0bede2838f656a58d133ad3938bee"
+    },
+    {
+      "version": "15w42a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-10-14T13:25:14+00:00",
+      "sha256": "f0dac953c76c1061f5070cae7da9ca2cfa0e3f19b0c1f01bd021bcfa0abf10df"
+    },
+    {
+      "version": "15w41b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-10-07T14:07:26+00:00",
+      "sha256": "de6a12a70945d7a337b31ac228f08c33e3619655934ae4985e2b0a109aa23fcd"
+    },
+    {
+      "version": "15w41a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-10-07T13:19:53+00:00",
+      "sha256": "636f20c0dd53c2e25d6e5e28fc78f81dac717fdf2dfc81dea057e74839a351ca"
+    },
+    {
+      "version": "15w40b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-09-30T14:13:54+00:00",
+      "sha256": "ab48cef21963940101e10bc1a8f62ae4febcb13c3a0b4b2dc81aff430679fdcc"
+    },
+    {
+      "version": "15w40a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-09-30T13:13:54+00:00",
+      "sha256": "dfba1f8565764b1910670b62e0ebdc5c0f97baeb5419f8c07bb436fdaf44de11"
+    },
+    {
+      "version": "15w39c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-09-23T13:13:54+00:00",
+      "sha256": "7583f9769dbcd7718d7976ef397f7884845b0e273ddee34f617b03882517697e"
+    },
+    {
+      "version": "15w39b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-09-21T15:09:52+00:00",
+      "sha256": "347b58dd6a6ca489d356b444b251dae04cecb267d431eeee9f897d9fd455cca4"
+    },
+    {
+      "version": "15w39a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-09-21T13:16:32+00:00",
+      "sha256": "51aad7f55dde47f56ab1f19ab728044db523ab8e0818dfa463f1a575d71f6e67"
+    },
+    {
+      "version": "15w38b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-09-17T14:22:31+00:00",
+      "sha256": "ad513c18b7cc463885c7e88bda49606f50756f76153b1b04c3b906ea349c3630"
+    },
+    {
+      "version": "15w38a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-09-16T14:22:31+00:00",
+      "sha256": "f0b857bf795aaa59439e9f3fcdc923378390a8ed28f1190f69af4fda31a9690c"
+    },
+    {
+      "version": "15w37a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-09-10T14:22:31+00:00",
+      "sha256": "f16ce63339566d72c135142e59196ccc8a2922b30de47d5db3549f67ec65023d"
+    },
+    {
+      "version": "15w36d",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-09-04T14:22:31+00:00",
+      "sha256": "49372bfcb64e6a0b9b7d70a3b4d5e1531f654ba12c3ed2e3035881c1572377d0"
+    },
+    {
+      "version": "15w36c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-09-02T16:07:22+00:00",
+      "sha256": "19a00607f9346d829137a0f7d2bf59d8129236a108218eb4375c4c5fe5178955"
+    },
+    {
+      "version": "15w36b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-09-02T15:36:25+00:00",
+      "sha256": "3bc684efa7beed3de125a582cccced512fcb29fdd5557d2a4cd784421237d708"
+    },
+    {
+      "version": "15w36a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-09-02T14:46:40+00:00",
+      "sha256": "bc1893f16e63e02b55aef4d46d335ed4559957321e7371c4193d019793a32feb"
+    },
+    {
+      "version": "15w35e",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-28T18:14:02+00:00",
+      "sha256": "15149327186a6f9b13cd94117a94481872edea51ed2c22b6e6a8294d092518d6"
+    },
+    {
+      "version": "15w35d",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-28T16:25:35+00:00",
+      "sha256": "5e5b9ec49d68ed871ae2e2015dabfc30ef48e82dc7bafb56255e3e4768104eb7"
+    },
+    {
+      "version": "15w35c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-28T11:21:00+00:00",
+      "sha256": "e13efb1574f7ad59fdbe57381918d84893af1017b4a08f05773eb071e5d5d914"
+    },
+    {
+      "version": "15w35b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-24T15:39:18+00:00",
+      "sha256": "b2829cf5452659e6d164cd327c0889cd5462e530418f389d7d3dce48f1ea2eed"
+    },
+    {
+      "version": "15w35a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-24T14:19:31+00:00",
+      "sha256": "a2a1136d9e266d90b67a3dcdd717cd4eb99c5ea4a68e6f65ef117efac70d3677"
+    },
+    {
+      "version": "15w34d",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-21T15:27:55+00:00",
+      "sha256": "c07eff964d18d805f18c0750b890cc2ed568f595dccbb0610593228e3a3d0cc2"
+    },
+    {
+      "version": "15w34c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-21T12:45:20+00:00",
+      "sha256": "c9aca4fffea50afee02c7728135ec1be2ba413189c4cbf244533fa4f83ed0df9"
+    },
+    {
+      "version": "15w34b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-20T14:00:03+00:00",
+      "sha256": "517c77197be8a268cbd159ba26d0808018c87722335bf7861c78cc5daa174da0"
+    },
+    {
+      "version": "15w34a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-19T12:56:01+00:00",
+      "sha256": "20d5c919a8a1aeca325510a9584ecbabe960efaef28bfe986e15af4bf14cad29"
+    },
+    {
+      "version": "15w33c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-14T13:10:46+00:00",
+      "sha256": "ef424ad34b2143214b86d8f2c5d8b23102254dc06276a08ca8ba8174d58a18f1"
+    },
+    {
+      "version": "15w33b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-12T15:29:11+00:00",
+      "sha256": "06c59421278e50480ff92785ca54817f6c25551328a96285e296a05a9aae7480"
+    },
+    {
+      "version": "15w33a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-12T14:05:07+00:00",
+      "sha256": "c95e03855dbae91db3aecef3990bc1544a137733be49f563f9c21200d2e0c1af"
+    },
+    {
+      "version": "15w32c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-07T14:08:17+00:00",
+      "sha256": "68999a2a3796185e641e1051067c041db4c05ba98bb9be7e3b4ec48badc12744"
+    },
+    {
+      "version": "15w32b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-06T13:51:47+00:00",
+      "sha256": "9a48f49b0acd9135ad5a1db852da40db624f30c400e41c40c97a3c8a8ecc0894"
+    },
+    {
+      "version": "15w32a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-08-05T12:22:42+00:00",
+      "sha256": "41ba42b5207c53aaab70d4028d607e92d0b3229c32286f8eb284639814f72327"
+    },
+    {
+      "version": "15w31c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-07-31T13:45:08+00:00",
+      "sha256": "d067cf16829126dcc0ff4c61491f33052d35ebe5015f32a257240cb4f83487b0"
+    },
+    {
+      "version": "15w31b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-07-30T13:38:32+00:00",
+      "sha256": "4dc5d2fab5ed73e8eee6d32798eb88c55e25c386e228e3f4e2a7acde96d73a8b"
+    },
+    {
+      "version": "15w31a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-07-29T13:24:33+00:00",
+      "sha256": "c9a9b6affd4ca921e407bdcf24c27c143161289a6a0932a1cfefdd49ef40bdc9"
+    },
+    {
+      "version": "1.8.8",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2015-07-27T10:31:28+00:00",
+      "sha256": "0db8b7a54a68b88e1851a5d99e2234a5e4dfd018b519cffce1a06f6e66beedb2"
+    },
+    {
+      "version": "1.8.7",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2015-06-05T10:10:44+00:00",
+      "sha256": "0df0d12fc4e48a1a564d93e36cb82f1c9379c48745168716da8d45ae9afffa03"
+    },
+    {
+      "version": "1.8.6",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2015-05-25T10:31:19+00:00",
+      "sha256": "26eb07690d1666905c9f1975318453358b5e84bdcf4af0eb4d672838e42789f5"
+    },
+    {
+      "version": "1.8.5",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2015-05-22T11:15:28+00:00",
+      "sha256": "1d109730d4e261ea2bc7cf57dea2f3c2489279642fd2a480fd13bd38be852de5"
+    },
+    {
+      "version": "1.8.4",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2015-04-17T11:37:50+00:00",
+      "sha256": "4df63d293cedf64c1a45a788ef60ab8924051b824944d80f29892d61ebd99d0f"
+    },
+    {
+      "version": "15w14a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-04-01T07:08:00+00:00",
+      "sha256": "1dc84ab6224ae7495df73508e91d13fe1c634393d30954697f20b2351d9d2fb4"
+    },
+    {
+      "version": "1.8.3",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2015-02-20T14:00:09+00:00",
+      "sha256": "dbf21b4e508d361738ec26d731901135b19cbf9bae4ac381799e07bf36079b52"
+    },
+    {
+      "version": "1.8.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2015-02-19T15:47:29+00:00",
+      "sha256": "9a8fb4a73f46ab6b9b9fa86ec90337d35bc236e4e11dc5d726f88548493fd9d9"
+    },
+    {
+      "version": "1.8.2-pre7",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-02-16T13:01:35+00:00",
+      "sha256": "602088f1e9fcaa0047497ef537dde15de90c712436a96b103d11c803bf1d2b45"
+    },
+    {
+      "version": "1.8.2-pre6",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-01-30T11:58:24+00:00",
+      "sha256": "9acb6aaa2e6605b951ba0c985736a523d14699e6c8d9b74a5adcbe6095a7b618"
+    },
+    {
+      "version": "1.8.2-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-01-26T15:03:24+00:00",
+      "sha256": "1238725153423677ab120d18b9a016a480add2c15e7f573eb3269cb9f943014f"
+    },
+    {
+      "version": "1.8.2-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-01-16T14:19:59+00:00",
+      "sha256": "44f58279d72a8353f5ddeb019c70b0b541f2608ad6291aa9c4f16b1d3f78f119"
+    },
+    {
+      "version": "1.8.2-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-01-15T16:44:33+00:00",
+      "sha256": "d34f08ecb2feeebff0043c95ca025684097bb383a080f52e2ac1f6c90fd95887"
+    },
+    {
+      "version": "1.8.2-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2015-01-15T15:07:31+00:00",
+      "sha256": "7374a64ff6050828e2d588eea0338471e03e862260a68a80b717b5fab5459187"
+    },
+    {
+      "version": "1.8.2-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-12-18T11:29:41+00:00",
+      "sha256": "0cb19136837e0b9dc2694af1da6a979c059a892950ba9f6ff942b7c9ed7a1093"
+    },
+    {
+      "version": "1.8.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2014-11-24T14:13:31+00:00",
+      "sha256": "db93ef7904ff64f4147fbc11b89396b4190ca557e41687189f4fb374eddef2e9"
+    },
+    {
+      "version": "1.8.1-pre5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-11-19T14:30:48+00:00",
+      "sha256": "b6b8ddf475b830c4f602c6b72861b169a666779685f77989e505ef92b6a53492"
+    },
+    {
+      "version": "1.8.1-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-11-06T14:10:50+00:00",
+      "sha256": "c39387e6637126a5118553e8d402afdb87a614ea4c2c0069b37cb3c25655f4e5"
+    },
+    {
+      "version": "1.8.1-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-10-23T12:59:42+00:00",
+      "sha256": "96b8fd7a1f1982c88452f38586e6a5cbf08b3ccd61390e82256abb29a259e950"
+    },
+    {
+      "version": "1.8.1-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-10-16T14:19:27+00:00",
+      "sha256": "c4a2b70d1ba235fecdefec53dacd9d18113f5ea3469d88dbfa11c0ac989c1687"
+    },
+    {
+      "version": "1.8.1-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-10-15T13:25:11+00:00",
+      "sha256": "c6f2a3cfca425edbacc68c57b813100bd2917b5bcca69706cac36f4dae1f87a8"
+    },
+    {
+      "version": "1.8",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2014-09-02T08:24:35+00:00",
+      "sha256": "eaa15d9b56ce48d369654b358cfd16409cc9e739e1255bb18eada96e4364b24d"
+    },
+    {
+      "version": "1.8-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-28T09:40:54+00:00",
+      "sha256": "8dce37a094a42a9e01df56fcd9ef5f4bffcfa67a4e00b2eb06cd3f08d49cd9c1"
+    },
+    {
+      "version": "1.8-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-25T14:52:18+00:00",
+      "sha256": "ea6c4d3292bcb982b30bd005a0688082406e2db9e62073901e80ec869ec8bcdd"
+    },
+    {
+      "version": "1.8-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-21T13:56:26+00:00",
+      "sha256": "772af1084ddf8003c4ec30c998fbd608965eac9dfe24fb1038139d9a358a1e71"
+    },
+    {
+      "version": "14w34d",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-20T12:46:59+00:00",
+      "sha256": "83fadf397a3704f0b9305e68c8a8487e8972ce9cb16264c0399da19597c2a687"
+    },
+    {
+      "version": "14w34c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-19T15:31:24+00:00",
+      "sha256": "af3c9e19778a6ef41e4d881e7718b29c3c98aeb40b3addd80847416eff24c627"
+    },
+    {
+      "version": "14w34b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-18T15:14:28+00:00",
+      "sha256": "f9b7986f99543c7cad70f243401c45811d411b92af5668e01b79b6a2d5634779"
+    },
+    {
+      "version": "14w34a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-18T14:14:11+00:00",
+      "sha256": "2d36f568dd0a0f899afe44f8b8d7fdd629b22b88607283e995aa5b23b18f531f"
+    },
+    {
+      "version": "14w33c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-15T18:00:26+00:00",
+      "sha256": "134acde27bedbef8241c1d2a83fb2aea91b524631a8bc0249a31b0d23d05e88a"
+    },
+    {
+      "version": "14w33b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-15T16:23:51+00:00",
+      "sha256": "4b0433c1dd47ab3297c51f1d0bef510ad0028e517bc33c4fc1cb5f8feaf37ab5"
+    },
+    {
+      "version": "14w33a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-13T15:08:14+00:00",
+      "sha256": "b916c305df6e9f62809a907b244eb2bd8079f33df3870266a9bb3275f7ca2c51"
+    },
+    {
+      "version": "14w32d",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-08T15:13:41+00:00",
+      "sha256": "7a071a407dbbc63787831c17518dfb923645cd44319cb6b777f78553bbb9464a"
+    },
+    {
+      "version": "14w32c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-08T14:11:20+00:00",
+      "sha256": "a1e3bda83b02bd0f2588cbe2c89f2f1f55084f481cda3b8fc89ff258b9ab4505"
+    },
+    {
+      "version": "14w32b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-07T14:45:17+00:00",
+      "sha256": "8d97e4c704730583a1fbe7fff84a4480027ef2586440ba61030d2ff520fa2340"
+    },
+    {
+      "version": "14w32a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-08-06T14:01:16+00:00",
+      "sha256": "73e6b269318e635604ccf0004c1e75d22227630cf1210a4b05d20d7dd2c7980c"
+    },
+    {
+      "version": "14w31a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-07-30T15:38:05+00:00",
+      "sha256": "8780323dff5a14f2e786fa332bb158761debe23602b9aa44657b22d209584b44"
+    },
+    {
+      "version": "14w30c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-07-24T14:39:09+00:00",
+      "sha256": "0a998b104e0333c36f16633360d0a1aafad0bf8560d47deb3cc9d23add99b707"
+    },
+    {
+      "version": "14w30b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-07-23T15:03:03+00:00",
+      "sha256": "a20dd0280cb8248cb09ba31bf562608f41e86d400af6dbb46b4f5f4e5d5d30f1"
+    },
+    {
+      "version": "14w30a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-07-23T13:15:42+00:00",
+      "sha256": "2190f72cc88bdc6d756e36aac89f96e5bdadfcf6017f16bb1ac114f0ebd571a1"
+    },
+    {
+      "version": "14w29b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-07-16T17:27:40+00:00",
+      "sha256": "fd546b97ea4e9f2ac4aeeab34d08c472852f0c7b11ce63d5209a5d8a65b660b7"
+    },
+    {
+      "version": "14w29a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-07-16T15:18:17+00:00",
+      "sha256": "9cbcf4e8d8f3a08468e07a96a48e3d639222b91dbcf2784fcd32027b96873851"
+    },
+    {
+      "version": "14w28b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-07-10T14:28:48+00:00",
+      "sha256": "1e6aa86a1eac19a0bccc3431fa524c7b664c85d475a896e44748b6806ba5cf77"
+    },
+    {
+      "version": "14w28a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-07-09T15:42:36+00:00",
+      "sha256": "beb941a68b4c894b51cf0fd4c9f13f128baa5c5bdb6ea6982cac045bac9104ec"
+    },
+    {
+      "version": "14w27b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-07-02T18:34:56+00:00",
+      "sha256": "6a786cdc1309a06b8e16a98a8a7dc99a84ab85e1898dd45bb5d6882e8fbb4069"
+    },
+    {
+      "version": "14w27a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-07-02T16:07:20+00:00",
+      "sha256": "de60981e62cfe6148505ee96fc817e493a967b746a7d159270df1da7e203fec3"
+    },
+    {
+      "version": "14w26c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-06-26T15:05:03+00:00",
+      "sha256": "e87b8950d411cb18ffd17cb81d4c09255abd8249cc62bb7ae2c11658f300dc20"
+    },
+    {
+      "version": "14w26b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-06-25T15:08:39+00:00",
+      "sha256": "aeabb8ac38104fc279a89b0531d7fb3f1dbd09ccc1716f4ee2cf55c91f5f8332"
+    },
+    {
+      "version": "14w26a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-06-25T13:59:27+00:00",
+      "sha256": "cd9f5528925713e773f90690b01280db0d2aafe8186094cd76b78218c4a04d87"
+    },
+    {
+      "version": "14w25b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-06-19T12:29:48+00:00",
+      "sha256": "462a72e4fe7146d0bef719097da32e2880ca943960d0dc74c1c81b68330e18bd"
+    },
+    {
+      "version": "14w25a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-06-18T15:52:28+00:00",
+      "sha256": "1c42248448e7d8644bde927b74b4b059263cfca314cac0fd0ccf003463269c1b"
+    },
+    {
+      "version": "14w21b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-05-22T15:17:55+00:00",
+      "sha256": "4c9501dc616c8382de1dfbd370d68c9add3b119b6cb32b36bb933e1c2739f53a"
+    },
+    {
+      "version": "14w21a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-05-22T14:44:33+00:00",
+      "sha256": "012471cc9691e42dacab439eff31bd8ed3bfdffde1fe1378fa0f431e0eb98da0"
+    },
+    {
+      "version": "14w20b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-05-15T16:47:21+00:00",
+      "sha256": "9ed0f482f2e1be3e8664ca7140e7324cea3ce510721d7072900965b5a7e79158"
+    },
+    {
+      "version": "14w20a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-05-15T14:01:20+00:00",
+      "sha256": "b0bbf4d3cfe33ae1088261a2efdecd9b468c29c1194464ef1b58bb845ef387fb"
+    },
+    {
+      "version": "1.7.10",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2014-05-14T17:29:23+00:00",
+      "sha256": "768a11dbe7a60a1baba8cc42cc6286197b10e3df6fb0c1d1d9541528339c17f3"
+    },
+    {
+      "version": "1.7.10-pre4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-05-14T16:29:23+00:00",
+      "sha256": "9134f89a2ed765d595598e26c5f26f3bf5e77c348108a35336233f8555b6860e"
+    },
+    {
+      "version": "1.7.10-pre3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-05-14T15:29:23+00:00",
+      "sha256": "90e0a09e25010a89f77276331374c2f92cfb2920f4136427ae16477dce8da1ca"
+    },
+    {
+      "version": "1.7.10-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-05-14T14:29:23+00:00",
+      "sha256": "a66840663abe064c99eb73dedac0b0a33270986b49d9f02c3456f9187ec6df68"
+    },
+    {
+      "version": "1.7.10-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-05-14T13:29:23+00:00",
+      "sha256": "6abaad7442660fbfec568a6533e3ac888a7dbf22af1b0580514b5a06f3cfb153"
+    },
+    {
+      "version": "14w19a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-05-08T14:24:19+00:00",
+      "sha256": "97c9e0181c488fef40a32b2d4bbc877d8ce15d0653fe048def56ae94f20cadf8"
+    },
+    {
+      "version": "14w18b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-05-02T11:38:17+00:00",
+      "sha256": "3fa6003dee95b0b3c90adb6348997157498d4cf65cc3b0c7bb2a945215f668ba"
+    },
+    {
+      "version": "14w18a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-04-30T10:25:35+00:00",
+      "sha256": "9af8681bac300ba7da0e7f9d604fd50feeaf3b1194541aa4f5181697302d15ea"
+    },
+    {
+      "version": "14w17a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-04-24T15:44:49+00:00",
+      "sha256": "7f9355f481a03f8857a694ad55b0917290d1c4ec46263bd957d0f4c2388270e5"
+    },
+    {
+      "version": "14w11b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-04-14T14:36:19+00:00",
+      "sha256": "d1fe37a7916d52cd72546d19d97d5c50770b36f4ee8742c17af1dbf77d399adc"
+    },
+    {
+      "version": "1.7.9",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2014-04-14T13:29:23+00:00",
+      "sha256": "af118c3c68ce9118941009a1e3d9385a417de5923a9853f16a1d5492ebedabfb"
+    },
+    {
+      "version": "1.7.8",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2014-04-09T07:58:16+00:00",
+      "sha256": "e6b428b6237149ccf3dacd2184c1a8dd91d9987832a53962f1f85ddf7483f7f1"
+    },
+    {
+      "version": "1.7.7",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2014-04-09T07:52:16+00:00",
+      "sha256": "6057fa72a58473bf248667f27f1a3eed7428136cf93f7dfab9bd77050bea3e71"
+    },
+    {
+      "version": "1.7.6",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2014-04-09T07:52:06+00:00",
+      "sha256": "28f20fa1070c474952cca72ea665d9362d70432659ccc45b14a210e2919a9491"
+    },
+    {
+      "version": "14w11a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-03-13T14:02:50+00:00",
+      "sha256": "7976754fe59a66ff81d1761fefa3fb6717b0064415bb1259430e7eb7e90e1066"
+    },
+    {
+      "version": "1.7.6-pre2",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-03-08T11:00:01+00:00",
+      "sha256": "f9ff4ab1fc3873d05bf8870eff996f49f6df055e685a2150acf186a2be68c68c"
+    },
+    {
+      "version": "1.7.6-pre1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-03-08T11:00:00+00:00",
+      "sha256": "c4622032388b47b967b7c67a0aaef4cb6eba24bc600eefd84acca9bde1c92dbe"
+    },
+    {
+      "version": "14w10c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-03-07T13:49:55+00:00",
+      "sha256": "0ca3d8f720067a2c3e2a07c1da2a1a8892f7212274e5bdc84f70c9e235e168e7"
+    },
+    {
+      "version": "14w10b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-03-06T16:25:39+00:00",
+      "sha256": "caa93e93ae15c5dbd3420574d42efbbcd71507f68ccd172bf33faac0a967cdfc"
+    },
+    {
+      "version": "14w10a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-03-06T14:23:04+00:00",
+      "sha256": "e56ef1c35e01f80b1c7488f740d73cc0083ee9fb7a813d413074f3228b57c197"
+    },
+    {
+      "version": "14w08a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-02-26T17:00:00+00:00",
+      "sha256": "7d710dbf3aad35bc2368e0263636bd83d9a6baaaba522d07ae81aa7fa6ee9e58"
+    },
+    {
+      "version": "1.7.5",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2014-02-26T09:22:17+00:00",
+      "sha256": "03432c54acc2318b356b73dd50d8d4ad078236fd50843ead42a6390fed297cc0"
+    },
+    {
+      "version": "14w07a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-02-14T11:05:07+00:00",
+      "sha256": "e6b833dc36a505ec66665819ebf8a259ab886e98be9a2a547574623d30c62a91"
+    },
+    {
+      "version": "14w06b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-02-06T17:30:42+00:00",
+      "sha256": "b2cc9ae6d2efdcc3f8d6c9aa15a544c5bded255558da6b33e22f67a55f5c6977"
+    },
+    {
+      "version": "14w06a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-02-06T14:30:17+00:00",
+      "sha256": "bc23d646af9e960ecb4b4504abe76357090975c5a8c2b9b87588a11d0e073843"
+    },
+    {
+      "version": "14w05b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-01-31T14:05:50+00:00",
+      "sha256": "7e6b3e9e9bdf2c1f9358b4153517b7a3780e93173f905ac6be5aabb605ae0f1b"
+    },
+    {
+      "version": "14w05a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-01-30T15:32:41+00:00",
+      "sha256": "8b922282b5c6a8334a5cba6edb74c29d9875bf2f60f01e4afd1a2b7080c81862"
+    },
+    {
+      "version": "14w04b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-01-24T15:48:46+00:00",
+      "sha256": "7975189bd67d716e39c03798c70fca2d41894ae61ddb6c62e4617fa5265e79b6"
+    },
+    {
+      "version": "14w04a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-01-23T15:26:13+00:00",
+      "sha256": "c44f63867f44583763fc00f28e02c2f9389764a92ce0a4ce3f8a2ad47d49bd11"
+    },
+    {
+      "version": "14w03b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-01-16T16:36:19+00:00",
+      "sha256": "0ad1951a650febdfc20065ea021b53dd950eb87a326dbff2701a481282c89c13"
+    },
+    {
+      "version": "14w03a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-01-16T14:45:13+00:00",
+      "sha256": "ee46c55ce104b0b1691921da9b987ae5f46782a1c356e7e1be080566773db896"
+    },
+    {
+      "version": "14w02c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-01-10T15:42:36+00:00",
+      "sha256": "3355cc611b6e03dbda4e3682047e9a953e59730e5df795f547b32894f0658c87"
+    },
+    {
+      "version": "14w02b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-01-09T15:45:55+00:00",
+      "sha256": "7ea600d5deadecb812668ae11cb1788e350adf36bd53445be819ff4b20dc62bb"
+    },
+    {
+      "version": "14w02a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2014-01-09T14:44:41+00:00",
+      "sha256": "1e6d63f7aa4ff394b423b9753138c6b363e538e82c1211dd844ae7920f9b9ab8"
+    },
+    {
+      "version": "1.7.4",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2013-12-09T12:28:10+00:00",
+      "sha256": "34341027ecb86e0fda17d3a4686abc9742200a6a0437c4fd7d7785489d3d7de6"
+    },
+    {
+      "version": "1.7.3",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2013-12-06T13:55:34+00:00",
+      "sha256": "cba5c89c90b19ce2057ccef2a12ec87d7ca34cf48b2a2c1c73671536ae240876"
+    },
+    {
+      "version": "13w49a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-12-05T14:34:41+00:00",
+      "sha256": "917a1f769ea198823aa30ff71d0458d0465347d5c08584877cf77119949cdfe0"
+    },
+    {
+      "version": "13w48b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-11-26T18:36:08+00:00",
+      "sha256": "0fd76018079b9e6b54833875268e6a0a8c60633b3a678eb34870242d8f39785f"
+    },
+    {
+      "version": "13w48a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-11-25T16:53:39+00:00",
+      "sha256": "340dcc42d7bb242a13150052643bc0744451bb1a8bcfbfbff82e3a2b1e69b497"
+    },
+    {
+      "version": "13w47e",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-11-22T15:16:38+00:00",
+      "sha256": "5bfd25a07e06a7b6904f0a4e3f4fd8f89be2b4a5b9bca020988eab4cf566458a"
+    },
+    {
+      "version": "13w47d",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-11-22T13:51:15+00:00",
+      "sha256": "57f46cc655be52f8c5dbe8e18ec4a1e1d4b6b5fdb8f2f4e3cf97222f1d919a04"
+    },
+    {
+      "version": "13w47c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-11-21T17:10:33+00:00",
+      "sha256": "53f4aa6b836624804502f1bc9bdeeac93fefef20f91d32c6ae53a54edb48a3dc"
+    },
+    {
+      "version": "13w47b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-11-21T16:57:41+00:00",
+      "sha256": "073ba4439ea4269cfb29721cb1336094221db17e815687dd38a7322b0b55dbda"
+    },
+    {
+      "version": "13w47a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-11-21T15:59:58+00:00",
+      "sha256": "4548ca03b948cc28d674fd0013f7501be3533a2d5add6808b2afa58cdf01c5b0"
+    },
+    {
+      "version": "1.7.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2013-10-25T13:00:00+00:00",
+      "sha256": "ebb43e6d4e16ad80717577171b3273033c52e9f3e28cac92d9e0986d0cdfe67f"
+    },
+    {
+      "version": "1.7.1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-10-23T12:01:07+00:00",
+      "sha256": "1cfef074971b752a9bf23090c8d78eff3c94e067241f175bab6d167e9d5e7c62"
+    },
+    {
+      "version": "1.7",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-10-22T15:04:05+00:00",
+      "sha256": "a393d2e1ce84f30b615ce2e889e11252a2540cc0c7afd7741af15e8158581816"
+    },
+    {
+      "version": "13w43a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-10-21T16:34:47+00:00",
+      "sha256": "94e6ad6f2cc69625e38e7ea7bd0366131ccccb84a1aac1c730289fb733e6b6ca"
+    },
+    {
+      "version": "13w42b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-10-18T16:34:08+00:00",
+      "sha256": "78b35bd301cf0b23ca595ce8194f6885e2abe970421b71a208bd41f9f2f9b54b"
+    },
+    {
+      "version": "13w42a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-10-17T18:33:05+00:00",
+      "sha256": "ded20861ecc7fb861dacf008fc2845b3366637625dc50d2fae66ba0eee27a383"
+    },
+    {
+      "version": "13w41b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-10-11T15:09:17+00:00",
+      "sha256": "eb65a3068976d0075529bca0486e55bd7e4075390079663333bba1d3de9f5d27"
+    },
+    {
+      "version": "13w41a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-10-10T14:21:43+00:00",
+      "sha256": "3bbd8a1f00ee03ed5697056d26ee6b8ed079f90580bcff759fa3811ffbda4065"
+    },
+    {
+      "version": "13w39b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-09-27T12:15:58+00:00",
+      "sha256": "51b574b5f7dad0ae6648000846eb99898ec3a9175d096976ddeada4e135942c1"
+    },
+    {
+      "version": "13w39a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-09-26T15:11:19+00:00",
+      "sha256": "722f043061b8d90750bf36494645ccd601b80067b8928fd4fca468680bd784dd"
+    },
+    {
+      "version": "13w38c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-09-20T15:11:34+00:00",
+      "sha256": "a9ec58ea9406e9f9f1b432438b3dbc7744d3d67ca5df5e04c89030d7d9ede4f4"
+    },
+    {
+      "version": "13w38b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-09-20T13:45:40+00:00",
+      "sha256": "a20db69ed539d3136842148567c771ad9fa4e57349148f43f4267cc76071a075"
+    },
+    {
+      "version": "13w38a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-09-19T16:34:21+00:00",
+      "sha256": "53bea17336cb1c686706064fde6f5b91190bf060d5ab021f7abbc080d9db2ef9"
+    },
+    {
+      "version": "1.6.4",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2013-09-19T15:52:37+00:00",
+      "sha256": "0746609f1896032d6ae3fe22e7d7fe9cad147cccea7444673e62b3832d2fcc4c"
+    },
+    {
+      "version": "13w37b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-09-13T10:54:41+00:00",
+      "sha256": "22228ff7777224cb92c1946819c263492bc2bc8029493db3fc17d8398952f259"
+    },
+    {
+      "version": "1.6.3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-09-13T10:54:41+00:00",
+      "sha256": "6a786cf85ef5484fea0894a85a73879401558b0aef2cec0982aad87cbbe048b0"
+    },
+    {
+      "version": "13w37a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-09-12T14:23:14+00:00",
+      "sha256": "463cc191614a1cddace2e16d865a34c2a18ebefaa328860c234c9494d12e7b1f"
+    },
+    {
+      "version": "13w36b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-09-06T12:31:58+00:00",
+      "sha256": "d280fcf00a51b1a3e1b2da5c262ca77da3b50bfcee5365a91e009197e2a79d12"
+    },
+    {
+      "version": "13w36a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-09-05T13:05:40+00:00",
+      "sha256": "e4028f98b63fcb9c7d16cd2adc8f2c8a75295f597ea7c1fb10590ca8a65925eb"
+    },
+    {
+      "version": "1.6.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2013-07-05T13:09:02+00:00",
+      "sha256": "bf563a3893498262169a3a8a017300b3fce869505ce912f07925fe479d1d8c9d"
+    },
+    {
+      "version": "1.6.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2013-06-28T14:48:41+00:00",
+      "sha256": "7f02ca453a961c7dfc331f3946b3e895f76d29a4bdac847963e7ce0877a04361"
+    },
+    {
+      "version": "1.6",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-06-25T13:08:56+00:00",
+      "sha256": "e1ec8e348cf20c11241afff211b93af6336c0b978d775c5ff864338deb4cc92d"
+    },
+    {
+      "version": "13w26a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-06-24T16:06:06+00:00",
+      "sha256": "fdd099a8d131fa4b55b40176f90def255aa6debde077e9a01724b8aed316b162"
+    },
+    {
+      "version": "13w25c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-06-20T15:23:37+00:00",
+      "sha256": "be6eee6490b829450356b8e251400927d9b8446e20e83da2ddb7db840487aa8d"
+    },
+    {
+      "version": "13w25b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-06-18T15:13:27+00:00",
+      "sha256": "8f1e2b8cb260492455db02785fa98c3bde3264937c6420c1075877e44d9c3803"
+    },
+    {
+      "version": "13w25a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-06-17T14:08:06+00:00",
+      "sha256": "da592291625c0d767fead2d29c4ecc6a1567956969b947a77008da5e0ace7f3c"
+    },
+    {
+      "version": "13w24b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-06-14T12:19:13+00:00",
+      "sha256": "3fbd67e82ccd6fb7309ee2d55532362dc0c3ae1fc5641ebcf8f338114ca157da"
+    },
+    {
+      "version": "13w24a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-06-13T15:32:23+00:00",
+      "sha256": "a9c6a09523569cf3d9fc2267e6983e402b35d69cdacbdae6bb731350f0106f32"
+    },
+    {
+      "version": "13w23b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-06-08T00:32:01+00:00",
+      "sha256": "79c37e30d6327d4b9e7ae2a93d6943b9fa4a9fe606fd549f8bd401301585eeb5"
+    },
+    {
+      "version": "13w23a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-06-07T16:04:20+00:00",
+      "sha256": "2db3930d883f4532b4c5d8db7ee886576a1fcbaa7a954c7916f8f559c54e9c2e"
+    },
+    {
+      "version": "13w22a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-05-30T14:38:40+00:00",
+      "sha256": "1cfb7c2f0daf9afe55cfd4f885b5f3ddb2d23ba1f516edb99f15138a30dba2bd"
+    },
+    {
+      "version": "13w21b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-05-27T08:50:42+00:00",
+      "sha256": "e4c48e997d42f80c7db702120972c8b12bab36654ecfcf7c988ec4c015e9940e"
+    },
+    {
+      "version": "13w21a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-05-23T15:38:28+00:00",
+      "sha256": "b4d6bbd121a13b068dd8e15c4e842251c596ac259c77827c4919a8dbf1fe5044"
+    },
+    {
+      "version": "13w19a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-05-10T14:48:02+00:00",
+      "sha256": "9352372f57a48979bb99c8e4b92675c7f0407a3f8edc5e133b75ad02863bfafd"
+    },
+    {
+      "version": "13w18c",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-05-03T09:19:35+00:00",
+      "sha256": "3feb32538c921fc7c3ca259f906048dc865fe039aa882b41a0b3a11b5525ad37"
+    },
+    {
+      "version": "13w18b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-05-02T17:12:25+00:00",
+      "sha256": "c269cee0f4c767d0febfc486402bd1985079b47a7f158be83f6a8cbda609d7d7"
+    },
+    {
+      "version": "13w18a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-05-02T15:45:59+00:00",
+      "sha256": "89e6850c06a1c5d9948d188ba02371e175c5da299f0661a285646a25c2ab79b2"
+    },
+    {
+      "version": "13w17a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-04-25T15:50:00+00:00",
+      "sha256": "296fefc289dce022e2132ac8d36ff6d4679251aa715479864f966803ecd7bfea"
+    },
+    {
+      "version": "1.5.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2013-04-25T15:45:00+00:00",
+      "sha256": "ea4e5864456bcaa2a5a9cd4d67bcd8129b8b2a6afa363c39b73675be16ca06e7"
+    },
+    {
+      "version": "13w16b",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-04-23T21:51:22+00:00",
+      "sha256": "9258236c065e9161faf7978f5b37787992ca12a016873af3a5bff47bdafbd046"
+    },
+    {
+      "version": "13w16a",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-04-21T12:49:30+00:00",
+      "sha256": "187e11d313a1b84282e477ad4ae77dc49203fc6ce01c802ebcf96028278adcf7"
+    },
+    {
+      "version": "1.5.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2013-03-20T10:00:00+00:00",
+      "sha256": "21207a36964913efa2998461fa0bcd452850bd2cdcf2d300504bdec434759874"
+    },
+    {
+      "version": "1.5",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2013-03-06T22:00:00+00:00",
+      "sha256": "3a942ce200b3d2ff751616ab6fae3a94645c148ab07846a2f6f2ccc05de9d883"
+    },
+    {
+      "version": "1.4.7",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-12-27T22:00:00+00:00",
+      "sha256": "96240d61826cb70f6292620d62ac49f130a66e250248409af20ea501ce942ab6"
+    },
+    {
+      "version": "1.4.5",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-12-19T22:00:00+00:00",
+      "sha256": "c54a788f8145e0985b4c41e16c70ea5ef5e1a74abe16c54d1d7ade9c39f44499"
+    },
+    {
+      "version": "1.4.6",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-12-19T22:00:00+00:00",
+      "sha256": "043fba64b0fcf278963d85b09d7f76cb222cf7a9b00dc790dd18190a4ce83c65"
+    },
+    {
+      "version": "1.4.4",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-12-13T22:00:00+00:00",
+      "sha256": "08460849a220c615f8ec84169bc81399b34ed61154a983f6bdc7073b7da8647f"
+    },
+    {
+      "version": "1.4.3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2012-11-30T22:00:00+00:00",
+      "sha256": "ff28f96c2e0687d1a9118d38916238d3b47f8665adfa21a564c000fc5a4bfa93"
+    },
+    {
+      "version": "1.4.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-11-24T22:00:00+00:00",
+      "sha256": "cc43935ae033518ae30c013ca6cc0d6afc04a19d9e6e4cbe79b40ac936b4c440"
+    },
+    {
+      "version": "1.4.1",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2012-11-22T22:00:00+00:00",
+      "sha256": "3614ab9b2293795aef5b93d31393e4be77a246dbeb188159307d5667e02664fc"
+    },
+    {
+      "version": "1.4",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2012-11-18T22:00:00+00:00",
+      "sha256": "4aaa0d14520f077837b8a11dd979b6926811e943c77515fd654983c24fa517c8"
+    },
+    {
+      "version": "1.3.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-08-15T22:00:00+00:00",
+      "sha256": "a13aaaa9b0c7d4e4278f56e11f65ffe34f20b5b1d2f5b4ed7d6eba9b176f8c37"
+    },
+    {
+      "version": "1.3.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-07-31T22:00:00+00:00",
+      "sha256": "71eb43631c1f80e071450f9f648ef2df8a11f10ae2c5471ba960960b53215d72"
+    },
+    {
+      "version": "1.3",
+      "type": "snapshot",
+      "recommended": false,
+      "releaseTime": "2012-07-25T22:00:00+00:00",
+      "sha256": "2f7e57609064272000d8721a47860c3b6a062a3f1cdea23df127cd943f28a226"
+    },
+    {
+      "version": "1.2.5",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-03-29T22:00:00+00:00",
+      "sha256": "561fb97505b26af0675635ed01bf53ee4d4aeed15d836a2d689003fc045e2c9c"
+    },
+    {
+      "version": "1.2.4",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-03-21T22:00:00+00:00",
+      "sha256": "81f4f1f70e30bd2acd3e5dc5da7ceedc451b219ea405140bbbfa7568471f361b"
+    },
+    {
+      "version": "1.2.3",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-03-01T22:00:00+00:00",
+      "sha256": "2874b5ad967553dbf544ac3f82e174f7c47bb493a09122c165fb2fc9904df768"
+    },
+    {
+      "version": "1.2.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-02-29T22:00:01+00:00",
+      "sha256": "146eabea58c5d6dd43b05a59b6c9b628a1b01756d60fd6f430762b9cfba85577"
+    },
+    {
+      "version": "1.2.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-02-29T22:00:00+00:00",
+      "sha256": "4dbe604bdf4387247d8e7a32561033a38e38b17ebd825931bd376b3e0afc584f"
+    },
+    {
+      "version": "1.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2012-01-11T22:00:00+00:00",
+      "sha256": "ecf8f862d909a5a14fccfc463b542d02ae7d0d42cc193905b96c120e245c7961"
+    },
+    {
+      "version": "1.0",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2011-11-17T22:00:00+00:00",
+      "sha256": "d545ce96eddf521d4466e5e4d773cd16dd4c1524ebf24da668e7e5cf75318c21"
+    },
+    {
+      "version": "b1.8.1",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-09-18T22:00:00+00:00",
+      "sha256": "1c37a504128f17559e5d4de582ae7644a0915bcab2a6c28120350921b972fc9c"
+    },
+    {
+      "version": "b1.8",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-09-14T22:00:00+00:00",
+      "sha256": "040b1277bc4ce437a0d5ae00774bb025f796245b173eec1e4abd04e95726a110"
+    },
+    {
+      "version": "b1.7.3",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-07-07T22:00:00+00:00",
+      "sha256": "53346e8a54fb30b2c7e9e466c338d6ad13688f9fbdd8745fd86e13118bd6e251"
+    },
+    {
+      "version": "b1.7.2",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-06-30T22:00:00+00:00",
+      "sha256": "cbe6e52bb801007b0c9bf59e432772e7fe04234aceceb59e3838afa84f9fd9ee"
+    },
+    {
+      "version": "b1.7",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-06-29T22:00:00+00:00",
+      "sha256": "a310795f6e588577f3a39140546a818563162c2de7522013f29f0b3070e6e4ae"
+    },
+    {
+      "version": "b1.6.6",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-05-30T22:00:00+00:00",
+      "sha256": "1232eff557467b9d2f1d2a3ee9f68d3573600e5383d2fb2978d8de5a6de1339a"
+    },
+    {
+      "version": "b1.6.5",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-05-27T22:00:00+00:00",
+      "sha256": "aaf9842b2748f9e438ef5bd259f94bc44dd38b59b8f968ca849794623e0e1e10"
+    },
+    {
+      "version": "b1.6.4",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-05-25T22:00:04+00:00",
+      "sha256": "a72a36e547b0ae962290ccaaaada1f1c7c4f828b1dd077113ae56cc9d421198b"
+    },
+    {
+      "version": "b1.6.3",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-05-25T22:00:03+00:00",
+      "sha256": "c826b181afb64f469b40914bcb892b9c68de6d7076e909ee133b4c3601fa3fad"
+    },
+    {
+      "version": "b1.6.2",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-05-25T22:00:02+00:00",
+      "sha256": "b4bc18b47124be7007152fb6940aea18111432ac908eee754c622e3aa3ccc7c7"
+    },
+    {
+      "version": "b1.6.1",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-05-25T22:00:01+00:00",
+      "sha256": "8772add0fbc2bdb7922ff6fe606e5e2944b3db777907eaa64571d5715147a36e"
+    },
+    {
+      "version": "b1.6",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-05-25T22:00:00+00:00",
+      "sha256": "508a6a5d282bbd50bf3eaa18201c46fbcea551f3ad810236986400a5a5eb1531"
+    },
+    {
+      "version": "b1.5_01",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-04-19T22:00:00+00:00",
+      "sha256": "aa537b6abf29d20f0679209eb6dda51ca754af58e1373ef15ebbb8214b95a44b"
+    },
+    {
+      "version": "b1.5",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-04-18T22:00:00+00:00",
+      "sha256": "241da387e0422bb425f9a07c0d39a062ef7bc32dcad7f06d2a3fb19098a69557"
+    },
+    {
+      "version": "b1.4_01",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-04-04T22:00:00+00:00",
+      "sha256": "06596831f5698ba5c5451aafdbb675c23c3a5b22d7775897c944e75519113cb0"
+    },
+    {
+      "version": "b1.4",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-03-30T22:00:00+00:00",
+      "sha256": "75bed8d5c8848815199ace60363aab36862784ea0c84adeb845904fb6495b0aa"
+    },
+    {
+      "version": "b1.3_01",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-02-22T22:00:00+00:00",
+      "sha256": "31e9270169216311fb6caf8e2ac0815eca62546227c3bfe1b00bb57a6804cbc7"
+    },
+    {
+      "version": "b1.3b",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-02-21T22:00:00+00:00",
+      "sha256": "0b4e98e52394884e12bfdea68fff9fca7b56478fdeb8e4b79c5079a2a50ea0eb"
+    },
+    {
+      "version": "b1.2_02",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-01-20T22:00:00+00:00",
+      "sha256": "228f6ce0595bc1dd30488de08ddb80ed6342ad65dec5030770bff38c9274274e"
+    },
+    {
+      "version": "b1.2_01",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-01-13T22:00:00+00:00",
+      "sha256": "0046f74a5cba0e359817ab00d1071d552a16c9594c546845d14ca6656b73cbdc"
+    },
+    {
+      "version": "b1.2",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2011-01-12T22:00:00+00:00",
+      "sha256": "5633128adde6cec42032ecb6a251ced4b36efb9b61eda08ee61ea882afbd290f"
+    },
+    {
+      "version": "b1.1_02",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2010-12-21T22:00:01+00:00",
+      "sha256": "7556d145fae120bd9e68170e82fe61484ee93b8f98c5211a32d1927b783fed2c"
+    },
+    {
+      "version": "b1.1_01",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2010-12-21T22:00:00+00:00",
+      "sha256": "e15a839f5f15a7668f73c09293bfa6ff9f8a52395faac4c28254c2b3e4a855b6"
+    },
+    {
+      "version": "b1.0.2",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2010-12-20T22:00:00+00:00",
+      "sha256": "655ba931374f8da403bf363e5a8d22d899ad75a1619f3b862a047d969aae6f6a"
+    },
+    {
+      "version": "b1.0_01",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2010-12-19T22:00:01+00:00",
+      "sha256": "a1d6381f2fda3183cd3302e9304d4348fd20d75e81ee774a0830d3f13c593b21"
+    },
+    {
+      "version": "b1.0",
+      "type": "old_beta",
+      "recommended": false,
+      "releaseTime": "2010-12-19T22:00:00+00:00",
+      "sha256": "4e3ad35d26919be4587aa03d68f300e4b7f04bf2db95af5d2c0950b95137702d"
+    },
+    {
+      "version": "a1.2.6",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-12-02T22:00:00+00:00",
+      "sha256": "d9f6ae631a9513a166a1f51565452861ca72b65b1bf2078c7cbf1e4e5cc01281"
+    },
+    {
+      "version": "a1.2.5",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-11-30T22:00:00+00:00",
+      "sha256": "a62ed59ce0a4e704c0434122b05706c447e88e3b1a3bb0c765330269bf4f42c0"
+    },
+    {
+      "version": "a1.2.4_01",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-11-29T22:00:00+00:00",
+      "sha256": "89039d66a2776543420c78d46159168cc5142afa5df9ef0baa2e68d7b4c98376"
+    },
+    {
+      "version": "a1.2.3_04",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-11-25T22:00:00+00:00",
+      "sha256": "d968f388aa4c8f4360129701669b962c8cca0d6631509125f77a146567d755d0"
+    },
+    {
+      "version": "a1.2.3_02",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-11-24T22:00:00+00:00",
+      "sha256": "adaa1bb408bf4193f9d013fa8c558b02e7b8dc33563f26d85fcf47bb9e16580b"
+    },
+    {
+      "version": "a1.2.3_01",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-11-23T22:00:01+00:00",
+      "sha256": "70a143c79edf12d5409150149eed7e7d3d7f2792c85a6fd0d9d89e9356853da8"
+    },
+    {
+      "version": "a1.2.3",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-11-23T22:00:00+00:00",
+      "sha256": "ed7d4b5409fa2abff41a30295cc7c65dcc93cca7e2cc07f579f28485fb996282"
+    },
+    {
+      "version": "a1.2.2b",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-11-09T22:00:01+00:00",
+      "sha256": "62e8bf72f0d5ee2d32a77309f452e2d20a21e1a26a797cf2936b0e41a85526cf"
+    },
+    {
+      "version": "a1.2.2a",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-11-09T22:00:00+00:00",
+      "sha256": "2ec5bb214470077ac0cb4fac63ec1db675dd391e476f7c77b6c41b3452eeb3cf"
+    },
+    {
+      "version": "a1.2.1_01",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-11-04T22:00:01+00:00",
+      "sha256": "72f18a26b1113d45fa469a3fda9b59e6012220abb489f8292a58186bfc083824"
+    },
+    {
+      "version": "a1.2.1",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-11-04T22:00:00+00:00",
+      "sha256": "4fc448814e5b5ad02257f32cbb0dd10fb80bbe083c3ae3ab68ac028d1b79d9be"
+    },
+    {
+      "version": "a1.2.0_02",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-11-03T22:00:00+00:00",
+      "sha256": "ae3793710d3c02e43bb650a9c22f70f156b398bb89a20dd4b644dd912d171614"
+    },
+    {
+      "version": "a1.2.0_01",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-10-30T22:00:00+00:00",
+      "sha256": "4b17180c5ccf39418788b14eb5104f4d7b1c20d3579680ef78d914e2da1fb32f"
+    },
+    {
+      "version": "a1.2.0",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-10-29T22:00:00+00:00",
+      "sha256": "ea51d21f41fd3a801fafc7a896ada990775134d427e8fa124af4d05f1f79f61b"
+    },
+    {
+      "version": "a1.1.2_01",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-09-22T22:00:00+00:00",
+      "sha256": "6d2e9efc3583cfc44bbebeba140bf6463120ed02a19a49d74d58b8718d088cc4"
+    },
+    {
+      "version": "a1.1.2",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-09-19T22:00:00+00:00",
+      "sha256": "a67e1737aec6f279e0a6d1e0bf2e7ddf83479733cd72129466c0e1bc7a7172f5"
+    },
+    {
+      "version": "a1.1.0",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-09-12T22:00:00+00:00",
+      "sha256": "44f9900667059fa646ca399d547595c5b6453c5309d72a17f2965237369a8262"
+    },
+    {
+      "version": "a1.0.17_04",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-08-22T22:00:00+00:00",
+      "sha256": "2f7aa40d543174a95e9f64ab0efabd8ecbd5891df457e6c47db5ec7b62542fb1"
+    },
+    {
+      "version": "a1.0.17_02",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-08-19T22:00:00+00:00",
+      "sha256": "ef7c9be99856a9226f2a24d06d349261b8fa3b523fa378aba8a5f95f0a20e68a"
+    },
+    {
+      "version": "a1.0.16",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-08-11T22:00:00+00:00",
+      "sha256": "2c31815e6af2200854144954894cca4e44080cba7e8be966f84941cc2f5adf22"
+    },
+    {
+      "version": "a1.0.15",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-08-03T22:00:00+00:00",
+      "sha256": "56c151a141461ade8ee03a2acf4b24430cbeb35322dec139a36845194a501eb6"
+    },
+    {
+      "version": "a1.0.14",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-07-29T22:00:00+00:00",
+      "sha256": "8cec5340b768d899d871ef745d7ed3e5685f090625a4ab2da37f5f28b27af658"
+    },
+    {
+      "version": "a1.0.11",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-07-22T22:00:00+00:00",
+      "sha256": "9658f51686907f72a8550a916fb33f264b8b4152069f520b37294cf4ce650e72"
+    },
+    {
+      "version": "a1.0.5_01",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-07-12T22:00:00+00:00",
+      "sha256": "02768432f5c848ea22b1d1cb0b803d53abfe5bdc883b1969a4e5731c98c337c1"
+    },
+    {
+      "version": "a1.0.4",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-07-08T22:00:00+00:00",
+      "sha256": "2aced5c7ec8e150a9f59e255ee750c1fd26d7b283584958052a5f62a0f8393f0"
+    },
+    {
+      "version": "inf-20100618",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2010-06-15T22:00:00+00:00",
+      "sha256": "856280f644025c2e18bf64e3c2ef871acc26c243a48827092668e009a441ecab"
+    },
+    {
+      "version": "c0.30_01c",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2009-12-21T22:00:00+00:00",
+      "sha256": "2a6cef4f0b6859db40130f161691a1d138866b1ccd483d3e84173bc1e098fef9"
+    },
+    {
+      "version": "c0.0.13a",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2009-05-30T22:00:00+00:00",
+      "sha256": "cc42a23bb6e0cc03f8993357266f0fe55e0f4a0532f933455a97d54888529ef0"
+    },
+    {
+      "version": "c0.0.13a_03",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2009-05-21T22:00:00+00:00",
+      "sha256": "b7d4afdcc3e527c878b833d939029855784f0fa0f7ec0cbd9e3f8254ddf1596b"
+    },
+    {
+      "version": "c0.0.11a",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2009-05-16T22:00:00+00:00",
+      "sha256": "431b169e253c74d2a072833b9f438e7f7d58c3badde73fe59d7697581c5f50f2"
+    },
+    {
+      "version": "rd-161348",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2009-05-16T11:48:00+00:00",
+      "sha256": "a7e1e74b17f6d91914d57019f622fa7d1da38179dc4a8d18de2af28338d1be18"
+    },
+    {
+      "version": "rd-160052",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2009-05-15T22:52:00+00:00",
+      "sha256": "a567e97f418df5eecf8fe1e09883445821095ed5470b89d3cfa6893117748a22"
+    },
+    {
+      "version": "rd-20090515",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2009-05-14T22:00:00+00:00",
+      "sha256": "e5a96b8cbdf0cb3abae0a84c03036948af695f8bb0d75d82527f76e85b3870fa"
+    },
+    {
+      "version": "rd-132328",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2009-05-13T21:28:00+00:00",
+      "sha256": "3bf518e21e8e925ba4cc3c0ab194e9751bebbbad2130d284a50185695e96a58f"
+    },
+    {
+      "version": "rd-132211",
+      "type": "old_alpha",
+      "recommended": false,
+      "releaseTime": "2009-05-13T20:11:00+00:00",
+      "sha256": "8d44a1877037a681e58d0eab876fadb5c89f072c04e9a8a8513b7d23a5341cdd"
+    }
+  ]
+}

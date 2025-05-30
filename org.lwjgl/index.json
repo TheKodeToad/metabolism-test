@@ -1,0 +1,42 @@
+{
+  "uid": "org.lwjgl",
+  "name": "LWJGL 2",
+  "formatVersion": 1,
+  "versions": [
+    {
+      "version": "2.9.4-nightly-20150209",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2015-02-16T13:01:35+00:00",
+      "sha256": "f5511bde1de9241129083f92cdc341cf296cf93cd7b032f24258983a6e12f54b"
+    },
+    {
+      "version": "2.9.3",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2015-01-26T15:03:24+00:00",
+      "sha256": "bd11f7a698178146eeded1bc8ccd306dbeda779f3620b374ca965095a7de6f2c"
+    },
+    {
+      "version": "2.9.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2014-01-09T14:44:41+00:00",
+      "sha256": "4c42ca4743a23cde45842b55e7ce38c9db0640dbe84fdeee848352a6bd73bf8e"
+    },
+    {
+      "version": "2.9.1-nightly-20131120",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2013-11-21T15:59:58+00:00",
+      "sha256": "0856da497d9c9d10b7668c67e76d97f84ce00dedb69672795b263031da675c3c"
+    },
+    {
+      "version": "2.9.0",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2009-05-13T20:11:00+00:00",
+      "sha256": "ca966ccc0871b10af4c04b7465dd7c7a5ee4d713c17b6b6109fd1aaec9ca1db1"
+    }
+  ]
+}
