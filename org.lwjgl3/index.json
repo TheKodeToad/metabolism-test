@@ -28,15 +28,15 @@
       "version": "3.2.1",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2019-02-06T16:24:13+00:00",
-      "sha256": "1bda35c15c95d07d91a276b59bca17ab255a3f0df6fbbdedbc68a144d3905095"
+      "releaseTime": "2019-08-13T07:33:42+00:00",
+      "sha256": "70fe7eceb0ca30f787ff613738c9279681c7aab1573feefe22000805c34b615a"
     },
     {
       "version": "3.2.2",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2019-06-07T09:11:29+00:00",
-      "sha256": "14c687401f55c3bdf7db3b2ee1e945dc7cb808a4ae81cc4fd941ad2097596229"
+      "releaseTime": "2019-06-20T13:23:44+00:00",
+      "sha256": "602e0e122bcc60a9dac6916576d6841bac7b01a5c4cf32be37c4cab78c7f75b6"
     },
     {
       "version": "3.1.6",

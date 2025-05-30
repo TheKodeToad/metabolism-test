@@ -5714,6 +5714,139 @@
       "recommended": false,
       "releaseTime": "2009-05-13T20:11:00+00:00",
       "sha256": "8d44a1877037a681e58d0eab876fadb5c89f072c04e9a8a8513b7d23a5341cdd"
+    },
+    {
+      "version": "1.19_deep_dark_experimental_snapshot-1",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2022-02-17T13:55:59+00:00",
+      "sha256": "acd3e83f2be0da2bae2890adca4268c3c42858a044fd8456695e060dd755870e"
+    },
+    {
+      "version": "1.18_experimental-snapshot-7",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2021-09-08T12:33:23+00:00",
+      "sha256": "1f774fb58db18863addd3842bd24dcd0af4c1d49211b698daf30fb87af8c0b52"
+    },
+    {
+      "version": "1.18_experimental-snapshot-6",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2021-09-01T12:53:14+00:00",
+      "sha256": "93fa646331bcaef3cfccc6895c12a39fc4f30dd6fd3ab12496f229fd9d39d087"
+    },
+    {
+      "version": "1.18_experimental-snapshot-5",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2021-08-25T14:41:57+00:00",
+      "sha256": "6b40303bf4c486953fb43ef6b607ccee6d0833d22b2b4328b9396dca08c98040"
+    },
+    {
+      "version": "1.18_experimental-snapshot-4",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2021-08-17T16:10:25+00:00",
+      "sha256": "ff8948c35ea221a81ac911bc72d7dc11dfb3b3051482d55495a60cad0599c9f5"
+    },
+    {
+      "version": "1.18_experimental-snapshot-3",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2021-08-10T12:42:45+00:00",
+      "sha256": "33f5082660fc1745a2aff255d3cfad235802d736bb31da036ae2317a195829f7"
+    },
+    {
+      "version": "1.18_experimental-snapshot-2",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2021-07-20T13:35:08+00:00",
+      "sha256": "64e27685494496a6caccf7145d0b1af2c1189e1c944230d9c9d6715d42cc1354"
+    },
+    {
+      "version": "1.18_experimental-snapshot-1",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2021-07-13T12:54:19+00:00",
+      "sha256": "71603bf0bc810ab20815da0a14506493beaa5886920edaf47ea2b43504d50e61"
+    },
+    {
+      "version": "1.16_combat-6",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2020-08-26T06:24:28+00:00",
+      "sha256": "db92dbfae0d76d8d32aed16985978bbee821319c82dc2269a22e35790d446412"
+    },
+    {
+      "version": "1.16_combat-5",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2020-08-21T09:23:13+00:00",
+      "sha256": "c8c03c11cba5a0b562022aa99ef7d36b10ebb6049cc09f5b541f0738687d0930"
+    },
+    {
+      "version": "1.16_combat-3",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2020-08-14T09:02:15+00:00",
+      "sha256": "ab146567e5d49e0ba6e4f8fc17d95a3f201cb2a41f1d096cff21718795c76e61"
+    },
+    {
+      "version": "1.16_combat-2",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2020-08-13T11:56:30+00:00",
+      "sha256": "56bd8f32059fc785d2e6a9ffb984f911231a0073403ce4c689334caca8a0a08f"
+    },
+    {
+      "version": "1.16_combat-1",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2020-08-12T14:07:25+00:00",
+      "sha256": "0ebb4c04364206f487ce1164d285b9f099690df6c903867328bc40b8eeb075e0"
+    },
+    {
+      "version": "1.16_combat-0",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2020-08-07T10:44:47+00:00",
+      "sha256": "83737d9521db9c60440727c2b107ae56e3aa6d4f427bd0b3ca50b60c47124457"
+    },
+    {
+      "version": "1.15_combat-6",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2020-01-15T09:46:35+00:00",
+      "sha256": "f9cf679d4fbfc09f16048d6ef4bcb323ba8fa73eb474a5cbebe2e6f461063503"
+    },
+    {
+      "version": "1.15_combat-1",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2019-11-29T15:41:39+00:00",
+      "sha256": "73bed591f23df007d9592eb55e43c9cd22edd173f9a03af0fd55fbfcb9df241c"
+    },
+    {
+      "version": "1.14_combat-3",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2019-10-31T14:31:38+00:00",
+      "sha256": "e67be1d703b7354c9a542bef94794807f069b4cdd76a343bdee93a9b2f74ba37"
+    },
+    {
+      "version": "1.14_combat-0",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2019-08-13T07:33:42+00:00",
+      "sha256": "b50aa2a860b121965f8450424ead3405541048c3a052c460c47b2b7084529fe8"
+    },
+    {
+      "version": "1.14_combat-212796",
+      "type": "experiment",
+      "recommended": false,
+      "releaseTime": "2019-06-20T13:23:44+00:00",
+      "sha256": "755e8916f541440b0659eecdf39413e1e140b1c3adae27ce754c28b9d15eb91e"
     }
   ]
 }

@@ -9,7 +9,7 @@
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "d4a75a1a51c39d05b1343442e9e5f3c06908bbff0280e06f8568e7ccd827fe25"
+      "sha256": "0f55b2693138939d2d84809f0c7b3170a709c2451d913380b15e01828c21531f"
     },
     {
       "uid": "org.lwjgl",
@@ -19,7 +19,7 @@
     {
       "uid": "org.lwjgl3",
       "name": "LWJGL 3",
-      "sha256": "d0a05dd1ec935fe8fee126ddce8f7a57a73f1b703bbd373dfe6af68a6c258f1b"
+      "sha256": "712b3ac5c119a35677c5cd544ebb8b583d568e5f470dc8963c80ae6b20c7f03f"
     }
   ]
 }
