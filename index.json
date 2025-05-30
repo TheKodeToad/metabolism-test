@@ -2,9 +2,9 @@
   "formatVersion": 1,
   "packages": [
     {
-      "uid": "org.lwjgl3",
-      "name": "LWJGL 3",
-      "sha256": "1dfb2001408f912caf1496cb6846b419edf1095e0d7fe88d7ff1f2f53e74a5f1"
+      "uid": "net.fabricmc.fabric-loader",
+      "name": "Fabric Loader",
+      "sha256": "397cc1856badb768ca8d91efc39b3af9a3f2b1c75a6f78c0dc65ce9bf3f5f3dc"
     },
     {
       "uid": "org.lwjgl",
@@ -12,14 +12,14 @@
       "sha256": "4196bf99ac93be65e2b9fb4efa8c97df2c8a278a46a740ac49e9228a9f0e745f"
     },
     {
+      "uid": "org.lwjgl3",
+      "name": "LWJGL 3",
+      "sha256": "1dfb2001408f912caf1496cb6846b419edf1095e0d7fe88d7ff1f2f53e74a5f1"
+    },
+    {
       "uid": "net.minecraft",
       "name": "Minecraft",
       "sha256": "932bde2a829619648b1f5edb2398e26f62fef76afafd453798b36eb2e6f6bfac"
-    },
-    {
-      "uid": "net.fabricmc.fabric-loader",
-      "name": "Fabric Loader",
-      "sha256": "397cc1856badb768ca8d91efc39b3af9a3f2b1c75a6f78c0dc65ce9bf3f5f3dc"
     }
   ]
 }
