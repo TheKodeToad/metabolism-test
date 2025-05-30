@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "25w20a",
   "type": "snapshot",
-  "releaseTime": "2025-05-13T11:46:28+00:00",
+  "releaseTime": "2025-05-13T11:46:28.000Z",
   "order": -2,
   "requires": [
     {

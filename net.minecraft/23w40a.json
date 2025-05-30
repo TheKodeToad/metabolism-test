@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "23w40a",
   "type": "snapshot",
-  "releaseTime": "2023-10-04T12:48:53+00:00",
+  "releaseTime": "2023-10-04T12:48:53.000Z",
   "order": -2,
   "requires": [
     {

@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "1.18.2-pre3",
   "type": "snapshot",
-  "releaseTime": "2022-02-23T15:23:12+00:00",
+  "releaseTime": "2022-02-23T15:23:12.000Z",
   "order": -2,
   "requires": [
     {

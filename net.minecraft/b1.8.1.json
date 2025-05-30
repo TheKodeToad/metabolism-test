@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "b1.8.1",
   "type": "old_beta",
-  "releaseTime": "2011-09-18T22:00:00+00:00",
+  "releaseTime": "2011-09-18T22:00:00.000Z",
   "order": -2,
   "requires": [
     {

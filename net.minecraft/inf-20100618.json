@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "inf-20100618",
   "type": "old_alpha",
-  "releaseTime": "2010-06-15T22:00:00+00:00",
+  "releaseTime": "2010-06-15T22:00:00.000Z",
   "order": -2,
   "requires": [
     {

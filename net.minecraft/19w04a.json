@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "19w04a",
   "type": "snapshot",
-  "releaseTime": "2019-01-24T15:31:52+00:00",
+  "releaseTime": "2019-01-24T15:31:52.000Z",
   "order": -2,
   "requires": [
     {

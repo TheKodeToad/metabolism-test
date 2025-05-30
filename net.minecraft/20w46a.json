@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "20w46a",
   "type": "snapshot",
-  "releaseTime": "2020-11-11T15:30:32+00:00",
+  "releaseTime": "2020-11-11T15:30:32.000Z",
   "order": -2,
   "requires": [
     {

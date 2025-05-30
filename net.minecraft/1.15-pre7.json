@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "1.15-pre7",
   "type": "snapshot",
-  "releaseTime": "2019-12-09T12:14:11+00:00",
+  "releaseTime": "2019-12-09T12:14:11.000Z",
   "order": -2,
   "requires": [
     {

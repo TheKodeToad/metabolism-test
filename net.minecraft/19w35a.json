@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "19w35a",
   "type": "snapshot",
-  "releaseTime": "2019-08-28T15:01:44+00:00",
+  "releaseTime": "2019-08-28T15:01:44.000Z",
   "order": -2,
   "requires": [
     {

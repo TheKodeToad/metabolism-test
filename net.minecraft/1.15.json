@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "1.15",
   "type": "release",
-  "releaseTime": "2019-12-09T13:13:38+00:00",
+  "releaseTime": "2019-12-09T13:13:38.000Z",
   "order": -2,
   "requires": [
     {

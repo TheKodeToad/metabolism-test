@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "1.0",
   "type": "release",
-  "releaseTime": "2011-11-17T22:00:00+00:00",
+  "releaseTime": "2011-11-17T22:00:00.000Z",
   "order": -2,
   "requires": [
     {

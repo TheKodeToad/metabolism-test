@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "1.19.4-rc3",
   "type": "snapshot",
-  "releaseTime": "2023-03-13T10:03:11+00:00",
+  "releaseTime": "2023-03-13T10:03:11.000Z",
   "order": -2,
   "requires": [
     {

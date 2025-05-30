@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "22w12a",
   "type": "snapshot",
-  "releaseTime": "2022-03-24T16:15:02+00:00",
+  "releaseTime": "2022-03-24T16:15:02.000Z",
   "order": -2,
   "requires": [
     {

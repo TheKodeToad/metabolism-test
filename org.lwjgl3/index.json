@@ -7,50 +7,50 @@
       "version": "3.3.3",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2024-04-03T11:49:39+00:00",
-      "sha256": "b8cca433c45ee8c1a7429193edd12b67ae6f9280524c90a06d488cf2da8b9d2b"
+      "releaseTime": "2024-04-03T11:49:39.000Z",
+      "sha256": "87ff3a34eeb0bb6e3dca161db38f799fa4cd8be7eea038781070043d09b599c2"
     },
     {
       "version": "3.3.2",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2023-08-30T11:24:35+00:00",
-      "sha256": "24c50b26eebc0076831b82f23000fa15e7db247c3c342231052f63d2778ca393"
+      "releaseTime": "2023-08-30T11:24:35.000Z",
+      "sha256": "105a1d7c07ca7e78411de28028ca16d757d8e09ac7ef6dfdfbb3928128433167"
     },
     {
       "version": "3.3.1",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2022-04-20T14:37:07+00:00",
-      "sha256": "cb9095c066cf1d31e8a360fc32de76e911c06643aa128fdb4ad5a8c92fcd0b0a"
+      "releaseTime": "2022-04-20T14:37:07.000Z",
+      "sha256": "a8b3ed0bb582b3ee0a1cc8aa01ddaa1cecaaaf77b5009a6c2c8fddf3144b2efa"
     },
     {
       "version": "3.2.1",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2019-08-13T07:33:42+00:00",
-      "sha256": "70fe7eceb0ca30f787ff613738c9279681c7aab1573feefe22000805c34b615a"
+      "releaseTime": "2019-08-13T07:33:42.000Z",
+      "sha256": "cb3c5d463b82b48f593c1b9105fd595764adbfadc8197baee52f168baedbbe81"
     },
     {
       "version": "3.2.2",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2019-06-20T13:23:44+00:00",
-      "sha256": "602e0e122bcc60a9dac6916576d6841bac7b01a5c4cf32be37c4cab78c7f75b6"
+      "releaseTime": "2019-06-20T13:23:44.000Z",
+      "sha256": "42d11460deed5bafd039e4355b393a24e38080658d0625b4c633bb55f6816b9c"
     },
     {
       "version": "3.1.6",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2018-06-26T13:00:55+00:00",
-      "sha256": "d67f2c0a7ad076e3bc2680f14c463cbf95a44bbd199a0b6eb88b401a634767fe"
+      "releaseTime": "2018-06-26T13:00:55.000Z",
+      "sha256": "bf7664bd2176b8e84e8034df6e8f5cdb63c47aaebba566ce53a59259db8feb17"
     },
     {
       "version": "3.1.2",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2017-10-25T14:43:50+00:00",
-      "sha256": "97161efc22c71bfa9f9cb61e1ea77bc4bc1a8dcfb9ada703ec0106178665336f"
+      "releaseTime": "2017-10-25T14:43:50.000Z",
+      "sha256": "55d3aa3edc94f90171de97486416fc7a54ee1c146ac1c0c982ba5ea3fb7d2605"
     }
   ]
 }

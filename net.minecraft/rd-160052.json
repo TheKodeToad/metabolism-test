@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "rd-160052",
   "type": "old_alpha",
-  "releaseTime": "2009-05-15T22:52:00+00:00",
+  "releaseTime": "2009-05-15T22:52:00.000Z",
   "order": -2,
   "requires": [
     {

@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "24w05b",
   "type": "snapshot",
-  "releaseTime": "2024-02-01T12:55:14+00:00",
+  "releaseTime": "2024-02-01T12:55:14.000Z",
   "order": -2,
   "requires": [
     {

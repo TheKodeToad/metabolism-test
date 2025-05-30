@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "15w43b",
   "type": "snapshot",
-  "releaseTime": "2015-10-22T14:11:58+00:00",
+  "releaseTime": "2015-10-22T14:11:58.000Z",
   "order": -2,
   "requires": [
     {

@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "16w32a",
   "type": "snapshot",
-  "releaseTime": "2016-08-10T12:30:10+00:00",
+  "releaseTime": "2016-08-10T12:30:10.000Z",
   "order": -2,
   "requires": [
     {

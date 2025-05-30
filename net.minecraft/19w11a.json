@@ -4,7 +4,7 @@
   "formatVersion": 1,
   "version": "19w11a",
   "type": "snapshot",
-  "releaseTime": "2019-03-13T13:59:29+00:00",
+  "releaseTime": "2019-03-13T13:59:29.000Z",
   "order": -2,
   "requires": [
     {

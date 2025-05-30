@@ -3,8 +3,8 @@
   "name": "Minecraft",
   "formatVersion": 1,
   "version": "1.18_experimental-snapshot-7",
-  "type": "experiment",
-  "releaseTime": "2021-09-08T12:33:23+00:00",
+  "type": "snapshot",
+  "releaseTime": "2021-09-08T12:33:23.000Z",
   "order": -2,
   "requires": [
     {
@@ -17,7 +17,7 @@
     "FirstThreadOnMacOS"
   ],
   "compatibleJavaMajors": [
-    16
+    17
   ],
   "compatibleJavaName": "java-runtime-alpha",
   "mainClass": "net.minecraft.client.main.Main",
