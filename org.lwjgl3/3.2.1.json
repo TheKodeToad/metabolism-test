@@ -253,11 +253,23 @@
             "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-macos.jar",
             "sha1": "759c2fd9cc5c6ce0b5b7af77ac8200483b7fb660",
             "size": 41962
+          },
+          "natives-windows": {
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-windows.jar",
+            "sha1": "85750d2ca022852e15f58c0b94b3d1d4e7f0ba52",
+            "size": 207577
+          },
+          "natives-linux": {
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-linux.jar",
+            "sha1": "4ad49108397322596d7b85c2c687e5de6ee52157",
+            "size": 38192
           }
         }
       },
       "natives": {
-        "osx": "natives-macos"
+        "osx": "natives-macos",
+        "windows": "natives-windows",
+        "linux": "natives-linux"
       }
     }
   ]
