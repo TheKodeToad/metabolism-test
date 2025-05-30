@@ -3,7 +3,7 @@
   "name": "LWJGL 3",
   "formatVersion": 1,
   "version": "3.3.3",
-  "releaseTime": "2024-04-03T11:49:39.000Z",
+  "releaseTime": "2025-05-28T09:34:04.000Z",
   "type": "release",
   "order": -1,
   "conflicts": [
@@ -32,15 +32,15 @@
             "sha1": "149070a5480900347071b7074779531f25a6e3dc",
             "size": 1245129
           },
-          "natives-macos-arm64": {
-            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-arm64.jar",
-            "sha1": "b0a8c9baa9d1f54ac61e1ab9640c7659e7fa700c",
-            "size": 1040981
-          },
           "natives-macos-patch": {
             "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-patch.jar",
             "sha1": "806d869f37ce0df388a24e17aaaf5ca0894d851b",
             "size": 1071983
+          },
+          "natives-macos-arm64": {
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-arm64.jar",
+            "sha1": "b0a8c9baa9d1f54ac61e1ab9640c7659e7fa700c",
+            "size": 1040981
           },
           "natives-windows": {
             "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-windows.jar",
@@ -61,8 +61,8 @@
       },
       "natives": {
         "linux": "natives-linux",
-        "osx-arm64": "natives-macos-arm64",
         "osx": "natives-macos-patch",
+        "osx-arm64": "natives-macos-arm64",
         "windows": "natives-windows",
         "windows-arm64": "natives-windows-arm64",
         "windows-x86": "natives-windows-x86"

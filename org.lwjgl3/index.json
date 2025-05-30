@@ -4,53 +4,53 @@
   "formatVersion": 1,
   "versions": [
     {
-      "version": "3.3.3",
+      "version": "3.1.2",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2024-04-03T11:49:39.000Z",
-      "sha256": "87ff3a34eeb0bb6e3dca161db38f799fa4cd8be7eea038781070043d09b599c2"
-    },
-    {
-      "version": "3.3.2",
-      "type": "release",
-      "recommended": false,
-      "releaseTime": "2023-08-30T11:24:35.000Z",
-      "sha256": "105a1d7c07ca7e78411de28028ca16d757d8e09ac7ef6dfdfbb3928128433167"
-    },
-    {
-      "version": "3.3.1",
-      "type": "release",
-      "recommended": false,
-      "releaseTime": "2022-04-20T14:37:07.000Z",
-      "sha256": "a8b3ed0bb582b3ee0a1cc8aa01ddaa1cecaaaf77b5009a6c2c8fddf3144b2efa"
-    },
-    {
-      "version": "3.2.1",
-      "type": "release",
-      "recommended": false,
-      "releaseTime": "2019-08-13T07:33:42.000Z",
-      "sha256": "cb3c5d463b82b48f593c1b9105fd595764adbfadc8197baee52f168baedbbe81"
-    },
-    {
-      "version": "3.2.2",
-      "type": "release",
-      "recommended": false,
-      "releaseTime": "2019-06-20T13:23:44.000Z",
-      "sha256": "42d11460deed5bafd039e4355b393a24e38080658d0625b4c633bb55f6816b9c"
+      "releaseTime": "2018-06-21T12:57:11.000Z",
+      "sha256": "e55458001fd6a8dc25a6aa57f0dfc4f2288005036d20282d211816660f824daf"
     },
     {
       "version": "3.1.6",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2018-06-26T13:00:55.000Z",
-      "sha256": "bf7664bd2176b8e84e8034df6e8f5cdb63c47aaebba566ce53a59259db8feb17"
+      "releaseTime": "2019-04-18T11:05:19.000Z",
+      "sha256": "c71d12000ef1b2b7c5e707abe64c1a86c391f873f0cce3eeb87554a2e70ced72"
     },
     {
-      "version": "3.1.2",
+      "version": "3.2.1",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2017-10-25T14:43:50.000Z",
-      "sha256": "55d3aa3edc94f90171de97486416fc7a54ee1c146ac1c0c982ba5ea3fb7d2605"
+      "releaseTime": "2022-04-13T15:41:17.000Z",
+      "sha256": "9488c76fff7f7f781fdfb8ecad3a72d735e9e55d4867046b7a012920736f0ccc"
+    },
+    {
+      "version": "3.2.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2022-04-13T15:41:17.000Z",
+      "sha256": "6e24cd66d5124689a5d181e39c4e03c683935d16a15c00168c2feecb37661874"
+    },
+    {
+      "version": "3.3.1",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2023-08-17T11:39:08.000Z",
+      "sha256": "2e374684f2ddd5b47b0cdff2d9bc21d75f82821e26fd0081668f705ebe8f4719"
+    },
+    {
+      "version": "3.3.2",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2024-04-01T11:07:19.000Z",
+      "sha256": "cd6f3ec5ff16177939653430f6bd819ad0355c67066332505900ece905af5ffc"
+    },
+    {
+      "version": "3.3.3",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2025-05-28T09:34:04.000Z",
+      "sha256": "15c80630239e35d5a7dd4a081cde209a7d18e93b858b5fde1781189e0b08895d"
     }
   ]
 }

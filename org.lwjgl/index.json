@@ -4,39 +4,39 @@
   "formatVersion": 1,
   "versions": [
     {
+      "version": "2.9.0",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2013-10-25T13:00:00.000Z",
+      "sha256": "d938e688849e34af08791b942b371451816e296ef740831beaa33183fba25731"
+    },
+    {
       "version": "2.9.4-nightly-20150209",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2011-09-09T14:01:33.000Z",
-      "sha256": "f0f75373ea47460f45516073597c163dcb7bf23f493877d1898ec97e35bc08de"
-    },
-    {
-      "version": "2.9.3",
-      "type": "release",
-      "recommended": false,
-      "releaseTime": "2015-01-26T15:03:24.000Z",
-      "sha256": "5c756e314a63d153506dc5085b141410f126ba69990c0b5e99c6805be3ecd148"
-    },
-    {
-      "version": "2.9.1",
-      "type": "release",
-      "recommended": false,
-      "releaseTime": "2014-01-09T14:44:41.000Z",
-      "sha256": "537214c3aca077d8d8ffc09842a5b0743565cc03643f3d959fffd3beb0837703"
+      "releaseTime": "2017-09-18T08:39:46.000Z",
+      "sha256": "dfa7bb923b2310a3af60b65d28778b3974194098a33efe1d8da722648474c167"
     },
     {
       "version": "2.9.1-nightly-20131120",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2013-11-21T15:59:58.000Z",
-      "sha256": "7b335bf2a5ea70c643702e620e920bc814ed53fc09eaf769bf0221f142ebeb00"
+      "releaseTime": "2013-12-09T12:28:10.000Z",
+      "sha256": "33aa4f030a88f255be7f89df56f290dce304507b4ea503130ca513fde26383a5"
     },
     {
-      "version": "2.9.0",
+      "version": "2.9.1",
       "type": "release",
       "recommended": false,
-      "releaseTime": "2009-05-13T20:11:00.000Z",
-      "sha256": "355ce5dad7ce1bc9ae86837c298df6cf3660f0f1833e623110bc954c92084825"
+      "releaseTime": "2015-01-16T14:19:59.000Z",
+      "sha256": "4a26cabac05f126c42e63ad6169b49faa6f762e0b39f3e39afd5926007cc5a74"
+    },
+    {
+      "version": "2.9.3",
+      "type": "release",
+      "recommended": false,
+      "releaseTime": "2015-01-30T11:58:24.000Z",
+      "sha256": "e06bce3f7d8e879cb9c5de74a32ab0d2d4f4dd62820e6e92acdd9ce4aaf87402"
     }
   ]
 }

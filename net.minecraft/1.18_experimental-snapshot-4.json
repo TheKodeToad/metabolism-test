@@ -3,7 +3,7 @@
   "name": "Minecraft",
   "formatVersion": 1,
   "version": "1.18_experimental-snapshot-4",
-  "type": "snapshot",
+  "type": "experiment",
   "releaseTime": "2021-08-17T16:10:25.000Z",
   "order": -2,
   "requires": [

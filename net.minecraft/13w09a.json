@@ -3,7 +3,7 @@
   "name": "Minecraft",
   "formatVersion": 1,
   "version": "13w09a",
-  "type": "snapshot",
+  "type": "old_snapshot",
   "releaseTime": "2013-02-26T14:48:08.000Z",
   "order": -2,
   "requires": [

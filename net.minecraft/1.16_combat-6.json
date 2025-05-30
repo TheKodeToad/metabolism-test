@@ -3,7 +3,7 @@
   "name": "Minecraft",
   "formatVersion": 1,
   "version": "1.16_combat-6",
-  "type": "special",
+  "type": "experiment",
   "releaseTime": "2020-08-26T06:24:28.000Z",
   "order": -2,
   "requires": [
