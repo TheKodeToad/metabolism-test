@@ -6,14 +6,14 @@
     {
       "version": "0.16.14",
       "type": "release",
-      "recommended": true,
+      "recommended": false,
       "releaseTime": "2025-04-16T17:38:53.000Z",
       "sha256": "962754bd5e85085ede1f9e745b0f7ab6ebac33ff100273425af8b7ade895e14e"
     },
     {
       "version": "0.16.13",
       "type": "release",
-      "recommended": false,
+      "recommended": true,
       "releaseTime": "2025-04-08T14:43:36.000Z",
       "sha256": "8371c1c883f0b75046177000c0b260e4d1947d4d6221a2651b89af26fc1a6f64"
     },
