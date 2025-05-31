@@ -5,7 +5,6 @@
   "version": "a1.0.17_02",
   "type": "old_alpha",
   "releaseTime": "2010-08-19T22:00:00.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl",

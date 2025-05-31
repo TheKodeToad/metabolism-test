@@ -5,7 +5,6 @@
   "version": "22w13oneblockatatime",
   "type": "snapshot",
   "releaseTime": "2022-04-01T11:56:58.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

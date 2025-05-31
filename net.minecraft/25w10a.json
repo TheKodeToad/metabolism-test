@@ -5,7 +5,6 @@
   "version": "25w10a",
   "type": "snapshot",
   "releaseTime": "2025-03-05T13:11:13.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

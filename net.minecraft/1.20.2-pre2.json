@@ -5,7 +5,6 @@
   "version": "1.20.2-pre2",
   "type": "snapshot",
   "releaseTime": "2023-09-07T12:42:32.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

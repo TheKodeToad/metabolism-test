@@ -5,7 +5,6 @@
   "version": "18w10c",
   "type": "snapshot",
   "releaseTime": "2018-03-08T15:29:23.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

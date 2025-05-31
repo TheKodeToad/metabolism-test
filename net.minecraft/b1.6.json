@@ -5,7 +5,6 @@
   "version": "b1.6",
   "type": "old_beta",
   "releaseTime": "2011-05-25T22:00:00.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl",

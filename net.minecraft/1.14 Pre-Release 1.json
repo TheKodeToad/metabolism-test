@@ -5,7 +5,6 @@
   "version": "1.14 Pre-Release 1",
   "type": "snapshot",
   "releaseTime": "2019-04-10T14:24:16.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

@@ -5,7 +5,6 @@
   "version": "22w07a",
   "type": "snapshot",
   "releaseTime": "2022-02-16T16:13:58.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

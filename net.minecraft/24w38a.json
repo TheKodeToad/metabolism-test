@@ -5,7 +5,6 @@
   "version": "24w38a",
   "type": "snapshot",
   "releaseTime": "2024-09-18T12:32:07.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

@@ -5,7 +5,6 @@
   "version": "1.21.5",
   "type": "release",
   "releaseTime": "2025-03-25T12:14:58.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

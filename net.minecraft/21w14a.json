@@ -5,7 +5,6 @@
   "version": "21w14a",
   "type": "snapshot",
   "releaseTime": "2021-04-07T14:04:09.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

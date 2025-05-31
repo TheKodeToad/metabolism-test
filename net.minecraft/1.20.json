@@ -5,7 +5,6 @@
   "version": "1.20",
   "type": "release",
   "releaseTime": "2023-06-02T08:36:17.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

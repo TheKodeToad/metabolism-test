@@ -5,7 +5,6 @@
   "version": "19w12b",
   "type": "snapshot",
   "releaseTime": "2019-03-21T15:20:01.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

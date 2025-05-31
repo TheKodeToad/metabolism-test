@@ -5,7 +5,6 @@
   "version": "18w32a",
   "type": "snapshot",
   "releaseTime": "2018-08-08T13:16:57.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

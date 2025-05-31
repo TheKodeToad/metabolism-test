@@ -5,7 +5,6 @@
   "version": "1.2.2",
   "type": "release",
   "releaseTime": "2012-02-29T22:00:01.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl",

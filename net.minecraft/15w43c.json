@@ -5,7 +5,6 @@
   "version": "15w43c",
   "type": "snapshot",
   "releaseTime": "2015-10-23T15:35:55.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl",

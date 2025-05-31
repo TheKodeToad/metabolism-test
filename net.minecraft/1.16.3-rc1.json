@@ -5,7 +5,6 @@
   "version": "1.16.3-rc1",
   "type": "snapshot",
   "releaseTime": "2020-09-07T12:34:06.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

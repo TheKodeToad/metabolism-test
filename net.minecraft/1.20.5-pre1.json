@@ -5,7 +5,6 @@
   "version": "1.20.5-pre1",
   "type": "snapshot",
   "releaseTime": "2024-04-10T12:44:25.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

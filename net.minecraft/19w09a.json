@@ -5,7 +5,6 @@
   "version": "19w09a",
   "type": "snapshot",
   "releaseTime": "2019-02-27T14:44:30.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

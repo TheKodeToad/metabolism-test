@@ -5,7 +5,6 @@
   "version": "14w03a",
   "type": "snapshot",
   "releaseTime": "2014-01-16T14:45:13.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl",

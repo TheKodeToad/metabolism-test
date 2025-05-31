@@ -5,7 +5,6 @@
   "version": "23w05a",
   "type": "snapshot",
   "releaseTime": "2023-02-01T14:20:33.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

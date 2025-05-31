@@ -5,7 +5,6 @@
   "version": "1.15_combat-1",
   "type": "experiment",
   "releaseTime": "2019-11-29T15:41:39.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

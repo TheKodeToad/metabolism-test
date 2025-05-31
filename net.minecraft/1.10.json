@@ -5,7 +5,6 @@
   "version": "1.10",
   "type": "release",
   "releaseTime": "2016-06-08T13:06:18.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl",

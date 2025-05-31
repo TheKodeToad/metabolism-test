@@ -5,7 +5,6 @@
   "version": "b1.9-pre3",
   "type": "old_snapshot",
   "releaseTime": "2011-10-06T14:03:51.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl",

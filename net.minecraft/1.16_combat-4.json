@@ -5,7 +5,6 @@
   "version": "1.16_combat-4",
   "type": "experiment",
   "releaseTime": "2020-08-19T11:14:58.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

@@ -5,7 +5,6 @@
   "version": "1.18-rc3",
   "type": "snapshot",
   "releaseTime": "2021-11-26T15:51:56.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

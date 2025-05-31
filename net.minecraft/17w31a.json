@@ -5,7 +5,6 @@
   "version": "17w31a",
   "type": "snapshot",
   "releaseTime": "2017-08-01T09:41:23.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl",

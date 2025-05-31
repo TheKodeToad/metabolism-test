@@ -5,7 +5,6 @@
   "version": "1.21.4-rc3",
   "type": "snapshot",
   "releaseTime": "2024-11-29T17:02:53.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

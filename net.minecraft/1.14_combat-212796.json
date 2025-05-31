@@ -5,7 +5,6 @@
   "version": "1.14_combat-212796",
   "type": "experiment",
   "releaseTime": "2019-06-20T13:23:44.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",

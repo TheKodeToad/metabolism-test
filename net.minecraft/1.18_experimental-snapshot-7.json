@@ -5,7 +5,6 @@
   "version": "1.18_experimental-snapshot-7",
   "type": "experiment",
   "releaseTime": "2021-09-08T12:33:23.000Z",
-  "order": -2,
   "requires": [
     {
       "uid": "org.lwjgl3",
