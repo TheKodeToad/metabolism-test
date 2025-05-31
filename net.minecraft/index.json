@@ -1664,10 +1664,10 @@
     },
     {
       "version": "1.18_experimental-snapshot-1",
-      "type": "experiemnt",
+      "type": "experiment",
       "recommended": false,
       "releaseTime": "2021-07-13T12:54:19.000Z",
-      "sha256": "e6d641cee4a498dc13fd7ee051fd84082688a238e922a6f0b9cadb44c1d8ada9"
+      "sha256": "cde12d223cca4529451638632fe9da729443d53278216a07f0f3ec089069a856"
     },
     {
       "version": "1.17.1",
