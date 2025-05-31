@@ -13,6 +13,10 @@
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "libraries": [
     {
+      "name": "net.fabricmc:fabric-loader:0.3.3.99",
+      "url": "https://maven.fabricmc.net"
+    },
+    {
       "name": "net.fabricmc:sponge-mixin:0.7.11.14",
       "url": "https://maven.fabricmc.net/"
     },

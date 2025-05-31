@@ -13,6 +13,10 @@
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "libraries": [
     {
+      "name": "net.fabricmc:fabric-loader:0.8.8+build.202",
+      "url": "https://maven.fabricmc.net"
+    },
+    {
       "name": "net.fabricmc:tiny-mappings-parser:0.2.2.14",
       "url": "https://maven.fabricmc.net/"
     },

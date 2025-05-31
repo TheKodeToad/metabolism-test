@@ -11,7 +11,14 @@
     }
   ],
   "mainClass": "net.minecraft.launchwrapper.Launch",
+  "+tweakers": [
+    "net.fabricmc.loader.launch.FabricClientTweaker"
+  ],
   "libraries": [
+    {
+      "name": "net.fabricmc:fabric-loader:0.2.0.62",
+      "url": "https://maven.fabricmc.net"
+    },
     {
       "name": "net.minecraft:launchwrapper:1.12"
     },

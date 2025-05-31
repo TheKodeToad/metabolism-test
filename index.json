@@ -4,22 +4,27 @@
     {
       "uid": "net.fabricmc.fabric-loader",
       "name": "Fabric Loader",
-      "sha256": "1abe060e5f47d5fbe95d91009df8ef2d218ad80c3116eb56b870bf2729094284"
+      "sha256": "3c83453699efd5b99859c4062db31dbf0f9879991a25780d1e801954a5f2e728"
+    },
+    {
+      "uid": "net.fabricmc.intermediary",
+      "name": "Fabric Intermediary",
+      "sha256": "ab897bcff8ed896f993c86d688c15011e9f6bc0eba7945a4f02f51692ab312a7"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "5ed42f37454c07e4b42f0f878277ddb2d05b1e4392b12dc625dd17f5cd83500e"
+      "sha256": "84a220bd38c8b523c4ad0716877021062e6336003544b61ea6a05f5ff5924f02"
     },
     {
       "uid": "org.lwjgl",
       "name": "LWJGL 2",
-      "sha256": "7623ada6c62232ca2a0ca504eceae63687a6aeb4920d6516fbf692d43c05fbcc"
+      "sha256": "0e7e4e5ba65b1664207c9d64acbe2aaced65b21c04c272f14ad5db25fadd7b63"
     },
     {
       "uid": "org.lwjgl3",
       "name": "LWJGL 3",
-      "sha256": "0d40ef8218093df247006542fddca72c62e4f4e4e53874a19b7fd8c28fd8b19a"
+      "sha256": "38270ef7332bf7d36087639ff158dfb310e61e20f2375ea1c0a15a21b9bb4a0f"
     }
   ]
 }
