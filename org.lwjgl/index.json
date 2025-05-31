@@ -8,35 +8,35 @@
       "type": "release",
       "recommended": false,
       "releaseTime": "2011-09-09T14:01:33.000Z",
-      "sha256": "f0f75373ea47460f45516073597c163dcb7bf23f493877d1898ec97e35bc08de"
+      "sha256": "097fd450790b0739a98f6c1e11e13f43853c8a7ee7b949922f584aaf61cd76dd"
     },
     {
       "version": "2.9.3",
       "type": "release",
       "recommended": false,
       "releaseTime": "2015-01-26T15:03:24.000Z",
-      "sha256": "5c756e314a63d153506dc5085b141410f126ba69990c0b5e99c6805be3ecd148"
+      "sha256": "77bb00190a28edba4484b1f12a4860c24f2a756806d53ae1c776be82b8a30a45"
     },
     {
       "version": "2.9.1",
       "type": "release",
       "recommended": false,
       "releaseTime": "2014-01-09T14:44:41.000Z",
-      "sha256": "537214c3aca077d8d8ffc09842a5b0743565cc03643f3d959fffd3beb0837703"
+      "sha256": "08cd398ed1a29fd1d67f029233a9e62ee57be2687e98169b913fb91c4eb3a5c1"
     },
     {
       "version": "2.9.1-nightly-20131120",
       "type": "release",
       "recommended": false,
       "releaseTime": "2013-11-21T15:59:58.000Z",
-      "sha256": "7b335bf2a5ea70c643702e620e920bc814ed53fc09eaf769bf0221f142ebeb00"
+      "sha256": "efd06723551919970db41a00b7fba36056ded830a713499e7f5e2fa65141442f"
     },
     {
       "version": "2.9.0",
       "type": "release",
       "recommended": false,
       "releaseTime": "2009-05-13T20:11:00.000Z",
-      "sha256": "355ce5dad7ce1bc9ae86837c298df6cf3660f0f1833e623110bc954c92084825"
+      "sha256": "4a0bbe4f52a1a1534c06f0be8fed9f3c544df6f0dae776d3ad8b6f70c7159b28"
     }
   ]
 }

@@ -5,7 +5,6 @@
   "version": "3.2.2",
   "releaseTime": "2019-06-07T09:11:29.000Z",
   "type": "release",
-  "order": -1,
   "conflicts": [
     {
       "uid": "org.lwjgl"

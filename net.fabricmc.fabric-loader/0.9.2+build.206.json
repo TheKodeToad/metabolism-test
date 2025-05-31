@@ -5,7 +5,6 @@
   "version": "0.9.2+build.206",
   "releaseTime": "2020-08-19T07:11:21.000Z",
   "type": "release",
-  "order": 10,
   "requires": [
     {
       "uid": "net.fabricmc.intermediary"

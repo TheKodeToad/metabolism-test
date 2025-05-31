@@ -5,7 +5,6 @@
   "version": "0.1.0.50",
   "releaseTime": "2018-12-02T10:44:25.000Z",
   "type": "release",
-  "order": 10,
   "requires": [
     {
       "uid": "net.fabricmc.intermediary"

@@ -13,7 +13,6 @@
     }
   ],
   "+traits": [
-    "XR:Initial",
     "FirstThreadOnMacOS",
     "feature:is_quick_play_singleplayer",
     "feature:is_quick_play_multiplayer"

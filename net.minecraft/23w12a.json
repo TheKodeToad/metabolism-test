@@ -13,7 +13,6 @@
     }
   ],
   "+traits": [
-    "XR:Initial",
     "FirstThreadOnMacOS"
   ],
   "compatibleJavaMajors": [

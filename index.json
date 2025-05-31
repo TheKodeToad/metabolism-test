@@ -4,22 +4,22 @@
     {
       "uid": "net.fabricmc.fabric-loader",
       "name": "Fabric Loader",
-      "sha256": "6e14f972bf382fecbca32080c9143c9f9550fbc6d5420b8d94ad3f56ef514666"
+      "sha256": "1abe060e5f47d5fbe95d91009df8ef2d218ad80c3116eb56b870bf2729094284"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "440904babba5567c774fee7fbeb08e1a9b6d8a917a4f6a163c69da85106a52f9"
+      "sha256": "1d589fada35f4a3c41a4404df8f0d1f49be766303ed148a204847b40ace6fe40"
     },
     {
       "uid": "org.lwjgl",
       "name": "LWJGL 2",
-      "sha256": "342b0a880c67b99269fe6f6cc576bcda9bd3677700f9b5ad28da650222164579"
+      "sha256": "7623ada6c62232ca2a0ca504eceae63687a6aeb4920d6516fbf692d43c05fbcc"
     },
     {
       "uid": "org.lwjgl3",
       "name": "LWJGL 3",
-      "sha256": "f3d2b4397f47b497887122e3a7a4a71a664b3d35ebf36602ea34ae4a168c98eb"
+      "sha256": "0d40ef8218093df247006542fddca72c62e4f4e4e53874a19b7fd8c28fd8b19a"
     }
   ]
 }
