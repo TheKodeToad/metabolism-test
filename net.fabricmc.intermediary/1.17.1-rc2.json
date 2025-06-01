@@ -3,7 +3,7 @@
   "name": "Fabric Intermediary",
   "formatVersion": 1,
   "version": "1.17.1-rc2",
-  "releaseTime": "2021-07-05T15:41:33.000Z",
+  "releaseTime": "2021-07-05T15:41:32.000Z",
   "type": "release",
   "requires": [
     {
