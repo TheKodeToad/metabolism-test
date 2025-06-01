@@ -14,7 +14,7 @@
   "libraries": [
     {
       "name": "net.fabricmc:fabric-loader:0.15.10",
-      "url": "https://maven.fabricmc.net"
+      "url": "https://maven.fabricmc.net/"
     },
     {
       "name": "org.ow2.asm:asm:9.6",

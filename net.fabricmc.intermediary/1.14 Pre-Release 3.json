@@ -15,7 +15,7 @@
   "libraries": [
     {
       "name": "net.fabricmc:intermediary:1.14 Pre-Release 3",
-      "url": "https://maven.fabricmc.net"
+      "url": "https://maven.fabricmc.net/"
     }
   ]
 }

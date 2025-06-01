@@ -15,7 +15,7 @@
   "libraries": [
     {
       "name": "net.fabricmc:intermediary:20w17a",
-      "url": "https://maven.fabricmc.net"
+      "url": "https://maven.fabricmc.net/"
     }
   ]
 }

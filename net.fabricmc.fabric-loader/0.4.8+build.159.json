@@ -14,7 +14,7 @@
   "libraries": [
     {
       "name": "net.fabricmc:fabric-loader:0.4.8+build.159",
-      "url": "https://maven.fabricmc.net"
+      "url": "https://maven.fabricmc.net/"
     },
     {
       "name": "net.fabricmc:tiny-mappings-parser:0.1.1.8",
