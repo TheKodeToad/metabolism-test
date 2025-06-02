@@ -4,7 +4,6 @@
   "formatVersion": 1,
   "version": "0.1.0.52",
   "releaseTime": "2018-12-05T13:51:39.000Z",
-  "type": "release",
   "requires": [
     {
       "uid": "net.fabricmc.intermediary"
@@ -50,5 +49,6 @@
       "name": "com.github.zafarkhaja:java-semver:0.9.0",
       "url": "http://repo.maven.apache.org/maven2/"
     }
-  ]
+  ],
+  "type": "release"
 }

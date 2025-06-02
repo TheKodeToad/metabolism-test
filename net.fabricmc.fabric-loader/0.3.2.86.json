@@ -4,7 +4,6 @@
   "formatVersion": 1,
   "version": "0.3.2.86",
   "releaseTime": "2019-01-02T20:32:04.000Z",
-  "type": "release",
   "requires": [
     {
       "uid": "net.fabricmc.intermediary"
@@ -44,5 +43,6 @@
       "name": "org.ow2.asm:asm-util:7.0",
       "url": "https://maven.fabricmc.net/"
     }
-  ]
+  ],
+  "type": "release"
 }

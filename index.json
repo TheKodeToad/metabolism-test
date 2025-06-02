@@ -4,7 +4,7 @@
     {
       "uid": "net.fabricmc.fabric-loader",
       "name": "Fabric Loader",
-      "sha256": "06a3e9841509aea42119d6306e3657fc005d34e7a402d6599b69db1890270489"
+      "sha256": "80c5c2168b26ec92dde63477da0fbbdac2a2593eaa5b138184047d3148145315"
     },
     {
       "uid": "net.fabricmc.intermediary",
@@ -25,6 +25,11 @@
       "uid": "org.lwjgl3",
       "name": "LWJGL 3",
       "sha256": "38270ef7332bf7d36087639ff158dfb310e61e20f2375ea1c0a15a21b9bb4a0f"
+    },
+    {
+      "uid": "org.quiltmc.quilt-loader",
+      "name": "Quilt Loader",
+      "sha256": "c15eafcbefee4a7656d738db1f6cce65242ff9a4e1d57be82242f3b748a52e91"
     }
   ]
 }

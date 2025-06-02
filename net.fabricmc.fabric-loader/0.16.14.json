@@ -4,7 +4,6 @@
   "formatVersion": 1,
   "version": "0.16.14",
   "releaseTime": "2025-04-16T17:38:53.000Z",
-  "type": "release",
   "requires": [
     {
       "uid": "net.fabricmc.intermediary"
@@ -40,5 +39,6 @@
       "name": "net.fabricmc:sponge-mixin:0.15.5+mixin.0.8.7",
       "url": "https://maven.fabricmc.net/"
     }
-  ]
+  ],
+  "type": "release"
 }
