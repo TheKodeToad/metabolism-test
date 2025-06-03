@@ -3,7 +3,7 @@
   "name": "Quilt Loader",
   "formatVersion": 1,
   "version": "0.26.2",
-  "releaseTime": "2025-06-02T16:03:43.000Z",
+  "releaseTime": "2025-06-03T16:10:19.000Z",
   "requires": [
     {
       "uid": "net.fabricmc.intermediary"
