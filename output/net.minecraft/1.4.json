@@ -1,0 +1,39 @@
+{
+  "uid": "net.minecraft",
+  "name": "Minecraft",
+  "formatVersion": 1,
+  "version": "1.4",
+  "type": "snapshot",
+  "releaseTime": "2012-11-18T22:00:00.000Z",
+  "requires": [
+    {
+      "uid": "org.lwjgl",
+      "suggests": "2.9.0"
+    }
+  ],
+  "+traits": [
+    "legacyLaunch"
+  ],
+  "compatibleJavaMajors": [
+    8
+  ],
+  "compatibleJavaName": "jre-legacy",
+  "minecraftArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}",
+  "mainJar": {
+    "name": "com.mojang:minecraft:1.4:client",
+    "downloads": {
+      "artifact": {
+        "url": "https://launcher.mojang.com/v1/objects/2007097b53d3eb43b2c1f3f78caab4a4ef690c7a/client.jar",
+        "sha1": "2007097b53d3eb43b2c1f3f78caab4a4ef690c7a",
+        "size": 4926161
+      }
+    }
+  },
+  "assetIndex": {
+    "id": "pre-1.6",
+    "sha1": "3d8e55480977e32acd9844e545177e69a52f594b",
+    "size": 74091,
+    "totalSize": 49505710,
+    "url": "https://launchermeta.mojang.com/v1/packages/3d8e55480977e32acd9844e545177e69a52f594b/pre-1.6.json"
+  }
+}

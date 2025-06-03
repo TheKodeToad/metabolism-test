@@ -1,0 +1,36 @@
+{
+  "uid": "net.minecraft",
+  "name": "Minecraft",
+  "formatVersion": 1,
+  "version": "b1.9-pre3",
+  "type": "old_snapshot",
+  "releaseTime": "2011-10-06T14:03:51.000Z",
+  "requires": [
+    {
+      "uid": "org.lwjgl",
+      "suggests": "2.9.4-nightly-20150209"
+    }
+  ],
+  "compatibleJavaMajors": [
+    8
+  ],
+  "compatibleJavaName": "jre-legacy",
+  "minecraftArguments": "",
+  "mainJar": {
+    "name": "com.mojang:minecraft:b1.9-pre3:client",
+    "downloads": {
+      "artifact": {
+        "url": "https://vault.omniarchive.uk/archive/java/client-beta/b1.9/pre/b1.9-pre3-1402.jar",
+        "sha1": "5b7fe76a602b7511c97740e36dc25040ccb6e76b",
+        "size": 2087104
+      }
+    }
+  },
+  "assetIndex": {
+    "id": "b1.7",
+    "sha1": "98b39610da59b9ec70bb2bec99da239394eb47bd",
+    "size": 27328,
+    "totalSize": 40938870,
+    "url": "https://meta.omniarchive.uk/indexes/b1.7.json"
+  }
+}

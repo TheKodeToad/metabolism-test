@@ -1,0 +1,21 @@
+{
+  "uid": "net.fabricmc.intermediary",
+  "name": "Fabric Intermediary",
+  "formatVersion": 1,
+  "version": "1.16-pre7",
+  "releaseTime": "2020-10-15T21:22:49.000Z",
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "equals": "1.16-pre7"
+    }
+  ],
+  "volatile": true,
+  "libraries": [
+    {
+      "name": "net.fabricmc:intermediary:1.16-pre7",
+      "url": "https://maven.fabricmc.net/"
+    }
+  ]
+}

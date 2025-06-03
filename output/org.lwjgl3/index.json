@@ -1,0 +1,91 @@
+{
+  "uid": "org.lwjgl3",
+  "name": "LWJGL 3",
+  "formatVersion": 1,
+  "versions": [
+    {
+      "version": "3.3.3",
+      "type": "release",
+      "releaseTime": "2024-04-03T11:49:39.000Z",
+      "conflicts": [
+        {
+          "uid": "org.lwjgl"
+        }
+      ],
+      "recommended": false,
+      "sha256": "4012eff94d6d86236c87a8611405efef7028beef36bbadc1ffce926903f02908"
+    },
+    {
+      "version": "3.3.2",
+      "type": "release",
+      "releaseTime": "2023-08-30T11:24:35.000Z",
+      "conflicts": [
+        {
+          "uid": "org.lwjgl"
+        }
+      ],
+      "recommended": false,
+      "sha256": "231c2b9f4db881b20cb813fb1d6313bb8690974fc3ac798bc1cf0fdcfdb3aaf5"
+    },
+    {
+      "version": "3.3.1",
+      "type": "release",
+      "releaseTime": "2022-04-20T14:37:07.000Z",
+      "conflicts": [
+        {
+          "uid": "org.lwjgl"
+        }
+      ],
+      "recommended": false,
+      "sha256": "03c6eae1ef4bad5178eeb8532545deffa239645218423a547fb89ed2d6dd1c9c"
+    },
+    {
+      "version": "3.2.1",
+      "type": "release",
+      "releaseTime": "2019-02-06T16:24:13.000Z",
+      "conflicts": [
+        {
+          "uid": "org.lwjgl"
+        }
+      ],
+      "recommended": false,
+      "sha256": "aa8560fc6ecdf64450f4432c12e480a7558da800f9c895540fce2d4b1e9c4e25"
+    },
+    {
+      "version": "3.2.2",
+      "type": "release",
+      "releaseTime": "2019-06-07T09:11:29.000Z",
+      "conflicts": [
+        {
+          "uid": "org.lwjgl"
+        }
+      ],
+      "recommended": false,
+      "sha256": "08a3014caa2decefdd1cd4643a170fdcd22149bb4d9bc6a1d487acfd590ba7d6"
+    },
+    {
+      "version": "3.1.6",
+      "type": "release",
+      "releaseTime": "2018-06-26T13:00:55.000Z",
+      "conflicts": [
+        {
+          "uid": "org.lwjgl"
+        }
+      ],
+      "recommended": false,
+      "sha256": "2116f48ee5a345d74b67af06700fe4b71884f8322e332ddde515055beea70f53"
+    },
+    {
+      "version": "3.1.2",
+      "type": "release",
+      "releaseTime": "2017-10-25T14:43:50.000Z",
+      "conflicts": [
+        {
+          "uid": "org.lwjgl"
+        }
+      ],
+      "recommended": false,
+      "sha256": "0a9ebc2e376a8aafa60310c17f12caf2979b544ea94b2754ab4622b3264073a3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "uid": "net.fabricmc.intermediary",
+  "name": "Fabric Intermediary",
+  "formatVersion": 1,
+  "version": "23w40a",
+  "releaseTime": "2023-10-04T20:51:09.000Z",
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "equals": "23w40a"
+    }
+  ],
+  "volatile": true,
+  "libraries": [
+    {
+      "name": "net.fabricmc:intermediary:23w40a",
+      "url": "https://maven.fabricmc.net/"
+    }
+  ]
+}

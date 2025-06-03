@@ -1,0 +1,21 @@
+{
+  "uid": "net.fabricmc.intermediary",
+  "name": "Fabric Intermediary",
+  "formatVersion": 1,
+  "version": "25w14craftmine",
+  "releaseTime": "2025-04-01T17:03:28.000Z",
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "equals": "25w14craftmine"
+    }
+  ],
+  "volatile": true,
+  "libraries": [
+    {
+      "name": "net.fabricmc:intermediary:25w14craftmine",
+      "url": "https://maven.fabricmc.net/"
+    }
+  ]
+}

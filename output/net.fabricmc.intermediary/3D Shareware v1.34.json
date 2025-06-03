@@ -1,0 +1,21 @@
+{
+  "uid": "net.fabricmc.intermediary",
+  "name": "Fabric Intermediary",
+  "formatVersion": 1,
+  "version": "3D Shareware v1.34",
+  "releaseTime": "2020-10-15T21:23:37.000Z",
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "equals": "3D Shareware v1.34"
+    }
+  ],
+  "volatile": true,
+  "libraries": [
+    {
+      "name": "net.fabricmc:intermediary:3D Shareware v1.34",
+      "url": "https://maven.fabricmc.net/"
+    }
+  ]
+}

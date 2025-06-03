@@ -1,0 +1,49 @@
+{
+  "uid": "net.minecraft",
+  "name": "Minecraft",
+  "formatVersion": 1,
+  "version": "rd-20090515",
+  "type": "old_alpha",
+  "releaseTime": "2009-05-14T22:00:00.000Z",
+  "requires": [
+    {
+      "uid": "org.lwjgl",
+      "suggests": "2.9.0"
+    }
+  ],
+  "compatibleJavaMajors": [
+    8
+  ],
+  "compatibleJavaName": "jre-legacy",
+  "mainClass": "com.mojang.minecraft.RubyDung",
+  "minecraftArguments": "${auth_player_name} ${auth_session}",
+  "mainJar": {
+    "name": "com.mojang:minecraft:rd-20090515:client",
+    "downloads": {
+      "artifact": {
+        "url": "https://launcher.mojang.com/v1/objects/6323bd14ed7f83852e17ebc8ec418e55c97ddfe4/client.jar",
+        "sha1": "6323bd14ed7f83852e17ebc8ec418e55c97ddfe4",
+        "size": 60480
+      }
+    }
+  },
+  "assetIndex": {
+    "id": "pre-1.6",
+    "sha1": "3d8e55480977e32acd9844e545177e69a52f594b",
+    "size": 74091,
+    "totalSize": 49505710,
+    "url": "https://launchermeta.mojang.com/v1/packages/3d8e55480977e32acd9844e545177e69a52f594b/pre-1.6.json"
+  },
+  "libraries": [
+    {
+      "name": "net.sf.jopt-simple:jopt-simple:4.5",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+          "sha1": "6065cc95c661255349c1d0756657be17c29a4fd3",
+          "size": 61311
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": "net.minecraft",
+  "name": "Minecraft",
+  "formatVersion": 1,
+  "version": "b1.8-pre1-2",
+  "type": "old_snapshot",
+  "releaseTime": "2011-09-09T14:01:33.000Z",
+  "requires": [
+    {
+      "uid": "org.lwjgl",
+      "suggests": "2.9.4-nightly-20150209"
+    }
+  ],
+  "compatibleJavaMajors": [
+    8
+  ],
+  "compatibleJavaName": "jre-legacy",
+  "minecraftArguments": "",
+  "mainJar": {
+    "name": "com.mojang:minecraft:b1.8-pre1-2:client",
+    "downloads": {
+      "artifact": {
+        "url": "https://vault.omniarchive.uk/archive/java/client-beta/b1.8/pre/b1.8-pre1-091357.jar",
+        "sha1": "6789c69ede3aedf83b800c76bea56855d38a0afc",
+        "size": 1893151
+      }
+    }
+  },
+  "assetIndex": {
+    "id": "b1.7",
+    "sha1": "98b39610da59b9ec70bb2bec99da239394eb47bd",
+    "size": 27328,
+    "totalSize": 40938870,
+    "url": "https://meta.omniarchive.uk/indexes/b1.7.json"
+  }
+}

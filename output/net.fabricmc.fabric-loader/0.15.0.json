@@ -1,0 +1,44 @@
+{
+  "uid": "net.fabricmc.fabric-loader",
+  "name": "Fabric Loader",
+  "formatVersion": 1,
+  "version": "0.15.0",
+  "releaseTime": "2023-11-28T18:04:12.000Z",
+  "requires": [
+    {
+      "uid": "net.fabricmc.intermediary"
+    }
+  ],
+  "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+  "libraries": [
+    {
+      "name": "net.fabricmc:fabric-loader:0.15.0",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "org.ow2.asm:asm:9.6",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "org.ow2.asm:asm-analysis:9.6",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "org.ow2.asm:asm-commons:9.6",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "org.ow2.asm:asm-tree:9.6",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "org.ow2.asm:asm-util:9.6",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
+      "url": "https://maven.fabricmc.net/"
+    }
+  ],
+  "type": "release"
+}

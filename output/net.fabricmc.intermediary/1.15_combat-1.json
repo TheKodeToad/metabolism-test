@@ -1,0 +1,21 @@
+{
+  "uid": "net.fabricmc.intermediary",
+  "name": "Fabric Intermediary",
+  "formatVersion": 1,
+  "version": "1.15_combat-1",
+  "releaseTime": "2020-10-15T21:22:45.000Z",
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "equals": "1.15_combat-1"
+    }
+  ],
+  "volatile": true,
+  "libraries": [
+    {
+      "name": "net.fabricmc:intermediary:1.15_combat-1",
+      "url": "https://maven.fabricmc.net/"
+    }
+  ]
+}

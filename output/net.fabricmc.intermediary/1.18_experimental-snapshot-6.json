@@ -1,0 +1,21 @@
+{
+  "uid": "net.fabricmc.intermediary",
+  "name": "Fabric Intermediary",
+  "formatVersion": 1,
+  "version": "1.18_experimental-snapshot-6",
+  "releaseTime": "2021-09-01T14:54:55.000Z",
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "equals": "1.18_experimental-snapshot-6"
+    }
+  ],
+  "volatile": true,
+  "libraries": [
+    {
+      "name": "net.fabricmc:intermediary:1.18_experimental-snapshot-6",
+      "url": "https://maven.fabricmc.net/"
+    }
+  ]
+}

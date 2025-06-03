@@ -1,0 +1,21 @@
+{
+  "uid": "net.fabricmc.intermediary",
+  "name": "Fabric Intermediary",
+  "formatVersion": 1,
+  "version": "1.18-rc2",
+  "releaseTime": "2021-11-26T13:18:41.000Z",
+  "type": "release",
+  "requires": [
+    {
+      "uid": "net.minecraft",
+      "equals": "1.18-rc2"
+    }
+  ],
+  "volatile": true,
+  "libraries": [
+    {
+      "name": "net.fabricmc:intermediary:1.18-rc2",
+      "url": "https://maven.fabricmc.net/"
+    }
+  ]
+}
