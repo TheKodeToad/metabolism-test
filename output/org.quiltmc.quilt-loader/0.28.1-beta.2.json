@@ -13,7 +13,7 @@
   "libraries": [
     {
       "name": "org.quiltmc:quilt-loader:0.28.1-beta.2",
-      "url": "https://maven.quiltmc.org/repository/release/"
+      "url": "https://maven.quiltmc.org/"
     },
     {
       "name": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",

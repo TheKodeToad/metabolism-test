@@ -13,7 +13,7 @@
   "libraries": [
     {
       "name": "org.quiltmc:quilt-loader:0.18.1-beta.36",
-      "url": "https://maven.quiltmc.org/repository/release/"
+      "url": "https://maven.quiltmc.org/"
     },
     {
       "name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
