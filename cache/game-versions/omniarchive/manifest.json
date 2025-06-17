@@ -2,11 +2,47 @@
   "$schema": "https://meta.omniarchive.uk/schemas/v1/manifest.schema.json",
   "latest": {
     "april-fools": "25w14craftmine",
-    "release": "1.21.5",
-    "snapshot": "1.21.6-pre3",
+    "release": "1.21.6",
+    "snapshot": "1.21.6-rc1",
     "special": "combat8c"
   },
   "versions": [
+    {
+      "id": "1.21.6",
+      "type": "release",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.6.json",
+      "time": "2025-06-17T15:03:02+00:00",
+      "releaseTime": "2025-06-17T11:10:28+00:00",
+      "sha1": "2f18293b72672481acef69f564ef7aa3da3904ea",
+      "complianceLevel": 1,
+      "mojangVersion": "1.21.6",
+      "equivalentTo": "1.21.6",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "1.21.6-rc1",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.6-rc1.json",
+      "time": "2025-06-12T13:03:02+00:00",
+      "releaseTime": "2025-06-12T12:04:37+00:00",
+      "sha1": "2c98b5c7f613e539e709ad80511171112490efe7",
+      "complianceLevel": 1,
+      "mojangVersion": "1.21.6-rc1",
+      "equivalentTo": "1.21.6-rc1",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "1.21.6-pre4",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.6-pre4.json",
+      "time": "2025-06-10T12:48:02+00:00",
+      "releaseTime": "2025-06-10T12:22:36+00:00",
+      "sha1": "21690f1d7ab1e18ed443c0ef532fa305b182a4a4",
+      "complianceLevel": 1,
+      "mojangVersion": "1.21.6-pre4",
+      "equivalentTo": "1.21.6-pre4",
+      "phase": "post-1.0"
+    },
     {
       "id": "1.21.6-pre3",
       "type": "snapshot",

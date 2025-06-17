@@ -1,0 +1,43 @@
+{
+  "uid": "net.minecraft.java",
+  "name": "Mojang Provided Java",
+  "formatVersion": 1,
+  "versions": [
+    {
+      "version": "java16",
+      "releaseTime": "2021-05-10T16:43:02.000Z",
+      "recommended": false,
+      "sha256": "d2ba4ea8ae36d3bf6dbdaa602a1ba1a679411461e9013e2ab7c65b73033b9dad"
+    },
+    {
+      "version": "java17",
+      "releaseTime": "2021-11-15T14:19:45.000Z",
+      "recommended": false,
+      "sha256": "c32683bf83c66c0a057d86c7a3e94f93e29be9010c57776a7a5d7fe9377ff6be"
+    },
+    {
+      "version": "java21",
+      "releaseTime": "2025-05-19T08:30:12.000Z",
+      "recommended": false,
+      "sha256": "b66d491ee8793d415bfff8839e2f9ed36e0191583b2fe9b9e408ab3d35520b01"
+    },
+    {
+      "version": "java8",
+      "releaseTime": "2020-11-17T19:06:44.000Z",
+      "recommended": false,
+      "sha256": "eb412f973368adbbc691bf0797ecdd8c1559e979dad489a284813f101ba52134"
+    },
+    {
+      "version": "java14",
+      "releaseTime": "2021-03-25T22:47:03.000Z",
+      "recommended": false,
+      "sha256": "87f403c670548fe1901a951fecc53d0f3214d962f1b4cffa3731c9bc1ad2fbd9"
+    },
+    {
+      "version": "java12",
+      "releaseTime": "2021-03-25T22:47:02.000Z",
+      "recommended": false,
+      "sha256": "227af7494d7fd4333bc0f58e0b3ff3a8f3bb6af0fba3f9e62d6caa0246728e16"
+    }
+  ]
+}

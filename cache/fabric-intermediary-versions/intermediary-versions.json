@@ -1,5 +1,20 @@
 [
   {
+    "maven": "net.fabricmc:intermediary:1.21.6",
+    "version": "1.21.6",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.21.6-rc1",
+    "version": "1.21.6-rc1",
+    "stable": true
+  },
+  {
+    "maven": "net.fabricmc:intermediary:1.21.6-pre4",
+    "version": "1.21.6-pre4",
+    "stable": true
+  },
+  {
     "maven": "net.fabricmc:intermediary:1.21.6-pre3",
     "version": "1.21.6-pre3",
     "stable": true

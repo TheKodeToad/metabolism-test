@@ -1,0 +1,99 @@
+{
+  "uid": "net.minecraft.java",
+  "name": "Mojang Provided Java",
+  "formatVersion": 1,
+  "version": "java8",
+  "releaseTime": "2020-11-17T19:06:44.000Z",
+  "runtimes": [
+    {
+      "name": "jre-legacy",
+      "runtimeOS": "linux-i386",
+      "version": {
+        "major": 8,
+        "security": 202,
+        "name": "8u202"
+      },
+      "releaseTime": "2020-11-17T19:28:39.000Z",
+      "vendor": "mojang",
+      "packageType": "jre",
+      "downloadType": "manifest",
+      "checksum": {
+        "type": "sha1",
+        "hash": "6df5ff7142797f409ec41e0b94124e677927f8e2"
+      },
+      "url": "https://piston-meta.mojang.com/v1/packages/6df5ff7142797f409ec41e0b94124e677927f8e2/manifest.json"
+    },
+    {
+      "name": "jre-legacy",
+      "runtimeOS": "linuxx64",
+      "version": {
+        "major": 8,
+        "security": 202,
+        "name": "8u202"
+      },
+      "releaseTime": "2020-11-17T19:26:25.000Z",
+      "vendor": "mojang",
+      "packageType": "jre",
+      "downloadType": "manifest",
+      "checksum": {
+        "type": "sha1",
+        "hash": "c529f68a6febc042e71835a579f44d55a3717c46"
+      },
+      "url": "https://piston-meta.mojang.com/v1/packages/c529f68a6febc042e71835a579f44d55a3717c46/manifest.json"
+    },
+    {
+      "name": "jre-legacy",
+      "runtimeOS": "windows-x64",
+      "version": {
+        "major": 8,
+        "security": 51,
+        "name": "8u51"
+      },
+      "releaseTime": "2020-11-17T19:12:13.000Z",
+      "vendor": "mojang",
+      "packageType": "jre",
+      "downloadType": "manifest",
+      "checksum": {
+        "type": "sha1",
+        "hash": "b857498975fe5c5df26a1faa2b2c8ae7b5d15656"
+      },
+      "url": "https://piston-meta.mojang.com/v1/packages/b857498975fe5c5df26a1faa2b2c8ae7b5d15656/manifest.json"
+    },
+    {
+      "name": "jre-legacy",
+      "runtimeOS": "windows-x86",
+      "version": {
+        "major": 8,
+        "security": 51,
+        "name": "8u51"
+      },
+      "releaseTime": "2020-11-17T19:10:36.000Z",
+      "vendor": "mojang",
+      "packageType": "jre",
+      "downloadType": "manifest",
+      "checksum": {
+        "type": "sha1",
+        "hash": "ae4a64107cd5c9f57c5125ca2096bb4864d10f26"
+      },
+      "url": "https://piston-meta.mojang.com/v1/packages/ae4a64107cd5c9f57c5125ca2096bb4864d10f26/manifest.json"
+    },
+    {
+      "name": "jre-legacy",
+      "runtimeOS": "mac-osx64",
+      "version": {
+        "major": 8,
+        "security": 74,
+        "name": "8u74"
+      },
+      "releaseTime": "2020-11-17T19:06:44.000Z",
+      "vendor": "mojang",
+      "packageType": "jre",
+      "downloadType": "manifest",
+      "checksum": {
+        "type": "sha1",
+        "hash": "501341ccea685ea22228e481a57a5f13b62e9a1b"
+      },
+      "url": "https://piston-meta.mojang.com/v1/packages/501341ccea685ea22228e481a57a5f13b62e9a1b/manifest.json"
+    }
+  ]
+}

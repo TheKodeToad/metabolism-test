@@ -1,0 +1,26 @@
+{
+  "uid": "net.minecraft.java",
+  "name": "Mojang Provided Java",
+  "formatVersion": 1,
+  "version": "java12",
+  "releaseTime": "2021-03-25T22:47:02.000Z",
+  "runtimes": [
+    {
+      "name": "minecraft-java-exe",
+      "runtimeOS": "windows-x86",
+      "version": {
+        "major": 12,
+        "name": "12"
+      },
+      "releaseTime": "2021-03-25T22:47:02.000Z",
+      "vendor": "mojang",
+      "packageType": "jre",
+      "downloadType": "manifest",
+      "checksum": {
+        "type": "sha1",
+        "hash": "47718d230325c8381f33a371f060ce3149f8001a"
+      },
+      "url": "https://piston-meta.mojang.com/v1/packages/47718d230325c8381f33a371f060ce3149f8001a/manifest.json"
+    }
+  ]
+}
