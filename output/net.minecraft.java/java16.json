@@ -7,7 +7,7 @@
   "runtimes": [
     {
       "name": "java-runtime-alpha",
-      "runtimeOS": "mac-osx64",
+      "runtimeOS": "mac-os-x64",
       "version": {
         "major": 16,
         "minor": 0,
@@ -67,7 +67,7 @@
     },
     {
       "name": "java-runtime-alpha",
-      "runtimeOS": "linuxx64",
+      "runtimeOS": "linux-x64",
       "version": {
         "major": 16,
         "minor": 0,

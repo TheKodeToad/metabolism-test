@@ -45,7 +45,7 @@
     },
     {
       "name": "java-runtime-delta",
-      "runtimeOS": "mac-osx64",
+      "runtimeOS": "mac-os-x64",
       "version": {
         "major": 21,
         "minor": 0,
@@ -83,7 +83,7 @@
     },
     {
       "name": "java-runtime-delta",
-      "runtimeOS": "linuxx64",
+      "runtimeOS": "linux-x64",
       "version": {
         "major": 21,
         "minor": 0,

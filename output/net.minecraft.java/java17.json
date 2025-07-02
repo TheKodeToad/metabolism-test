@@ -45,7 +45,7 @@
     },
     {
       "name": "java-runtime-gamma",
-      "runtimeOS": "mac-osx64",
+      "runtimeOS": "mac-os-x64",
       "version": {
         "major": 17,
         "minor": 0,
@@ -83,7 +83,7 @@
     },
     {
       "name": "java-runtime-gamma",
-      "runtimeOS": "linuxx64",
+      "runtimeOS": "linux-x64",
       "version": {
         "major": 17,
         "minor": 0,
@@ -140,7 +140,7 @@
     },
     {
       "name": "java-runtime-gamma-snapshot",
-      "runtimeOS": "mac-osx64",
+      "runtimeOS": "mac-os-x64",
       "version": {
         "major": 17,
         "minor": 0,
@@ -178,7 +178,7 @@
     },
     {
       "name": "java-runtime-gamma-snapshot",
-      "runtimeOS": "linuxx64",
+      "runtimeOS": "linux-x64",
       "version": {
         "major": 17,
         "minor": 0,
@@ -197,7 +197,7 @@
     },
     {
       "name": "java-runtime-beta",
-      "runtimeOS": "mac-osx64",
+      "runtimeOS": "mac-os-x64",
       "version": {
         "major": 17,
         "minor": 0,
@@ -216,7 +216,7 @@
     },
     {
       "name": "java-runtime-beta",
-      "runtimeOS": "linuxx64",
+      "runtimeOS": "linux-x64",
       "version": {
         "major": 17,
         "minor": 0,

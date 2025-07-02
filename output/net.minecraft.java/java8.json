@@ -25,7 +25,7 @@
     },
     {
       "name": "jre-legacy",
-      "runtimeOS": "linuxx64",
+      "runtimeOS": "linux-x64",
       "version": {
         "major": 8,
         "security": 202,
@@ -79,7 +79,7 @@
     },
     {
       "name": "jre-legacy",
-      "runtimeOS": "mac-osx64",
+      "runtimeOS": "mac-os-x64",
       "version": {
         "major": 8,
         "security": 74,
