@@ -27,6 +27,16 @@
       }
     }
   },
+  "logging": {
+    "argument": "-Dlog4j.configurationFile=${path}",
+    "file": {
+      "url": "https://launcher.mojang.com/v1/objects/50c9cc4af6d853d9fc137c84bcd153e2bd3a9a82/client-1.7.xml",
+      "sha1": "50c9cc4af6d853d9fc137c84bcd153e2bd3a9a82",
+      "size": 966,
+      "id": "client-1.7.xml"
+    },
+    "type": "log4j2-xml"
+  },
   "assetIndex": {
     "id": "legacy",
     "sha1": "770572e819335b6c0a053f8378ad88eda189fc14",

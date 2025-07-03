@@ -32,6 +32,16 @@
       }
     }
   },
+  "logging": {
+    "argument": "-Dlog4j.configurationFile=${path}",
+    "file": {
+      "url": "https://piston-data.mojang.com/v1/objects/39384bd14c0606d812afec88d8aff595b2587dd9/client-1.21.2.xml",
+      "sha1": "39384bd14c0606d812afec88d8aff595b2587dd9",
+      "size": 1073,
+      "id": "client-1.21.2.xml"
+    },
+    "type": "log4j2-xml"
+  },
   "assetIndex": {
     "id": "20",
     "sha1": "95497aeff6fbdea1a0c6fc7710feaf8ce0c80de9",
