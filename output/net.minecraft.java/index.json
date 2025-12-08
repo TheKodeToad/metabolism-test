@@ -23,9 +23,9 @@
     },
     {
       "version": "java8",
-      "releaseTime": "2020-11-17T19:06:44.000Z",
+      "releaseTime": "2020-11-17T19:26:25.000Z",
       "recommended": false,
-      "sha256": "a04d82c28940fa95a47613c755b343dabfa30d8637cbd0d8c1af5b9f0a9db129"
+      "sha256": "165b13844a7fbad5113400852911e16331d6a59e5904b045b3ce8d224352729b"
     },
     {
       "version": "java14",

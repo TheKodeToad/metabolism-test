@@ -4,6 +4,78 @@
   "formatVersion": 1,
   "versions": [
     {
+      "version": "0.18.1",
+      "type": "release",
+      "releaseTime": "2025-11-20T15:00:43.000Z",
+      "requires": [
+        {
+          "uid": "net.fabricmc.intermediary"
+        }
+      ],
+      "recommended": true,
+      "sha256": "a72d944593f63cb39d9f4d5e949d729d21dd5ed5ebb23a2d9bb1f8f96db50056"
+    },
+    {
+      "version": "0.18.0",
+      "type": "release",
+      "releaseTime": "2025-11-08T22:19:02.000Z",
+      "requires": [
+        {
+          "uid": "net.fabricmc.intermediary"
+        }
+      ],
+      "recommended": false,
+      "sha256": "26a4d458de351a90407b6f0165638a34751c4eafa32643aea90c662b5fa8dd40"
+    },
+    {
+      "version": "0.17.3",
+      "type": "release",
+      "releaseTime": "2025-10-09T16:09:28.000Z",
+      "requires": [
+        {
+          "uid": "net.fabricmc.intermediary"
+        }
+      ],
+      "recommended": false,
+      "sha256": "c16ac5a0f8e874384a82a8b5ab828ded0337a652a119cef6934ee5e10b162353"
+    },
+    {
+      "version": "0.17.2",
+      "type": "release",
+      "releaseTime": "2025-08-08T13:20:41.000Z",
+      "requires": [
+        {
+          "uid": "net.fabricmc.intermediary"
+        }
+      ],
+      "recommended": false,
+      "sha256": "24def281325be8073daa022ea843038c931d7162d6790fd7d1c9cf5a80643a3e"
+    },
+    {
+      "version": "0.17.1",
+      "type": "release",
+      "releaseTime": "2025-08-06T09:29:08.000Z",
+      "requires": [
+        {
+          "uid": "net.fabricmc.intermediary"
+        }
+      ],
+      "recommended": false,
+      "sha256": "b05d7f5f6f661a08ebc8933476758a8056d0b48b1b09b27891a8322b777ab448"
+    },
+    {
+      "version": "0.17.0",
+      "type": "release",
+      "releaseTime": "2025-07-29T15:24:40.000Z",
+      "requires": [
+        {
+          "uid": "net.fabricmc.intermediary"
+        }
+      ],
+      "recommended": false,
+      "sha256": "ad94663eee30f3057c4f81b7116ed33c3b2ac80138b0ec4cb5b76ee89f931c85"
+    },
+    {
       "version": "0.16.14",
       "type": "release",
       "releaseTime": "2025-04-16T17:38:53.000Z",
@@ -12,7 +84,7 @@
           "uid": "net.fabricmc.intermediary"
         }
       ],
-      "recommended": true,
+      "recommended": false,
       "sha256": "7926d8cd72c44ffba536b810c89ee392054ce3ade3deec5e7b8fa511a648f80c"
     },
     {

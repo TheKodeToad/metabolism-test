@@ -16,6 +16,18 @@
       "sha256": "4012eff94d6d86236c87a8611405efef7028beef36bbadc1ffce926903f02908"
     },
     {
+      "version": "3.3.6",
+      "type": "release",
+      "releaseTime": "2025-10-21T11:38:51.000Z",
+      "conflicts": [
+        {
+          "uid": "org.lwjgl"
+        }
+      ],
+      "recommended": false,
+      "sha256": "c7dbec1ebf4ec628254f07ed90f0fdfadbbf59ef6151fa949c45e9f8dab29a12"
+    },
+    {
       "version": "3.3.2",
       "type": "release",
       "releaseTime": "2023-08-30T11:24:35.000Z",
