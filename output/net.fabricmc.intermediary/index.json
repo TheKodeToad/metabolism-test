@@ -4,6 +4,19 @@
   "formatVersion": 1,
   "versions": [
     {
+      "version": "1.21.11-rc3",
+      "type": "release",
+      "releaseTime": "2025-12-08T14:52:45.000Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "1.21.11-rc3"
+        }
+      ],
+      "recommended": true,
+      "sha256": "0bbd695e0eb1dc2c463bdfe8a78d057d25be1d24a061c3cd8828b79d2540a142"
+    },
+    {
       "version": "1.21.11-rc2",
       "type": "release",
       "releaseTime": "2025-12-05T13:30:58.000Z",
