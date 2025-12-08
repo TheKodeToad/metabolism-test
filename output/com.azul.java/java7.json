@@ -1,0 +1,45 @@
+{
+  "uid": "com.azul.java",
+  "name": "Azul Provided Java",
+  "formatVersion": 1,
+  "version": "java7",
+  "releaseTime": "2014-11-21T11:59:00.000Z",
+  "runtimes": [
+    {
+      "name": "azul_zulu_jre7.0.352",
+      "runtimeOS": "windows-x86",
+      "version": {
+        "major": 7,
+        "minor": 0,
+        "security": 352
+      },
+      "releaseTime": "2022-07-11T16:37:06.000Z",
+      "vendor": "azul",
+      "packageType": "jre",
+      "downloadType": "archive",
+      "checksum": {
+        "type": "sha256",
+        "hash": "453fcf7c85148eb2142c801ad467ec60229c7c55df93403ba0ff89525ad308d8"
+      },
+      "url": "https://cdn.azul.com/zulu/bin/zulu7.56.0.11-ca-jre7.0.352-win_i686.zip"
+    },
+    {
+      "name": "azul_zulu_jre7.0.72",
+      "runtimeOS": "linux-x86",
+      "version": {
+        "major": 7,
+        "minor": 0,
+        "security": 72
+      },
+      "releaseTime": "2014-11-21T11:59:00.000Z",
+      "vendor": "azul",
+      "packageType": "jre",
+      "downloadType": "archive",
+      "checksum": {
+        "type": "sha256",
+        "hash": "36b3023a34867ab4012979fca7a9deea1f7d704118470c78d8956affabf2d7e7"
+      },
+      "url": "https://cdn.azul.com/zulu/bin/zulu7.7.0.2-ca-hl-jre7.0.72-linux_i686.zip"
+    }
+  ]
+}

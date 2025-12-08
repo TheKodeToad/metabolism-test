@@ -1,0 +1,81 @@
+{
+  "uid": "com.azul.java",
+  "name": "Azul Provided Java",
+  "formatVersion": 1,
+  "version": "java15",
+  "releaseTime": "2023-01-07T17:23:34.000Z",
+  "runtimes": [
+    {
+      "name": "azul_zulu_jre15.0.10",
+      "runtimeOS": "mac-os-x64",
+      "version": {
+        "major": 15,
+        "minor": 0,
+        "security": 10
+      },
+      "releaseTime": "2023-01-07T17:23:34.000Z",
+      "vendor": "azul",
+      "packageType": "jre",
+      "downloadType": "archive",
+      "checksum": {
+        "type": "sha256",
+        "hash": "8b9f88333b76a9c114eb3d610d057ce94e89ffb8d029902d5da2501766689fb1"
+      },
+      "url": "https://cdn.azul.com/zulu/bin/zulu15.46.17-ca-jre15.0.10-macosx_x64.zip"
+    },
+    {
+      "name": "azul_zulu_jre15.0.10",
+      "runtimeOS": "mac-os-arm64",
+      "version": {
+        "major": 15,
+        "minor": 0,
+        "security": 10
+      },
+      "releaseTime": "2023-01-07T17:23:34.000Z",
+      "vendor": "azul",
+      "packageType": "jre",
+      "downloadType": "archive",
+      "checksum": {
+        "type": "sha256",
+        "hash": "3a17986c4a7248aecee6382d9f4a0348e59e4d5f00080939e122a573e4229183"
+      },
+      "url": "https://cdn.azul.com/zulu/bin/zulu15.46.17-ca-jre15.0.10-macosx_aarch64.zip"
+    },
+    {
+      "name": "azul_zulu_jre15.0.10",
+      "runtimeOS": "windows-x64",
+      "version": {
+        "major": 15,
+        "minor": 0,
+        "security": 10
+      },
+      "releaseTime": "2023-01-07T17:23:34.000Z",
+      "vendor": "azul",
+      "packageType": "jre",
+      "downloadType": "archive",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ac697ed021963abebeafd340ed436bf62f8091744a4ecd82d68b88b6bb7a0b4f"
+      },
+      "url": "https://cdn.azul.com/zulu/bin/zulu15.46.17-ca-jre15.0.10-win_x64.zip"
+    },
+    {
+      "name": "azul_zulu_jre15.0.10",
+      "runtimeOS": "windows-x86",
+      "version": {
+        "major": 15,
+        "minor": 0,
+        "security": 10
+      },
+      "releaseTime": "2023-01-07T17:23:34.000Z",
+      "vendor": "azul",
+      "packageType": "jre",
+      "downloadType": "archive",
+      "checksum": {
+        "type": "sha256",
+        "hash": "4c5e45ff8e12d68d18aede4ceb0f437735d49b494361bfa96657e8450541d58c"
+      },
+      "url": "https://cdn.azul.com/zulu/bin/zulu15.46.17-ca-jre15.0.10-win_i686.zip"
+    }
+  ]
+}
