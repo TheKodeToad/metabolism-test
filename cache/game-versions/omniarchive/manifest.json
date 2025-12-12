@@ -2,11 +2,47 @@
   "$schema": "https://meta.omniarchive.uk/schemas/v1/manifest.schema.json",
   "latest": {
     "april-fools": "25w14craftmine",
-    "release": "1.21.10",
+    "release": "1.21.11",
     "snapshot": "1.21.11-rc3",
-    "special": "combat8c"
+    "special": "1.21.11-unobf"
   },
   "versions": [
+    {
+      "id": "1.21.11-unobf",
+      "type": "special",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-unobf.json",
+      "time": "2025-12-11T08:27:59+00:00",
+      "releaseTime": "2025-12-09T12:43:15+00:00",
+      "sha1": "14fabb9850f3d2188bd2587cd27f4ec544fdbb0d",
+      "complianceLevel": 1,
+      "mojangVersion": null,
+      "equivalentTo": "1.21.11-unobf",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "1.21.11",
+      "type": "release",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.11.json",
+      "time": "2025-12-09T16:00:02+00:00",
+      "releaseTime": "2025-12-09T12:23:30+00:00",
+      "sha1": "8b04acd36d49592d1eefadebe5d3c54e3b05862f",
+      "complianceLevel": 1,
+      "mojangVersion": "1.21.11",
+      "equivalentTo": "1.21.11",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "1.21.11-rc3-unobf",
+      "type": "special",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-rc3-unobf.json",
+      "time": "2025-12-11T08:27:56+00:00",
+      "releaseTime": "2025-12-08T13:59:34+00:00",
+      "sha1": "e9598b7a48deb45bce62ebf1c100efd14608a457",
+      "complianceLevel": 1,
+      "mojangVersion": null,
+      "equivalentTo": "1.21.11-rc3-unobf",
+      "phase": "post-1.0"
+    },
     {
       "id": "1.21.11-rc3",
       "type": "snapshot",
@@ -17,6 +53,18 @@
       "complianceLevel": 1,
       "mojangVersion": "1.21.11-rc3",
       "equivalentTo": "1.21.11-rc3",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "1.21.11-rc2-unobf",
+      "type": "special",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-rc2-unobf.json",
+      "time": "2025-12-11T08:27:54+00:00",
+      "releaseTime": "2025-12-05T11:57:45+00:00",
+      "sha1": "745ecae1629a515ea2c0858f5c63597aa43e4b17",
+      "complianceLevel": 1,
+      "mojangVersion": null,
+      "equivalentTo": "1.21.11-rc2-unobf",
       "phase": "post-1.0"
     },
     {
@@ -32,6 +80,18 @@
       "phase": "post-1.0"
     },
     {
+      "id": "1.21.11-rc1-unobf",
+      "type": "special",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-rc1-unobf.json",
+      "time": "2025-12-11T08:27:52+00:00",
+      "releaseTime": "2025-12-04T15:56:55+00:00",
+      "sha1": "7359e3ec8453576a2cf717c903d2581e2ebdd30c",
+      "complianceLevel": 1,
+      "mojangVersion": null,
+      "equivalentTo": "1.21.11-rc1-unobf",
+      "phase": "post-1.0"
+    },
+    {
       "id": "1.21.11-rc1",
       "type": "snapshot",
       "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-rc1.json",
@@ -41,6 +101,18 @@
       "complianceLevel": 1,
       "mojangVersion": "1.21.11-rc1",
       "equivalentTo": "1.21.11-rc1",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "1.21.11-pre5-unobf",
+      "type": "special",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-pre5-unobf.json",
+      "time": "2025-12-11T08:27:49+00:00",
+      "releaseTime": "2025-12-03T13:34:06+00:00",
+      "sha1": "1733f8439be460da3ed3088de88b55c1925b7acc",
+      "complianceLevel": 1,
+      "mojangVersion": null,
+      "equivalentTo": "1.21.11-pre5-unobf",
       "phase": "post-1.0"
     },
     {
@@ -56,6 +128,18 @@
       "phase": "post-1.0"
     },
     {
+      "id": "1.21.11-pre4-unobf",
+      "type": "special",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-pre4-unobf.json",
+      "time": "2025-12-11T08:27:48+00:00",
+      "releaseTime": "2025-12-01T13:40:12+00:00",
+      "sha1": "0ce45e56430eaab74cea5ee2d0335458323219e4",
+      "complianceLevel": 1,
+      "mojangVersion": null,
+      "equivalentTo": "1.21.11-pre4-unobf",
+      "phase": "post-1.0"
+    },
+    {
       "id": "1.21.11-pre4",
       "type": "snapshot",
       "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-pre4.json",
@@ -65,6 +149,18 @@
       "complianceLevel": 1,
       "mojangVersion": "1.21.11-pre4",
       "equivalentTo": "1.21.11-pre4",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "1.21.11-pre3-unobf",
+      "type": "special",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-pre3-unobf.json",
+      "time": "2025-12-11T08:27:45+00:00",
+      "releaseTime": "2025-11-25T14:14:30+00:00",
+      "sha1": "fb3205fd07aff69401aa13d0d9ad085bff190acf",
+      "complianceLevel": 1,
+      "mojangVersion": null,
+      "equivalentTo": "1.21.11-pre3-unobf",
       "phase": "post-1.0"
     },
     {
@@ -80,6 +176,18 @@
       "phase": "post-1.0"
     },
     {
+      "id": "1.21.11-pre2-unobf",
+      "type": "special",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-pre2-unobf.json",
+      "time": "2025-12-11T08:27:43+00:00",
+      "releaseTime": "2025-11-21T12:07:21+00:00",
+      "sha1": "6f7b22686d6c890b54d9765cc7318920e7b41989",
+      "complianceLevel": 1,
+      "mojangVersion": null,
+      "equivalentTo": "1.21.11-pre2-unobf",
+      "phase": "post-1.0"
+    },
+    {
       "id": "1.21.11-pre2",
       "type": "snapshot",
       "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-pre2.json",
@@ -89,6 +197,18 @@
       "complianceLevel": 1,
       "mojangVersion": "1.21.11-pre2",
       "equivalentTo": "1.21.11-pre2",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "1.21.11-pre1-unobf",
+      "type": "special",
+      "url": "https://meta.omniarchive.uk/versions/v1/1.21.11-pre1-unobf.json",
+      "time": "2025-12-11T08:27:41+00:00",
+      "releaseTime": "2025-11-19T08:30:46+00:00",
+      "sha1": "2421284c56e64e307e7b4ad4ef18ed4b87c777be",
+      "complianceLevel": 1,
+      "mojangVersion": null,
+      "equivalentTo": "1.21.11-pre1-unobf",
       "phase": "post-1.0"
     },
     {
@@ -104,6 +224,18 @@
       "phase": "post-1.0"
     },
     {
+      "id": "25w46a-unobf",
+      "type": "special",
+      "url": "https://meta.omniarchive.uk/versions/v1/25w46a-unobf.json",
+      "time": "2025-12-11T08:27:34+00:00",
+      "releaseTime": "2025-11-11T13:20:54+00:00",
+      "sha1": "523fa12012bebc0be2e7c013e2ff6e61b2e2c321",
+      "complianceLevel": 1,
+      "mojangVersion": null,
+      "equivalentTo": "25w46a-unobf",
+      "phase": "post-1.0"
+    },
+    {
       "id": "25w46a",
       "type": "snapshot",
       "url": "https://meta.omniarchive.uk/versions/v1/25w46a.json",
@@ -113,6 +245,18 @@
       "complianceLevel": 1,
       "mojangVersion": "25w46a",
       "equivalentTo": "25w46a",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "25w45a-unobf",
+      "type": "special",
+      "url": "https://meta.omniarchive.uk/versions/v1/25w45a-unobf.json",
+      "time": "2025-12-11T08:27:31+00:00",
+      "releaseTime": "2025-11-04T14:07:08+00:00",
+      "sha1": "5c4c3371bdabc8d343814792740f8ba22916047b",
+      "complianceLevel": 1,
+      "mojangVersion": null,
+      "equivalentTo": "25w45a-unobf",
       "phase": "post-1.0"
     },
     {

@@ -22,6 +22,12 @@
       "sha256": "9192e99e3c33abb86ddfc20a80e58ce5c83887e243b62f0acd64c27700536699"
     },
     {
+      "version": "java25",
+      "releaseTime": "2025-12-10T14:14:17.000Z",
+      "recommended": false,
+      "sha256": "b09303a57c2144cc960d8f616549f0fa84dbb8f8403a7b80991c069e4a409d8f"
+    },
+    {
       "version": "java8",
       "releaseTime": "2020-11-17T19:26:25.000Z",
       "recommended": false,
