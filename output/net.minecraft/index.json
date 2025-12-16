@@ -4,6 +4,19 @@
   "formatVersion": 1,
   "versions": [
     {
+      "version": "26.1-snapshot-1",
+      "type": "snapshot",
+      "releaseTime": "2025-12-16T12:42:29.000Z",
+      "requires": [
+        {
+          "uid": "org.lwjgl3",
+          "suggests": "3.3.3"
+        }
+      ],
+      "recommended": false,
+      "sha256": "1da768b03c98a27c02f518b6a83df7e3a311f9c8d438cea0149ba178e4e21589"
+    },
+    {
       "version": "1.21.11",
       "type": "release",
       "releaseTime": "2025-12-09T12:23:30.000Z",
@@ -14,7 +27,7 @@
         }
       ],
       "recommended": true,
-      "sha256": "bac95df140bc5edbf231105d606194c5dbedfc5d9d1213a348b3fd500de0c59a"
+      "sha256": "3a867060fad702d2598a95c02e84281af6939b7ce9920eef40596f1e1eed2598"
     },
     {
       "version": "1.21.11-rc3",
@@ -27,7 +40,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "62e0417925460e6fea3d4cba9ef130a46dd870a500dcdcea5e216b9e7b61119e"
+      "sha256": "a70dca485171f72eb22a74f7723c159402ff2afe353a572c07c87f79e3d067e8"
     },
     {
       "version": "1.21.11-rc2",
@@ -40,7 +53,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "d679bf02eaf8eb5f61806ab339eeff1b6f0af1bd2d030a3b852ff667c8ad077b"
+      "sha256": "03aa8cda8a5a1f5fc40484e376da1cdc0ed6b83a82d63c26250fb8b554822f92"
     },
     {
       "version": "1.21.11-rc1",
@@ -53,7 +66,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "a733d8bade9f7c0507fff2830b0d056c68110fe86add1487ecf284a81b8b7d08"
+      "sha256": "dd6686f3be3d838098654a14f9f23d58966d6fc39ec2b9e13300065ec668ec46"
     },
     {
       "version": "1.21.11-pre5",
@@ -66,7 +79,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "d6d458e10b26584b509592bca7b7428f33c7f92161fb0623640d13fc2d19d45f"
+      "sha256": "59257a1f54d39eb04cda50e23edc160885bd52c27b96e596a4322bd99aea8a4e"
     },
     {
       "version": "1.21.11-pre4",
@@ -79,7 +92,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "0f977dca30d10c1589dbfa06159683345e92d00309d74efa7561067a12e4a984"
+      "sha256": "1be1f0647968befd6565ead3ffb4cd5a36d047c8afb9677fc13bcca3ccb9ff98"
     },
     {
       "version": "1.21.11-pre3",
@@ -92,7 +105,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "1e956c1730e777935bb80281080dea182cd767380b0793703f6f86673cca10d2"
+      "sha256": "f90f1ec6f002d86c12b513a8f28b974086227d777db504e258fc82ad788e331b"
     },
     {
       "version": "1.21.11-pre2",
@@ -105,7 +118,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "c4c1b958005f5cd12db9840a06b230a4d01997bed8bc9fa86325f658b8cc3acb"
+      "sha256": "0c2c923c56a598c6064d26ec9dc0c4719a197b3f8500ec60c217c29f657cc37a"
     },
     {
       "version": "1.21.11-pre1",
@@ -118,7 +131,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "2eaa68790dea2cee00f6f303ee2d1bd71804c903d2aaf6ad1b32a252949a8b46"
+      "sha256": "0523d5bc0bb314a11fd54d84203aa7d42991a88fdfbcc6e422abb3c238f2c210"
     },
     {
       "version": "25w46a",
@@ -131,7 +144,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "c2991a7626eec60273db33813e63329067f7a410b89bc367fb72b29194bf8881"
+      "sha256": "82f70a7dc06614b44b14a24e053926cb4c8bb600fc830f0d7a5327814856a8f5"
     },
     {
       "version": "25w45a",
@@ -144,7 +157,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "2f0fabf15fb4423aa7a57e151ec53eec37cd0a161b434b292196f5481a8e1d59"
+      "sha256": "f0b7b9e95c80b11d6d369443729117099bdccb99cf371e20d1e053bacd4b266a"
     },
     {
       "version": "25w44a",
@@ -157,7 +170,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "dd29144f6934ef555355c49d7b6732870a2acec3e9daf79bbdd16ab14d2bceaa"
+      "sha256": "fb4bd477b8bc6dd27eac72e0ad5eeb5d24055e3d4c51858873bacd834b215146"
     },
     {
       "version": "25w43a",
@@ -170,7 +183,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "a732984285badf9b79e4a7d1494612af1bf00bc82b78311a7fb27fc6d712e53a"
+      "sha256": "2de104c771132d178ac52de88fa38fc764c32b180b95fae5542e9a4ca2bcfe91"
     },
     {
       "version": "25w42a",
@@ -183,7 +196,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "5b39797acc8ecdff80351ed72f259d62ad3feb8bea0ef55b0189eb97abd163d4"
+      "sha256": "86a818d5a8d31d254c26bac71419eb68767753825e3ce8446078cefdf5affe01"
     },
     {
       "version": "25w41a",
@@ -196,7 +209,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "1358e39b1d93371ccd3b7bbb02160d727923f8c6120f676c9e2e471e4678b740"
+      "sha256": "907147df0c1fdc00d823dbbe47c098cb100466186760f5174aaf427894750043"
     },
     {
       "version": "1.21.10",
@@ -209,7 +222,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "5d6d90d9cc252866f008465ce520a8e76b5a5cce42ad67836814c2c747a6caee"
+      "sha256": "7835750995b5b0f54780ac780bd32eab7c5f9919751edb40ee2a004875f5b31b"
     },
     {
       "version": "1.21.10-rc1",
@@ -222,7 +235,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "0f4583744ec2602d8677db64269ce3a7b33fe95a4676e4e8ba48fc29c2e05da3"
+      "sha256": "c35559c86b5c7b926fc85caf7abcb6f48baeed1527ac6bd06580da0b7e9d61a5"
     },
     {
       "version": "1.21.9",
@@ -235,7 +248,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "aa6174993df4b355b76b3cd6fcc38f4a44e989319a90c6c7902b90cb6aaa9617"
+      "sha256": "7f568c9aa20d2ad250a9c583b1c8b5a372f360d869fe7b42d9b16057a17ca859"
     },
     {
       "version": "1.21.9-rc1",
@@ -248,7 +261,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "047ae84131dee75f7e63d71f9849936bf8e45605c664a7bccef6b9aa3863d6ce"
+      "sha256": "ea75ee9cdb986eed257561ff1e8a8ac5c515cf60dacbe7c059fbf494900014c3"
     },
     {
       "version": "1.21.9-pre4",
@@ -261,7 +274,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "baa102a4579165b737ae6fa9fba4ee8590ec14dd1c483cae3ad467a0255e09db"
+      "sha256": "11f1f28f4f800e6b43420a78bed7c0030890dd1bf4caf6b2527b0bca8aaa1f80"
     },
     {
       "version": "1.21.9-pre3",
@@ -274,7 +287,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "501a04178272ba4452b81fc8db52111b007bf6b38ed6e889fe848703a613679c"
+      "sha256": "16ffadb0d93ea2a90440f1c7d162e5085366a53c7ae0d20d5a15230ede7ecede"
     },
     {
       "version": "1.21.9-pre2",
@@ -287,7 +300,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "9df06025423e853ed2585a793e1ff3b437c19acf68b4e34d582f8fa0f6ad1231"
+      "sha256": "25a036381ee040abb65e07aa19acd2655619e76cd008ebfa32003b0e1d59a27f"
     },
     {
       "version": "1.21.9-pre1",
@@ -300,7 +313,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "94a4ff9904e62d26fb7cef05d7114fb93302af559e5a2823825aac2a66816201"
+      "sha256": "f36fc17968621500875558d21d7171e2e6e2d8eafbee074ee44a8f8e26884225"
     },
     {
       "version": "25w37a",
@@ -313,7 +326,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "0af739273dc61e4e450514faa2f2a3e5f643bf5e216456fad71e2354078c78c8"
+      "sha256": "cf977bdb2fcec4e12023b94e8c22e2a52989852d004b5fa99eedced04e0a6178"
     },
     {
       "version": "25w36b",
@@ -326,7 +339,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "db5d51d5c3f2d623c0746236ab8e3f7b696817eaabb362521d46a4d7f9ee3496"
+      "sha256": "bb0d639c0cc8662e94768cf1ceb9929c82a4bc721e5345a7e35662dd21a8b3ab"
     },
     {
       "version": "25w36a",
@@ -339,7 +352,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "50f2fedcc974bcbe156654855ed9643c0aa0f66bffecad141204555ee3cae692"
+      "sha256": "8e38654f1fa6de27d780ff86de6b0b9a62df0379386fc042787a9b6851a916a0"
     },
     {
       "version": "25w35a",
@@ -352,7 +365,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "e3915ddb875b21bebe6e14c34786412ae20c3bf754106fc06a27a17f31701e01"
+      "sha256": "b3044bcab857c5ce0c4053f5274dd9c2340c9a467fec4f9abd546611ecefcb8b"
     },
     {
       "version": "25w34b",
@@ -365,7 +378,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "9ad4cf5bd405e6531f2209aa5933116cb6078f28ca8aa75ed0feb824286a9624"
+      "sha256": "0699f1b1609731168c34574bdf8c0435c08c5c6de30daba7cb1f3eb754ff466d"
     },
     {
       "version": "25w34a",
@@ -378,7 +391,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "74b47b2f0574366447622904447460bb73655572b234e8720c5445dcf556d005"
+      "sha256": "3e2532f2823c7644b4ee1d44bab903b6e18260a42fd53f5a608bed4a3c115c22"
     },
     {
       "version": "25w33a",
@@ -391,7 +404,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "90a163fcd29acdeaf5746ab829721b050b32c23c70d337c68f53febe5b30be9b"
+      "sha256": "c98db1ff4ff2c62dd4229aa4f3d9bb7c2d84dd2854200279a7f18e103650cd4c"
     },
     {
       "version": "25w32a",
@@ -404,7 +417,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "92198e4f891cd5caff976bb4544962f090403356bddf429e126a0f97761ab2a7"
+      "sha256": "b0e7d3008041b131b9a12774a95e9c2218322e68b359c125f380ee098cd23ed6"
     },
     {
       "version": "25w31a",
@@ -417,7 +430,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "570c3df6f2e8d587c7f316a11b42ae029a9cf7051210c732e94c1d295c8c6bae"
+      "sha256": "b00f694fb6eec8df8396a8d33c7ed9197fa03c308f30ddfbff9c65909df117e0"
     },
     {
       "version": "1.21.8",
@@ -430,7 +443,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "c6e3c26ef97d934b76d9014ad2f333484e5c66371519fc1cd6302b8dfbc54813"
+      "sha256": "d136cf7cdee16aa8ae84b9b0be8a848c1ed59a799e8b729f618261e89ea87cc7"
     },
     {
       "version": "1.21.8-rc1",
@@ -443,7 +456,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "d6b3ee534763b930ab4afa6736449b257b933a3be1c6ca16f2b44dfe3f530bc4"
+      "sha256": "ef6497554555962f7acb6b9d6e5e3588f0de9add667079d26182e7126490678b"
     },
     {
       "version": "1.21.7",
@@ -456,7 +469,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "d551cbd86c65b5aa1f91f4144671c9b1aba43cce7d66727d2a868c917046f9a9"
+      "sha256": "6a935350942417423ada7e7506bb2e253dfacf5931eaa2f46da19615846248a8"
     },
     {
       "version": "1.21.7-rc2",
@@ -469,7 +482,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "701bb04386b0d381f76b9b679ca56c76391e57046a53105ebdf86412f6da47f0"
+      "sha256": "8a1d91d1d95f5e0f49df60e000ad6c41b4bc9c09cc7169b5aacc3d5979661910"
     },
     {
       "version": "1.21.7-rc1",
@@ -482,7 +495,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "c6828c4682e8859a9d86216847fc3f4cd45f3cbc8906f43c341ab5f381f93d77"
+      "sha256": "7f8b140dd5700fcf6ea99721f0af6c0387aa1f47198b6079af4d8753b2604501"
     },
     {
       "version": "1.21.6",
@@ -495,7 +508,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "e8bad2ac69e38af696b6d5484b1b3bea743d55551a914fd32e9f89e058916837"
+      "sha256": "b734918506a6ffdecd452ed0b2cf4f0d7b00ce8dc19c6adf711a36d29cfc1327"
     },
     {
       "version": "1.21.6-rc1",
@@ -508,7 +521,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "21b3fb26c57388a8abd913b8925cdf11bafa80eedc48902f6e4a7a315dd6a5b0"
+      "sha256": "713d5da1727e02ed6a491ce3ac0a190cb6cff71299b030deaeea4c1cc666f5d4"
     },
     {
       "version": "1.21.6-pre4",
@@ -521,7 +534,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "751bb53bccedd6573d6c6d41663fe544e3d84934d84b8896a2e0d3087e61fea1"
+      "sha256": "1286bcd9a1a11ce288d856e18d81671e28d958dcda03cba3deb376984be16778"
     },
     {
       "version": "1.21.6-pre3",
@@ -534,7 +547,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "ab098ed6e93e403efc0bc490bc0c3643e61bfdc2b0025f8cf37523defd75ba0f"
+      "sha256": "671d521bd4e3d92251de75a7fd0f879ff5f3a848ba90a93ebcd56923d2d68316"
     },
     {
       "version": "1.21.6-pre2",
@@ -547,7 +560,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "e909a97d0bfe0d1ace219966fcf4cbdb7509f29a28cbab6fb36e33c8bac290c4"
+      "sha256": "3bf39a6f9be9eb63d5218b29781c5ce9ae521a7ca691d7c10b07c1dadd0bad2e"
     },
     {
       "version": "1.21.6-pre1",
@@ -560,7 +573,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "fa62b2cdedd1968b1423068245a1c0ab886bf438d47181c87c4c3f510366550f"
+      "sha256": "ee226b1139cfda5e8b98e168b59108d2dde645d34297bff5073081414a2b997d"
     },
     {
       "version": "25w21a",
@@ -573,7 +586,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "602b7d5c034dc8fb7787508bfd1024a6c88d8067c256c20659755d2143b704a8"
+      "sha256": "1199242caaf8eeab811e656c268f81ecc9d47fe2b5e39e87b3764d648450d861"
     },
     {
       "version": "25w20a",
@@ -586,7 +599,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "1122a79693a1b7984156ab4d3099e0730a3b428aec7a10bfb3505e3a9ee7e197"
+      "sha256": "5677781db179045267d8fdbd2162847ae76580f6a11b98a3cd89d704e4171dcd"
     },
     {
       "version": "25w19a",
@@ -599,7 +612,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "d1661a2f36fbf68c479794b009ea51efe5dff209ebbd664fcc63c1afcc3b62b1"
+      "sha256": "73395fee7cf078c27fb5d0e00f563250ba3793506ce2e9232b98ae1db3cf94ed"
     },
     {
       "version": "25w18a",
@@ -612,7 +625,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "efea660c95cae1824205895fa44be29600749fda47aca07eacdad89900d12961"
+      "sha256": "bff113e17f7996d19aa05b725e2794de7dac32f86026191af859d711b6711a7d"
     },
     {
       "version": "25w17a",
@@ -625,7 +638,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "cc97d3221560d615f50c022ef5a08cb2b0dee42eb79e4c5dc449b3dbd1220b56"
+      "sha256": "59ebaab92be9c051c9c8bd4ec551bd53a3618dd159bebc42150ca9922972f527"
     },
     {
       "version": "25w16a",
@@ -638,7 +651,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "2d0932e8d9a7f39596d5b0caf86b773f1cc6864ccf1a0124e8129a3362a0939c"
+      "sha256": "e2dae4764cfe1e84d9acb8e9dba08c0a98d8838060e4ce88658248adb2cc0faa"
     },
     {
       "version": "25w15a",
@@ -651,7 +664,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "8519c6e7f367074aa12f30687696c512e9d94a44979cac7d4871ed0d2fdfa55f"
+      "sha256": "f4ced3085290bb4da7800d175af2f59a8c93a36a2302061e073b436af24eef9b"
     },
     {
       "version": "25w14craftmine",
@@ -664,7 +677,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "c8e8da198c624d8e9d16b588fba505672de078a3727243ded6f52ebd5f13559a"
+      "sha256": "a14c2e56e526fe6a88474957bed0dc0811e0b9874415583f88c755baaa2bcbcf"
     },
     {
       "version": "1.21.5",
@@ -677,7 +690,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "6e89a50e1fc11710f2f4978f4b9210a791edc22b9c0f6066160ee0fad979a85e"
+      "sha256": "b1bf2dd7b53d952dc8d9960e6d3d0b731a618849a428523ab2a97f1951007a31"
     },
     {
       "version": "1.21.5-rc2",
@@ -690,7 +703,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "de367246ce8976fc3026b66b29119997c0f6a6603c3806ddda328df1abc8c93d"
+      "sha256": "1ec7f0c63d1cb519d2432a2830289d69f44ccd0ee9b351eb6e81f6c9b2aa49c5"
     },
     {
       "version": "1.21.5-rc1",
@@ -703,7 +716,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "0bc63c22604ffaa8426c8e5641cec6f825f1878c1acbcf7d1bb42b17508ec5f5"
+      "sha256": "00a15fb60b3c9daed7dce143616606853e86073d859261c93dc34d416eac7467"
     },
     {
       "version": "1.21.5-pre3",
@@ -716,7 +729,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "707ae2c1cb72c5dff9db7bb5025bacba580aaa02643f6435d7051efb8e2b2843"
+      "sha256": "250ccc1f308dbdbcac78ce4ab10bcb70f7caffd64b04ab37fdffb8604a66f466"
     },
     {
       "version": "1.21.5-pre2",
@@ -729,7 +742,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "24bd9d68bf3b2bc921e59c1cb599b63ea4f0077a73ead40056fff6b578f8696e"
+      "sha256": "3607ff7ddfbe8f1691a5076c0fc87988b8ea4f28253a51b74c39ca27f0376647"
     },
     {
       "version": "1.21.5-pre1",
@@ -742,7 +755,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "a17f8929b2babb5617027449ad8892fd39d68ddb3cd8b3e2d897dda8b492ba12"
+      "sha256": "0d8b736624d678eb3fb0728af05c2e98f57650666c97c69460685bc024293f20"
     },
     {
       "version": "25w10a",
@@ -755,7 +768,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "3b680ccbe8298ddceddf34094a0c3a1ccfd15d680cfd591ac22dd6284f41c374"
+      "sha256": "5fa1b4870db6751200a87859827205516e9b37ecb6dc49bea8f369f0b9fc9adb"
     },
     {
       "version": "25w09b",
@@ -768,7 +781,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "6ec2ec75625842c6b862a5b5d45dbc4fa1f6a141b4a53ddbc6afaa8c9c39940e"
+      "sha256": "c0cc1f0abed03870eedbb26b0d56bc534bdc1354fca9022c4287d4bbcb186cd0"
     },
     {
       "version": "25w09a",
@@ -781,7 +794,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "c0b37d2da41704c7092650a853f359d55fba81715fe64dda11dfcdca4e2e475a"
+      "sha256": "165dd6a580694024fb9c2aa0ae149993229447c7034e8fc64b7f9e53cd55d653"
     },
     {
       "version": "25w08a",
@@ -794,7 +807,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "0bbc29fa2e3c3938370da541f606fd5072f35f8e695d37e1b8428a12808dc25d"
+      "sha256": "551d1ffe2c09d37481e0d037127e9e05640cd6f6c640d19faf6cdd0b9805383f"
     },
     {
       "version": "25w07a",
@@ -807,7 +820,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "f9f6c1bf8273c3cf599b58a4c5da0cf6dc0e2a03b400cd0ce75c1a96d8a9f383"
+      "sha256": "6735b8d599bacaf8256ee28f6ac6c5a5befa1f6802890662c844385be97c1a05"
     },
     {
       "version": "25w06a",
@@ -820,7 +833,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "8390fd1693ecc721c019c969d52d77976b39c97182a4632a65eeac69e6ae405a"
+      "sha256": "ac893b5fca2b308f6334c0da5b995702b914ee74d5865eb6a46455b83a5c1bfc"
     },
     {
       "version": "25w05a",
@@ -833,7 +846,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "fcfa047f91ff436a970b9eaefbe1a54ea4ae4c2271b65a69a53ebf5cde5bd02e"
+      "sha256": "9530711a502cca3cbffd3777f075fc978abb1a3120a1ac08265a7beb74bdb0f4"
     },
     {
       "version": "25w04a",
@@ -846,7 +859,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "2a437dcc211f3e5eebda8c84d3e9dd408bfc4387cf2466e996ff7269784a27f1"
+      "sha256": "d1beea90c87a649a74cc5f3ef30da3d36328e67bfe9907e29f2d5324d7d4f98f"
     },
     {
       "version": "25w03a",
@@ -859,7 +872,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "4fc8726325feeb3cedd53fd429866270c0b605848d385f98f0869ecde545989f"
+      "sha256": "13244c89c0395f22b8307b8e411539c5d70ac9476bd97e24b7d807c241518785"
     },
     {
       "version": "25w02a",
@@ -872,7 +885,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "07ba93a59c4f433d7e69fb26134581cece00f894c6d1bf6753990aeefa616a8d"
+      "sha256": "57170986e82e805a17121eabc2c5a4e932915f89ee6d9feccd9ab071f574b16b"
     },
     {
       "version": "1.21.4",
@@ -885,7 +898,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "60aea56158ef785cbca8c3b2426aec30390c25ca9162ad00697d200fb2ed9f97"
+      "sha256": "27cf817cc7a48367edd0693973926b5ba024c541363e15ffa0789f70e13a53aa"
     },
     {
       "version": "1.21.4-rc3",
@@ -898,7 +911,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "ebb244d606e2af339230dd1a132648c263bcea55bbb0f9f273632eae500b93c2"
+      "sha256": "e24463a84a8372f4cb154e304c8161d73cd30c75f7094319e1d224873700ac06"
     },
     {
       "version": "1.21.4-rc2",
@@ -911,7 +924,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "663f6a6b662927bac0383c3574781afda7706081c4f39310d17b55f20f34e8ea"
+      "sha256": "4f1b5e45950cece56c629d3f9b98c3054df63c5cc5b31584ac952200a6fdb907"
     },
     {
       "version": "1.21.4-rc1",
@@ -924,7 +937,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "de61d8a7f8fa436a39041e19b9a588b8997090078e676e481dc1be278079c820"
+      "sha256": "d4926b75d28db3d7f6c7538ece29ff1bae74d1b2cb219eabe28dae8a445bc316"
     },
     {
       "version": "1.21.4-pre3",
@@ -937,7 +950,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "785ab0490df053118328005b90593ecf8d2749cb7863dd38f7a16d4fbe5207dc"
+      "sha256": "6dff6b9afc8cfb1e2ed723714a7a39198b81ad3a9715a0c6682c6ed472f52479"
     },
     {
       "version": "1.21.4-pre2",
@@ -950,7 +963,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "4c44b9ad977968a12f3865f69eedcfd3d8c2673f3d97b3834b0a9bd24d74577e"
+      "sha256": "1d6d63c587ca4c199e1dd41ad03d5902c4b17e5e7f079ce2da9fde57f8d12360"
     },
     {
       "version": "1.21.4-pre1",
@@ -963,7 +976,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "504c1182bc2d9d8a613c78e23ab102ae8e3a9cb5a234fbe28584322463d2a176"
+      "sha256": "33354bb5c4992990c9c420f374d3dabe3899cefa693b0126fa5457c98bd6f207"
     },
     {
       "version": "24w46a",
@@ -976,7 +989,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "03287729392862125723525712dcc57d7ad14611d5c0f186e9bd83ba2ac81d6f"
+      "sha256": "4c829c8387986b47855fcaa508d5d8462b4e790da513492529e31511acdd3c9c"
     },
     {
       "version": "24w45a",
@@ -989,7 +1002,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "94bfd919d8566a1aa4eb0b0f4970e48979cca8a6d931c7a3a2f696c1e6853821"
+      "sha256": "7cdadd2bfc564039804f2a7d0930719ff5924d33b2f870c18e41debda9107f11"
     },
     {
       "version": "24w44a",
@@ -1002,7 +1015,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "1636b6f0b705d62a34ff5aa11a2925e15ec3ce84a17848d505a7fe69f6bff50d"
+      "sha256": "7feed036b0bf856e021dc3e35dd1a7daecec590c57869bedc246d3650476b5d7"
     },
     {
       "version": "1.21.3",
@@ -1015,7 +1028,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "b60c4c783050cce7e39811a189f09180f7a68fac4573b40e94fa057f8c1993b0"
+      "sha256": "425f8936d6f8d3df0786820e17f1dd14df7e2c530acafb8c2647038737e6cb24"
     },
     {
       "version": "1.21.2",
@@ -1028,7 +1041,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "b2e2ee9f799c38f0442e56db37de06f52c6decdcdfc3e9a0fda2a40341ba64d3"
+      "sha256": "5856c8aa2e5516c526e390c8aa172dea60a223473127f55ecfd86c274f981d9f"
     },
     {
       "version": "1.21.2-rc2",
@@ -1041,7 +1054,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "3fa47f0f19281996563e0d3fca03a2c76ed07a7c201d3240f00221811d7fd284"
+      "sha256": "7351a101330e587216cf16abf45ef748cf4fa8336abf9692eb68ef7c604c7624"
     },
     {
       "version": "1.21.2-rc1",
@@ -1054,7 +1067,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "5010baa386552a0a03369367fcacac6199159f116aceb5714c4d84b2b75a4ea5"
+      "sha256": "b6f04927bec646f427e2cc59318b7e6f51d0a029e31606a17eceae5a32d25744"
     },
     {
       "version": "1.21.2-pre5",
@@ -1067,7 +1080,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "704c19a6e86c2b560ede82bad889ef27f605ed7d1500ec68337315d95cbde099"
+      "sha256": "eb22015cd1a8b47d7f83b512e0a836e0e8e34ead69c396932123da3111dbb782"
     },
     {
       "version": "1.21.2-pre4",
@@ -1080,7 +1093,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "0f5b40371bddda9a5cdb33687cf0266fe4aeb802d7fe79cc0ba9f6ae6efe07f2"
+      "sha256": "871a22c8958672581fbdf1b4c25d64f15243d52862117858cdcad7755a81e2ab"
     },
     {
       "version": "1.21.2-pre3",
@@ -1093,7 +1106,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "f1826ce35bdc70ad1ce9b197e9ee5ea88cb558ffc08ed3061c06e96fe4a9c751"
+      "sha256": "e165e6f54d5b2cde9e79e7371003075d8f58c8b1a82a6a60ea83d8d11a8e0795"
     },
     {
       "version": "1.21.2-pre2",
@@ -1106,7 +1119,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "655c10234487e8c2ae5a373d1f0dc555d0889c871acd3a323dcbf180a9fe9204"
+      "sha256": "d52c0199b61503de86711cf179478a292e0b89cf593faf46f93dbf694f453761"
     },
     {
       "version": "1.21.2-pre1",
@@ -1119,7 +1132,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "0aa1ab5a332dc9c432542d13ab0d737268abb3f432639c71f5eaf2f1669f3ae9"
+      "sha256": "60a5e9bdd522cc3c158a24823dbe79e0edd88ce0e33046af41c4500600e91d23"
     },
     {
       "version": "24w40a",
@@ -1132,7 +1145,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "fc70f4397530965a75ee3151e47fcfda6b65100d139d3a66bb8bfb834650c818"
+      "sha256": "b643b4655bb29928c8745b4fb9de47de60b5de03ba1accc1b76eb34632fe0140"
     },
     {
       "version": "24w39a",
@@ -1145,7 +1158,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "2d59392d4014e27d4f2571bd304ad04e720ab03e139589154e4d8ac898e29ff8"
+      "sha256": "521aea779574f402c8d8dd50d4dadfdec2ca394af616345669e3b866cd4604da"
     },
     {
       "version": "24w38a",
@@ -1158,7 +1171,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "92bddf5cde19eceea9c6aca980ad87bbb7aedb137481f682742c34fbfea50182"
+      "sha256": "ee364f3d0aed7cbc11ca562c012566af5242b5eeed7172e48eac1dd656686fe8"
     },
     {
       "version": "24w37a",
@@ -1171,7 +1184,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "c2dcebc8c40433c9403a142d10c8508ca5ed643cc0466c348f61a663c54e6e9b"
+      "sha256": "9ccb3f4fb1264412dee72d8d4558b24a7b5b68a33edeed1e9c4e58d76fafd18d"
     },
     {
       "version": "24w36a",
@@ -1184,7 +1197,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "f8f8bd14a5069e61f497c3f697a95116516bb9c105cc18c96315206de29083b7"
+      "sha256": "4cf2ed0328348a67827095b497b6496dd6ecd4b79e3686dbe8c12a6112463473"
     },
     {
       "version": "24w35a",
@@ -1197,7 +1210,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "ec6530fbdc45ab56f6a1985d94a670b4b326f93713f15c7bd34a15642fa37536"
+      "sha256": "d0d80001a99e56fcb5bdfaa4e6eeb4e7fab1f41936d9f7de3bc3ff79a4da9dc2"
     },
     {
       "version": "24w34a",
@@ -1210,7 +1223,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "69019b3adb79fae0b1e56e83d0160ab72b63e97067ace0fe5c5b3b4414f23c54"
+      "sha256": "02e1d36d885ce90e3c7555a64ff4d99fe2588af03665cc5af2409be52876345b"
     },
     {
       "version": "24w33a",
@@ -1223,7 +1236,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "8e86f10acdfe945109dd10c33e22554ac48e814bf52de34e0244f615a2ae1afe"
+      "sha256": "03aa2a1eb9fdb9e00d08bbe8bc9ad0fcb289371441e128be1a6ada5edd629e1e"
     },
     {
       "version": "1.21.1",
@@ -1236,7 +1249,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "2bfa3d38a248ea354c77be047a70906633df24c8dc815cec1007c2d2b9796be7"
+      "sha256": "ba45d54df2e6beca73c400d851ce8b7e905e7703b06e5357b119926370b754cc"
     },
     {
       "version": "1.21.1-rc1",
@@ -1249,7 +1262,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "9506d49d68a6a25c97fd26cc78fc9255efabfc49a9d57e6190514350e5c34f55"
+      "sha256": "63338c0456563b6149b0b0b110910380586846e8431b0ef29661404408b4f007"
     },
     {
       "version": "1.21",
@@ -1262,7 +1275,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "b0de252f9c2c5fa01dfa8a19d1841efce99dba5f10abc008469ccdfad79d6248"
+      "sha256": "f05c8affe3bf211db15e468f27024a3a585891a80fe8b364099fd3094e71d7bf"
     },
     {
       "version": "1.21-rc1",
@@ -1275,7 +1288,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "7d22ddfe13f2fb8dc149b5f5cf5a1291958e093a8dd164650e07d6f8302aac59"
+      "sha256": "f8093aa918500cacfe5feef1655e4f92958e16809b8cba0daf12a4fb6d8b9346"
     },
     {
       "version": "1.21-pre4",
@@ -1288,7 +1301,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "3cf510d09ef7f4e83c2689abfc22d18fbff22495940d0214ccd62e2ac9a60eb0"
+      "sha256": "02085efb73733b2e0d3a367dd41ef013aaa318e9dc1b7d3c3010f2e6c567bc76"
     },
     {
       "version": "1.21-pre3",
@@ -1301,7 +1314,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "cefb3be42aec2b5743c9127c4ea3cbe656b6380fc68cd3bf6681b78aad7af496"
+      "sha256": "e461221e2e2f864bb95f01c39fc554826a96ee142494073a3a9005c8d2f15ad9"
     },
     {
       "version": "1.21-pre2",
@@ -1314,7 +1327,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "194aea8ffd255e0a7b56a4f849f7f92f1601061de93d0a0c84ba2a3ba4e483f7"
+      "sha256": "e6eec0f4a737c06a55ca79b0a9bc573a60788e2719b1486eac64d60cfa254f7b"
     },
     {
       "version": "1.21-pre1",
@@ -1327,7 +1340,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "89e9ec2c374cb28e4697010730c597101c5170cc110df9c01e63171ec18e866b"
+      "sha256": "4df4ee345d3f961e5550be218d8227e2c01b4be8c7832f9292241e0a16f45647"
     },
     {
       "version": "24w21b",
@@ -1340,7 +1353,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "d0000322007c93ae058833260aadc6d4ab7b0cf5694335a662cf8c39f6178410"
+      "sha256": "07e654d48a487d50c728e21974f26583d3b836518ed612849e319d20536bd4cd"
     },
     {
       "version": "24w21a",
@@ -1353,7 +1366,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "3aa322b9b7bafbce9c4efdfc5636f1fceb4ba5b448df636545aa1d331b7642d7"
+      "sha256": "bb051a47615cc0ce884e62d1b5be6242e2e9d70b63a4e307d8198a37d70f6264"
     },
     {
       "version": "24w20a",
@@ -1366,7 +1379,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "0880d8fea473f690169a57f07246056c3ae522b015d865d712907db64332b696"
+      "sha256": "5a6057d6eff71c54ec539205ff142719ccc4570f6ff9ca653569f0c66e216b11"
     },
     {
       "version": "24w19b",
@@ -1379,7 +1392,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "fd29d2bca829a515f49144d0b3c2ea96e4aa6fe3912294f9b75153fc7dc5b0e6"
+      "sha256": "72c494dde5916a7142a6a379e9a37ed2320ff25ca56671904513b2a8d8ceb8d7"
     },
     {
       "version": "24w19a",
@@ -1392,7 +1405,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "8891689f2c58ee93ce282f4b0f1dedb526a2a5161f14fcb949347ef1cf7526bc"
+      "sha256": "257add40c9facc0fa9eaf241f24dddb3403574d3f7be719ba3345972be36a2cf"
     },
     {
       "version": "24w18a",
@@ -1405,7 +1418,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "4bb586697bb5bc20fe8689f062d8dad60ff95af1ac637adeba0e38523c81141c"
+      "sha256": "31885ac37e19018fe7f0c174e050590e1c6f2b22a603be74f3ce2b63d52ba54e"
     },
     {
       "version": "1.20.6",
@@ -1418,7 +1431,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "1db9308fe7e209637a91e9880b4d34f0d88a283882e4540548b7d75c22390759"
+      "sha256": "adaa1967819b51ed6a467cb0fa058ae71be14e6fa54871bb734e5bd996077ed8"
     },
     {
       "version": "1.20.6-rc1",
@@ -1431,7 +1444,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "4544ec487480cdd8926ea502e66ea36d67941bb955b3896112f969a54f288840"
+      "sha256": "58bdabf5675535192de529f2fdb70ce36b06f74152caa54595be49911134fbeb"
     },
     {
       "version": "1.20.5",
@@ -1444,7 +1457,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "3c2bf2ab14f282687db91224bff48fad6749ab0cfc21163a87dc4ac7f111b705"
+      "sha256": "8b4e6d944cc23c85a5f77039b673bb405b2d42b546d25c1221d3aa18f5273334"
     },
     {
       "version": "1.20.5-rc3",
@@ -1457,7 +1470,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "3dd7ed820e7b70b0a86be7abcb0cf749c23fd9fdf588a7ab8f35eb789cf624ee"
+      "sha256": "cad2bc6ba19af828f765b4a5b9e6414868b2774a849779d47c8cfa4b6503d4d7"
     },
     {
       "version": "1.20.5-rc2",
@@ -1470,7 +1483,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "f5942e8b7bdaf2d323d8ad3d2c2acd260adff5d31235a84a11ed1d6800ef868a"
+      "sha256": "a865c9b2e2e17f1b0c8cff6f9409cc7493d85de5bd8682f3c30a5d739fe6be95"
     },
     {
       "version": "1.20.5-rc1",
@@ -1483,7 +1496,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "434f254e26749fde64593f3e55f81cff65c0fdcf7778fb281f9d1d15f24efe8e"
+      "sha256": "cde4cec4abae1ec12f6fe029fc8c56714b406f327eca1e747dc4a692b420bcee"
     },
     {
       "version": "1.20.5-pre4",
@@ -1496,7 +1509,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "d1c03184bce0f57936188de1e85e66ea5c93c6465a00d347e502530fe87393e4"
+      "sha256": "3023f32b9f18f52e33d7fc66a5398896323c023c9c5da8f0ccde7ade2abddb7d"
     },
     {
       "version": "1.20.5-pre3",
@@ -1509,7 +1522,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "b6f1c7e76304407150fd4e37c358be9dad1c31a5d93a0dd80ef18f8dc1988e09"
+      "sha256": "52e4dbd3016446030f2464898dbff493cd62f190fc1da3ee59d0bcdb61b4c3fd"
     },
     {
       "version": "1.20.5-pre2",
@@ -1522,7 +1535,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "1624aec0aef889f5d5a3ac1b60bef354522dd180c4d3a8eae34b83b4998f682e"
+      "sha256": "625c7f98a217f217a5e1b4618e2aa37cb6b3d6cf14dfddffc4ef4ffd2a0b1e36"
     },
     {
       "version": "1.20.5-pre1",
@@ -1535,7 +1548,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "f7c10f24397ac78ba0d763a95eefa29b1cb8d08d12ea800cbcbd370eb8affab8"
+      "sha256": "6e1fe8692d0a05f1f5d606db2ef005c3ca281b101d17f583aadfed0535abcf96"
     },
     {
       "version": "24w14a",
@@ -1548,7 +1561,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "559f7e770a51967537b5b269e784e666cb5cc13ad5a0fc37aee69999314cf782"
+      "sha256": "bde34ee2807f323452068b6f69b296f1f87ec718f1b5bfa98de0cc04eac1354d"
     },
     {
       "version": "24w14potato",
@@ -1561,7 +1574,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "24e608f55c9ca3d72b1ac0261ada4d1bb0965e98af0f79964fc2a3a43e476d48"
+      "sha256": "9eb0054ef07f433d36341e3cb4cd25b18eaf3d632941430a45d8063595b96f1a"
     },
     {
       "version": "24w13a",
@@ -1574,7 +1587,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "0e5bdadac172f58b768342765f551e088f197c54f891f0c1a2d07f138bb95a95"
+      "sha256": "874e2caac7f61b50b037fea5b74b13625419b583fe2c8e3f85faae422de73ee0"
     },
     {
       "version": "24w12a",
@@ -1587,7 +1600,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "ad0634e7dc3f99a73ed3e1e52b7097e0921e5ce7462120a1dd554974a9ee08af"
+      "sha256": "de91ab2a737054a48804675b1c4c45fb0df4a97d631a42fe60185a3cdab2e1e8"
     },
     {
       "version": "24w11a",
@@ -1600,7 +1613,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "ddc821af79d2cf5e7f2da27e7f9e060ed76cff4f5e58df8cb506070251fadc44"
+      "sha256": "0e478229da25780838e1f2a7bdcdbf02fb22499ea90d2e6a94b66026a89254ff"
     },
     {
       "version": "24w10a",
@@ -1613,7 +1626,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "9c3b4079e45f01b6449885406e752baa2bb2e011411938fb528f3cbb530dc8d3"
+      "sha256": "181f2a87043c2268f02d2735ae2de8e6fa5facbbcc14764d172162f07bbb07c8"
     },
     {
       "version": "24w09a",
@@ -1626,7 +1639,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "722826bd11e1fe138c4aee4c3edab43e1e59fdfb3ea80256a569c8c0f842394c"
+      "sha256": "a5f3140f2693b7f37704cc04919fc1d6abc5eaea81917fe751b21f38c9951908"
     },
     {
       "version": "24w07a",
@@ -1639,7 +1652,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "c511f0091bd2100bc4f78aebaebfb304330ee918230de9cd1679e5c3af4f9a5c"
+      "sha256": "dd74a2ca98a93ab11d4a6c135674bfc2c1e6050d899418d62fffa8a9a0098f89"
     },
     {
       "version": "24w06a",
@@ -1652,7 +1665,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "e230a69b14c698aa62a9aa336b1f11809651db8e2c0c1f1323c5897ee7d2cb97"
+      "sha256": "b8e82e01c80cb1c3e14ffb55816531945e768a59ffcb3f499014b7a9fb196811"
     },
     {
       "version": "24w05b",
@@ -1665,7 +1678,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "8eb01dfef71d1fccc4eb2ba1e3a7c4d0e2f39bd94cf827dfdbe00bc7d4bc5007"
+      "sha256": "52ceca5d00e5bcb8a00d91ec4e6232e0b2b46337a0edd9438edd2e3bbd4acdbc"
     },
     {
       "version": "24w05a",
@@ -1678,7 +1691,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "b8c7ca079be2a62a6f286c9ce227779a0a80991222a38ca951442b54ac73b878"
+      "sha256": "e88ca454e87df2f345a5ecb168c1fda6071542d46323ab5a87d98d56ecc65c21"
     },
     {
       "version": "24w04a",
@@ -1691,7 +1704,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "21d43931fc162c4e78c297a8d4af18246df5247e83af0eb10a7975f5d2797887"
+      "sha256": "965d8267e072c507c16c67a244a977e73998c4f788eee6448a05e1cc3d435b78"
     },
     {
       "version": "24w03b",
@@ -1704,7 +1717,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "3598901e969d041a5ddb49ac6b3c99f40b4cf01a5a81ff8b6f6c3922ba0401c9"
+      "sha256": "213f4b8fee5ec6712e5ce07a18ec3b555286d97702b14e440ed6237881899452"
     },
     {
       "version": "24w03a",
@@ -1717,7 +1730,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "41629780a47809839112403fc9d22afa16e651d8affa4c424f5b63d01fc8e59f"
+      "sha256": "38c041cd51a4bbf25fe55786f919e1c43c48884cad23896b2781c2b4dfd932df"
     },
     {
       "version": "23w51b",
@@ -1730,7 +1743,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "dbeb0a2ed2218d4eab54486a7cefd3273c07e248d48d0018fc9df8de607d2393"
+      "sha256": "9f4117cf8491424265af3e5b5442e815fb98e18c1171aa396ca73e49087cdb32"
     },
     {
       "version": "23w51a",
@@ -1743,7 +1756,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "212fcc8e3d1e3e8798c242c66c6064eb77f736e334c51664c2303ae37bd37048"
+      "sha256": "d77fad30964e3d1aeb4651ddbf3c271209898a532d25e86ae124b174a6da513e"
     },
     {
       "version": "1.20.4",
@@ -1756,7 +1769,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "89e8cea995e4765cd856672241eee5d5b6bab543b402679751fd4f6df09726b6"
+      "sha256": "f5307d4c383653e1448990013d77b096442b5e41d8408fed594651c473dd3c11"
     },
     {
       "version": "1.20.4-rc1",
@@ -1769,7 +1782,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "64270f6d25c0ee3f20fd53ad11f2e5b49d077b8acdff22a467d0a89638b48169"
+      "sha256": "66ce6ce80c9d9d61066c1729cc36a32e30c388abe8c305b20c528f053511f33d"
     },
     {
       "version": "1.20.3",
@@ -1782,7 +1795,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "55e10971da9bc56ac123b8a1ce0a57eac21bdb488fbb40b5499c0671122113b9"
+      "sha256": "108fa4e39a93fbae8a80cb20ac8fa902722b47db73c4d5758f3a9a84db4191af"
     },
     {
       "version": "1.20.3-rc1",
@@ -1795,7 +1808,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "12f12aa2d009e3a33193d95bf4782564b6d483b3b3f7e8f9f711c5ffc06c0eb8"
+      "sha256": "a569176d9796b82f5364a0624492835f03baa427d56592ab9beb0c9108d08696"
     },
     {
       "version": "1.20.3-pre4",
@@ -1808,7 +1821,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "c593f9df5c8399cec357d16951777f425402046af8e9369923a03578ae8020d7"
+      "sha256": "3257a80943aef26890f1313c1c4d6c28e7f0328f6250da87d4dd3238fa0182ce"
     },
     {
       "version": "1.20.3-pre3",
@@ -1821,7 +1834,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "1014d6c47b77edb217971df9765d93eb1eb4c45e91d441158cbeeb85410b0c88"
+      "sha256": "9de6810210bdb06c1afd1bca15014d408f5efd0d698f8f4cef133a8321dc6b46"
     },
     {
       "version": "1.20.3-pre2",
@@ -1834,7 +1847,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "b160b8c0023d7bcca446328bfa5100da80fd0beae74d60baed24d918bd799efe"
+      "sha256": "8ccf3bdb94b208baa3f9d5b0ae120475a5d2b64c96a9e1501833dee646a7d612"
     },
     {
       "version": "1.20.3-pre1",
@@ -1847,7 +1860,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "cf9d38d76a29a089e0195da950591f09da9aaa9414ee01aa7211392c7d7de666"
+      "sha256": "a803eed74886ae811e4f36f6dfcd63f676843ebde806c5336fbab2bfbf9d1258"
     },
     {
       "version": "23w46a",
@@ -1860,7 +1873,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "da0ab9a399a25628cce8c7b522849cb5bb7bd10dfcf60cd48532551e698000e8"
+      "sha256": "9822d6dd7fcd21907717513abdb913aa5b0f7b9be067096ddf365e08f139987f"
     },
     {
       "version": "23w45a",
@@ -1873,7 +1886,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "92f3f3e12813ae322bf725cf7baedf4315160bf2ad6b959681f79cf4c280c9a1"
+      "sha256": "9ddf0fabe56217f274f0b83cb0e39cbcc47bd4e1c8d90fe3518a3cdbba4ac6e1"
     },
     {
       "version": "23w44a",
@@ -1886,7 +1899,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "d699d24c6ed9775a09398af154b071e82d312393e7d479d513f02961228027cf"
+      "sha256": "7dcf4a5c9f867733ac04934c1691986044bcb3a3c6bdbd88da49341819b1040b"
     },
     {
       "version": "23w43b",
@@ -1899,7 +1912,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "302a6fa6544318771d77a8995cc28c9233e27a874e99629f7ecbd627d923a838"
+      "sha256": "d3898f382adb5bb13d4cdb7bcf32cb7c8e24d16f0d4496329a3434d96959012b"
     },
     {
       "version": "23w43a",
@@ -1912,7 +1925,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "54ecaf20c9d0a9c0b9a715e305602988fa200b0426b93e7dfb3ef75e429d6667"
+      "sha256": "0d12a3bd0239e5c7637f7d813e030deec3b285a0aa8e943043acfcf05f328726"
     },
     {
       "version": "23w42a",
@@ -1925,7 +1938,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "4ec03f15411a0e22682a63ea39daf272089994cb4eac72e6feab4a945006209c"
+      "sha256": "248e0750ef8db324bb6f6b1adf9ef3a7e94b5ec3cc9801e37db2b4849f92f4a4"
     },
     {
       "version": "23w41a",
@@ -1938,7 +1951,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "29ab61dd9c9e8057a6c23b7b5680bc1c173097cf43bca1eb90ab63ea804b9531"
+      "sha256": "cc68882ff1c653c6a4d0cff3c564e12c144abddce3fe6d525e50ff6a3d0ebd0f"
     },
     {
       "version": "23w40a",
@@ -1951,7 +1964,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "4639af28f2e6481bc522b7ab4e44c889892b1b9ff6acff3abe1e632214790001"
+      "sha256": "4f0d362bbe6648aa5195dc49d5b2e9e178de5582878c6479ff5ee795ee869cbc"
     },
     {
       "version": "1.20.2",
@@ -1964,7 +1977,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "01a3bd264a305d23c61d18d93e667c19c8a3f072312b8aee56df6353417dc771"
+      "sha256": "f5ef1284599d0fd5ca58109ca99d1dd0c34bd11e64b1cc7dba8f96e84c64be35"
     },
     {
       "version": "1.20.2-rc2",
@@ -1977,7 +1990,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "fe9987bb5b1ec2c58c63c431beaa37827917c3aa28b48738d4039c99fbe79a22"
+      "sha256": "142621476b1fcba79c81ee310e1b843c20ccc9ed0c935473a36a02ea94f3116f"
     },
     {
       "version": "1.20.2-rc1",
@@ -1990,7 +2003,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "e7a51d562e5be18330eeed7e863987f12a5bdac690a8545e48495eb04dde195c"
+      "sha256": "efde0a98e82801f519f412171d36c09ef8387d8f19312c1ec6615e027d93012c"
     },
     {
       "version": "1.20.2-pre4",
@@ -2003,7 +2016,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "2ec84a8f849da5a97b77071d540259de1a6851b5332cce995a5286e9ec3b6722"
+      "sha256": "047dd4e056f3e33c52bb886cbb0c39ac0d95e56a8492f22467ac58338a6cbbcc"
     },
     {
       "version": "1.20.2-pre3",
@@ -2016,7 +2029,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "41c7b46e89148f76c20e0723191150ac008e367d2aa2c1ece167ed47dd2cfbb1"
+      "sha256": "a44dc55b490bf9fd5548a82adb5b3bc68607733ca5a47f68ec8898a8e8897cd4"
     },
     {
       "version": "1.20.2-pre2",
@@ -2029,7 +2042,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "e917c4e3d4d95766d71d0b7db1078a6e7a2ee437c8e2773589512832b8c7b05c"
+      "sha256": "131303110263df75f1b5baccceca3c3290996d365b2a16ab3795bbdcff642814"
     },
     {
       "version": "1.20.2-pre1",
@@ -2042,7 +2055,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "28b791ec9369ed4776d425e212c86f115e8f9b57c97f78c0bd16996d082f4eaf"
+      "sha256": "c60ba9ce04ae33fb0f5362ca77c4248363157df53876e3e84ca5d399c7fde835"
     },
     {
       "version": "23w35a",
@@ -2055,7 +2068,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "d0ded4811022049b0f1cba74607fe2cfc0f2b6f389c828ae451e5b2e3bca84bb"
+      "sha256": "1ec11be97816e61ee2ebe6721d74a1b62b41b1011f96baf8fac06c44f1319762"
     },
     {
       "version": "23w33a",
@@ -2068,7 +2081,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "250774580d81238ff6e6aa5c97f5db45558023fee4654f3a8fc8b869917453ad"
+      "sha256": "80dc725ddf8e486b65291e371533400b564359c84f84a6c8209d765dae823c99"
     },
     {
       "version": "23w32a",
@@ -2081,7 +2094,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "0db8705ccb1d73c22458798ac8916c7df44061fc9322f49da5dd99989b842744"
+      "sha256": "3b374f386db594a863a5a8a8f7814024ef4d30f9f93a76e38cacd23979fedd5a"
     },
     {
       "version": "23w31a",
@@ -2094,7 +2107,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "2a3f7688416414da3232d4afbfd4aa64a9b0484a410e4eba50ac5146a5f75001"
+      "sha256": "42f71a40440073ba7a72ba42197e10537f01975d5ec2e9ff458b32e2c1ab95c4"
     },
     {
       "version": "1.20.1",
@@ -2107,7 +2120,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "323895957f0ed27fc149a3b04debb246a22cba3e192431506d2630c8f978a5c0"
+      "sha256": "1dbef0f74bd2f5e01edb06b544354427b70589ab36ca19ec6c1892a27af06ee3"
     },
     {
       "version": "1.20.1-rc1",
@@ -2120,7 +2133,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "b8895fe58610bf843264521fb0e1e3ccc5ffba08a736ba1561250a9c36a2f419"
+      "sha256": "44701aa48100827e686180ce6ecbbe1e650cd61b7e8c25c6e3c95e1eb1092f96"
     },
     {
       "version": "1.20",
@@ -2133,7 +2146,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "2b7a503d501d09cfca1aa1e9398a5d9a9f104fdea0c8f46d008a82df2d3d6917"
+      "sha256": "5e46bf8e3c8757f4b6fbfeffbb9b9e1dc0527fa72374a58beaa59ee42435c1c1"
     },
     {
       "version": "1.20-rc1",
@@ -2146,7 +2159,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "68ad07a92158f1ced66c2099ae78514708ebfe5eaeeed6c4abac4d1912395f8a"
+      "sha256": "a100c985624ee5e55623b1e45c0d785ccdf83d780ec5eed3b84eb0d6f43a8623"
     },
     {
       "version": "1.20-pre7",
@@ -2159,7 +2172,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "b687cf126859402ab137549b18701febfdb7d7ee00d0a2038a94d4983d30860c"
+      "sha256": "c4fd72ee0b5d934097f55fadddbe0244f0862a8e8e3f8c7e65a42c6ee8547811"
     },
     {
       "version": "1.20-pre6",
@@ -2172,7 +2185,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "50950735836af58186beafbf872dfcd5ed2f7833e344602af0c0aec179d54419"
+      "sha256": "46a025ad0f040a2d7d72b4b2c32ce8751f6ef070f1aea6fab91d601d00200c5b"
     },
     {
       "version": "1.20-pre5",
@@ -2185,7 +2198,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "20807db666cf576f71e66664de690ec06be81a098c4b8051160e4fec4b865dbc"
+      "sha256": "e917fd194b48512f57e40baf428536bb7a034c9e49bd6951011f6c74c6653342"
     },
     {
       "version": "1.20-pre4",
@@ -2198,7 +2211,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "a7eaa64bd0a3f403c837438e35d42079958f9d1d1d4fe6546a3e8d4ab561eb0c"
+      "sha256": "f728e106d6bea2ac8a4499a457e24d8b9286a617073e34d8457b3b8bc90efdba"
     },
     {
       "version": "1.20-pre3",
@@ -2211,7 +2224,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "a4c215c4025b631b1fb85dc9dd21b7ec7a1580b9810c7c8f92b5bb4f7974602c"
+      "sha256": "16fea2517dc3ec6b794008c85badc4c4afe8cb586cecbcf79b5156146f580ed4"
     },
     {
       "version": "1.20-pre2",
@@ -2224,7 +2237,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "7b362f20a6449c33d6123c1ce7e5cabd89ceb7258c513a0bfd88daede6dbe794"
+      "sha256": "670535cad537fa707f40076389bee08b6ff668f44a4e88176813cd2752f5d82e"
     },
     {
       "version": "1.20-pre1",
@@ -2237,7 +2250,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "49b23c40e46888f6b458f67d292d31c8b8bbdcc5178bb85393ea0bfcb5dd410b"
+      "sha256": "380f513a447415f75d63a09a185ed48d0251e47a6b3e1876f9fdfdeffdc81253"
     },
     {
       "version": "23w18a",
@@ -2250,7 +2263,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "10fe32c1c1354c36fd444d8ffcf9ae580510b22c69ff2ede323d62cd36e91cdd"
+      "sha256": "54cda9b5d5b5062e81b1dfeb34353f017a23b824b9db21ffe77756ead29f775f"
     },
     {
       "version": "23w17a",
@@ -2263,7 +2276,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "7c764dc0fe7670110e45476a0ac4a219333df1c8db8b8035357b199eb75abcfc"
+      "sha256": "59271384610f907c4231b7427af2d4d7e3a2a6b82e7f4380994c412182914eb1"
     },
     {
       "version": "23w16a",
@@ -2276,7 +2289,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "68c0b26353ef21aacee4582fae1a91aa3044a97bdae252e4ba4ec1014b90d040"
+      "sha256": "7cfac478e8d73708c6720745e79cff4e893c2763e6987af01e6bfd0bb140208c"
     },
     {
       "version": "23w14a",
@@ -2289,7 +2302,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "0467ae6c5e68ff81d650d439d1945ef69e57733dc817601aa739744eb348dad2"
+      "sha256": "a7b3cc4203d74b890f70ab57ca9a24210dc2b53bd12eb741752a1d06e76087f3"
     },
     {
       "version": "23w13a_or_b",
@@ -2302,7 +2315,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "18de331f0569a864788f4d88bdaa2905321e6c8bd653ddcf1662672f156a8989"
+      "sha256": "ec9c6943ac4d8c843987d050d79ba0beec9533cebea161db57c39f93c303e4f3"
     },
     {
       "version": "23w13a",
@@ -2315,7 +2328,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "e54d22239ffe2a03d36f58ac769f5c6c863842a7d32d6e76ed6256dc4c26e79c"
+      "sha256": "feb719bcf754151b4ad77b1a2293ba82e161588b31959b830cd5af6a2e9635aa"
     },
     {
       "version": "23w12a",
@@ -2328,7 +2341,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "f0093eea63b48eddce40df8d02c79fdb038fb7b0a7cec73d97bdac15f3383378"
+      "sha256": "568aac548c19629e5dd13dc68e6e52e7a2783c1bb74227bcccb045e7d0512c22"
     },
     {
       "version": "1.19.4",
@@ -2341,7 +2354,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "7f1701fe93aa7b2eae47dcefbf0a11d233fe10ec9b0249fb2e5a17d6e176c37c"
+      "sha256": "2b30cb2c707e7bcd5a580b7b7facd3c205193cacf7ce9b103eb2ebdf26ba88e8"
     },
     {
       "version": "1.19.4-rc3",
@@ -2354,7 +2367,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "a3aeecbddc8de66b2c38385b0792894a11ebc7430c30aed0ef80b78289dfa240"
+      "sha256": "7cf3348006ae89d93a142264c17d42e7b2c937c11e129fc73073c43434e8635c"
     },
     {
       "version": "1.19.4-rc2",
@@ -2367,7 +2380,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "b8b8698dd174ea63736b3b50553d88d1824739016d613cc7d10c0aa65dfd5f08"
+      "sha256": "4efb28ebd34223558ab3d43fe6cade91730a799ea9ffc3839054bc0777b8e4fe"
     },
     {
       "version": "1.19.4-rc1",
@@ -2380,7 +2393,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "5c5f5e473d541aa525e08729aee19ad10aacda89489b7ab0a9f8cc8a05e97218"
+      "sha256": "e25b9101f0afa1d749415a5f55576ae4b1897e73a6b77d5102cd4926fb2f4ae2"
     },
     {
       "version": "1.19.4-pre4",
@@ -2393,7 +2406,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "62095420fc56329a2ccab8e3917f261fb4ecd9dba18efc0b9d708aa0d8b63f1b"
+      "sha256": "dad9771e8085b4854737b9b83a287c439ec40ab6e55aaf32e8181525675b8f62"
     },
     {
       "version": "1.19.4-pre3",
@@ -2406,7 +2419,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "a26ee8f2b8a0861940df5d68ec3ee784588a4713211e5a26caa344990542563a"
+      "sha256": "ca32cb1157ecc2e6de939116c3f7abd87860163265bd98c630cce08414f9f624"
     },
     {
       "version": "1.19.4-pre2",
@@ -2419,7 +2432,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "6e551dd8c291f6daa025201a9d6bc6802c8f72dbf6fa74cfab919429bbf0d797"
+      "sha256": "79f93d969bf2c2084b11fce8613e2512b965cfcf7c6f18c15495d77e7e6e266a"
     },
     {
       "version": "1.19.4-pre1",
@@ -2432,7 +2445,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "273e7ca307e6938398ded35aa2b5bd6478641c949224531056829e8416477758"
+      "sha256": "3009fe053c2064a50b6dd6251bd8c679c63ec22f8d265358b7428790f245d7d7"
     },
     {
       "version": "23w07a",
@@ -2445,7 +2458,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "f9cfdf506f4baf782b5142e592f1fa29c4203909959f1b21d7c74260d11a87ea"
+      "sha256": "b76c94a33ac5a63440e737fdb211f13fa792ed96f34562544917ff381024199f"
     },
     {
       "version": "23w06a",
@@ -2458,7 +2471,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "573205f9ee957ee3b767f3d919ba09d4747916d0868bc0c62005fe8a4e054ce2"
+      "sha256": "7e40811ef905db2c71584274a056e63215b2894b19edc0933e42c241fdad87c3"
     },
     {
       "version": "23w05a",
@@ -2471,7 +2484,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "814102485a6c893b6fc98814d004b05ef8d26938e5a7a43806549a920fa7b069"
+      "sha256": "2bb627094fc98601344f1cf6fc608eb42d9276160f6148730aa8f2408a96569f"
     },
     {
       "version": "23w04a",
@@ -2484,7 +2497,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "7adf18a73968a09184cfc3c26f27a054dd60f391dbbce0e532f01583b6ddd30a"
+      "sha256": "8f0e8e6ad42736bbce6af21af22c05ac9f769e8e749d65fe050ed713cc279b45"
     },
     {
       "version": "23w03a",
@@ -2497,7 +2510,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "28babcd2451b5669cb5442ee2fe16166a3ba6df697cbead5407503aff4f4bc61"
+      "sha256": "6b6b91aaec8210cf52f9e8963536ff110a6f6b3426b5147e686f718cbc135f86"
     },
     {
       "version": "1.19.3",
@@ -2510,7 +2523,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "50f8824adef57e797212331fb6bd41ca04a1b79e047da6df707b875ee79cd0cb"
+      "sha256": "3c0efff1df3201cd0e685e8be5aabff9e21a2d22cc10154a4771c9fc87acb8d8"
     },
     {
       "version": "1.19.3-rc3",
@@ -2523,7 +2536,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "51705efa0a6ad742dd92564d03441cd2fb8fe2f32c3ea7e372ed47759c75983e"
+      "sha256": "1b62762eeac27df7d32d35058875ed91a0a6437eb6bb67f43fa3de896c738c03"
     },
     {
       "version": "1.19.3-rc2",
@@ -2536,7 +2549,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "89dd48845b3192fadbce1d3b93ad3318818415a7d2c121202bcf9937f3527fb8"
+      "sha256": "72955c52e56845afbd53226325fbf2481133e7300fc507e318b0073c147b7e24"
     },
     {
       "version": "1.19.3-rc1",
@@ -2549,7 +2562,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "51c2446ea4cb7922842e8b43db7b98d7a751138867bc7043137436853d1fd169"
+      "sha256": "5a7db262ec1b679df2ba43d3fb784ba49b9e351bf73597588556c22cf2656306"
     },
     {
       "version": "1.19.3-pre3",
@@ -2562,7 +2575,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "5acfbba527e97cb1c80bc864473ddefe3862ab8b4021860bcb52f8b666cbdf1d"
+      "sha256": "8b7d6e42f77f79e29d39ee5d706c35b39372ab92ba2b66e1eb3a0b6833bfeabc"
     },
     {
       "version": "1.19.3-pre2",
@@ -2575,7 +2588,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "18d7bf3d31d59d319c0a904097d3790505dbd08edf37c03e550536185331d39b"
+      "sha256": "4fd51fdfaa0e46b7d6d6d36ff45fa05ec314ac25c55f8cae30b7e6f095fa6816"
     },
     {
       "version": "1.19.3-pre1",
@@ -2588,7 +2601,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "deacbff1de24c818e91a25d332bd0beba97469ffa424701c68c1612a0f41f212"
+      "sha256": "686f8a225511fc303cfffded736c7f0304deec2b6b81bd4c7e04bf00804b4fb8"
     },
     {
       "version": "22w46a",
@@ -2601,7 +2614,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "ed9af20781df21182c3469d54f3e51b8e54f63f32e203c2a6f12d693764c86ce"
+      "sha256": "0db4caf7664bba8685e4b6f2e665f9df6bc20acf1918540e92a2c4849571b91f"
     },
     {
       "version": "22w45a",
@@ -2614,7 +2627,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "777ace272c17b1f7123edf78fa045bd827a39a3066a843e5514ec47df18a5f4b"
+      "sha256": "b57ba8c58b6c3b7d3059aca13f18c44f21b02e0a9759b56d41aa55b5315b481c"
     },
     {
       "version": "22w44a",
@@ -2627,7 +2640,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "2f6a90e93678bea8b5da0f123b1bca9d71df083b2975c3ea721c21868413eadf"
+      "sha256": "4a4257e79145b4bed8dbb8e2c912c09aaf0aa988f663106a9c3720ea5c4efbe2"
     },
     {
       "version": "22w43a",
@@ -2640,7 +2653,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "19bd7c427a17b327b5a1dc59f713b7a46e7c57855a11462f9f3d76e721e40088"
+      "sha256": "d7c4883080d761b9bead9c3ad46d6888222b93f06e38d0eed46fb41bddf46b36"
     },
     {
       "version": "22w42a",
@@ -2653,7 +2666,7 @@
         }
       ],
       "recommended": false,
-      "sha256": "f6a00862abf2016b14982754dc8bdbf5e1cbc05018213fa42f3776b7caaab5d8"
+      "sha256": "e5cc0338e477b114d4c4e130b4caee9a9ff665645e0c536af2619706c9ed30a9"
     },
     {
       "version": "1.19.2",
