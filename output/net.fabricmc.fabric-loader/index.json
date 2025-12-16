@@ -4,6 +4,18 @@
   "formatVersion": 1,
   "versions": [
     {
+      "version": "0.18.3",
+      "type": "release",
+      "releaseTime": "2025-12-16T17:05:33.000Z",
+      "requires": [
+        {
+          "uid": "net.fabricmc.intermediary"
+        }
+      ],
+      "recommended": true,
+      "sha256": "0bea14826c65825ea78f60ca0748e8615378730614a5c9376d69507e3921ab14"
+    },
+    {
       "version": "0.18.2",
       "type": "release",
       "releaseTime": "2025-12-09T18:10:23.000Z",
@@ -12,7 +24,7 @@
           "uid": "net.fabricmc.intermediary"
         }
       ],
-      "recommended": true,
+      "recommended": false,
       "sha256": "30576590a977e4975697807f26ca97098d2bb5c59c3a6d87c9e86271bda5700d"
     },
     {
