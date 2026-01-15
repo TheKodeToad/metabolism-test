@@ -3,13 +3,13 @@
         "binaries": [
             {
                 "architecture": "aarch64",
-                "download_count": 110454,
+                "download_count": 110455,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "d424dad2dafcbfeeaeeba257c530ac949d272799a7230db2413850fcc0791694",
                     "checksum_link": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-jre_aarch64_mac_hotspot_20.0.2_9.pkg.sha256.txt",
-                    "download_count": 102216,
+                    "download_count": 102217,
                     "link": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-jre_aarch64_mac_hotspot_20.0.2_9.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-jre_aarch64_mac_hotspot_20.0.2_9.pkg.json",
                     "name": "OpenJDK20U-jre_aarch64_mac_hotspot_20.0.2_9.pkg",
@@ -34,13 +34,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 108690,
+                "download_count": 108691,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "b184ebc476cdbb4cd1d58ac0a4c16ab86244cb3c82993e7df1bc093329861891",
                     "checksum_link": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-jre_x64_mac_hotspot_20.0.2_9.pkg.sha256.txt",
-                    "download_count": 102305,
+                    "download_count": 102306,
                     "link": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-jre_x64_mac_hotspot_20.0.2_9.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-jre_x64_mac_hotspot_20.0.2_9.pkg.json",
                     "name": "OpenJDK20U-jre_x64_mac_hotspot_20.0.2_9.pkg",
@@ -107,13 +107,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 94159,
+                "download_count": 94160,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "0217ba025c5ac579982a80791d4637e2b4b6afb14de522fff2b818d0203d4cea",
                     "checksum_link": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-jre_x64_windows_hotspot_20.0.2_9.msi.sha256.txt",
-                    "download_count": 73318,
+                    "download_count": 73319,
                     "link": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-jre_x64_windows_hotspot_20.0.2_9.msi",
                     "metadata_link": "https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20.0.2%2B9/OpenJDK20U-jre_x64_windows_hotspot_20.0.2_9.msi.json",
                     "name": "OpenJDK20U-jre_x64_windows_hotspot_20.0.2_9.msi",
@@ -158,7 +158,7 @@
                 "updated_at": "2023-07-25T14:09:50Z"
             }
         ],
-        "download_count": 3801776,
+        "download_count": 3801806,
         "id": "RE_kwDOHnXBJc4GvkjJ.xGnElMB2Qi1tOQ==",
         "release_link": "https://github.com/adoptium/temurin20-binaries/releases/tag/jdk-20.0.2%2B9",
         "release_name": "jdk-20.0.2+9",
@@ -344,7 +344,7 @@
                 "updated_at": "2023-04-25T14:27:57Z"
             }
         ],
-        "download_count": 861019,
+        "download_count": 861022,
         "id": "RE_kwDOHnXBJc4F-MZQ.+shR2vcNsCzlHw==",
         "release_link": "https://github.com/adoptium/temurin20-binaries/releases/tag/jdk-20.0.1%2B9",
         "release_name": "jdk-20.0.1+9",

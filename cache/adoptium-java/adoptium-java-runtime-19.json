@@ -55,13 +55,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 147640,
+                "download_count": 147641,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "ad4279e8892286fd6723d4ac9ebb9e19b977ebc06fdc7462ca14aceeaa3c775b",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_mac_hotspot_19.0.2_7.pkg.sha256.txt",
-                    "download_count": 134851,
+                    "download_count": 134852,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_mac_hotspot_19.0.2_7.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_mac_hotspot_19.0.2_7.pkg.json",
                     "name": "OpenJDK19U-jre_x64_mac_hotspot_19.0.2_7.pkg",
@@ -222,13 +222,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 152679,
+                "download_count": 152680,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "f4ecd24f9a5b9277befa82b4d3cd9fd485a604ab1d275ab221942853959e56a1",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.2_7.pkg.sha256.txt",
-                    "download_count": 134772,
+                    "download_count": 134773,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.2_7.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.2_7.pkg.json",
                     "name": "OpenJDK19U-jre_aarch64_mac_hotspot_19.0.2_7.pkg",
@@ -252,7 +252,7 @@
                 "updated_at": "2023-01-26T17:33:46Z"
             }
         ],
-        "download_count": 5865940,
+        "download_count": 5865986,
         "id": "RE_kwDOGhjB-c4FWMqx.F9lEi5tIU4LaBg==",
         "release_link": "https://github.com/adoptium/temurin19-binaries/releases/tag/jdk-19.0.2%2B7",
         "release_name": "jdk-19.0.2+7",

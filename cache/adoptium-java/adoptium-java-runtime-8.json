@@ -67,13 +67,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 660376,
+                "download_count": 660443,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "2099c63f97bab0dea8c70fb2f32a7a8a2ad8e53167f0523f42c8f62d03bcc66a",
                     "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_windows_hotspot_8u472b08.msi.sha256.txt",
-                    "download_count": 623791,
+                    "download_count": 623854,
                     "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_windows_hotspot_8u472b08.msi",
                     "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_windows_hotspot_8u472b08.msi.json",
                     "name": "OpenJDK8U-jre_x64_windows_hotspot_8u472b08.msi",
@@ -85,7 +85,7 @@
                 "package": {
                     "checksum": "598b8eb9bd299e6d569085793a90ff87a84738221d50c994e82aca35c49b117d",
                     "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_windows_hotspot_8u472b08.zip.sha256.txt",
-                    "download_count": 36585,
+                    "download_count": 36589,
                     "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_windows_hotspot_8u472b08.zip",
                     "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_windows_hotspot_8u472b08.zip.json",
                     "name": "OpenJDK8U-jre_x64_windows_hotspot_8u472b08.zip",
@@ -119,13 +119,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 12084,
+                "download_count": 12085,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "84d393984dc03be1cb63f6c667a8a4865210445d585b02510454aca1812dfb8d",
                     "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_mac_hotspot_8u472b08.pkg.sha256.txt",
-                    "download_count": 10907,
+                    "download_count": 10908,
                     "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_mac_hotspot_8u472b08.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x64_mac_hotspot_8u472b08.pkg.json",
                     "name": "OpenJDK8U-jre_x64_mac_hotspot_8u472b08.pkg",
@@ -192,13 +192,13 @@
             },
             {
                 "architecture": "x32",
-                "download_count": 354495,
+                "download_count": 354541,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "a469a375c2a2358dd86bdfbb8237756c3897f6c4259af7418b0bd626a259e360",
                     "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x86-32_windows_hotspot_8u472b08.msi.sha256.txt",
-                    "download_count": 352581,
+                    "download_count": 352627,
                     "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x86-32_windows_hotspot_8u472b08.msi",
                     "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jre_x86-32_windows_hotspot_8u472b08.msi.json",
                     "name": "OpenJDK8U-jre_x86-32_windows_hotspot_8u472b08.msi",
@@ -264,7 +264,7 @@
                 "updated_at": "2025-11-25T11:58:11Z"
             }
         ],
-        "download_count": 3217627,
+        "download_count": 3218057,
         "id": "RE_kwDOFjpgDM4PUurb.7QHgLA2koheRjg==",
         "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u472-b08",
         "release_name": "jdk8u472-b08",
@@ -556,7 +556,7 @@
                 "updated_at": "2025-08-08T16:15:54Z"
             }
         ],
-        "download_count": 4452072,
+        "download_count": 4452078,
         "id": "RE_kwDOFjpgDM4N8kdR.lQkCYSkFgfWxOA==",
         "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u462-b08",
         "release_name": "jdk8u462-b08",
@@ -805,7 +805,7 @@
                 "updated_at": "2025-04-27T16:35:53Z"
             }
         ],
-        "download_count": 4853333,
+        "download_count": 4853335,
         "id": "RE_kwDOFjpgDM4Ms7pZ.uY4FFq4kskNa4Q==",
         "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u452-b09",
         "release_name": "jdk8u452-b09",
@@ -1096,7 +1096,7 @@
                 "updated_at": "2025-01-30T15:15:13Z"
             }
         ],
-        "download_count": 4736356,
+        "download_count": 4736363,
         "id": "RE_kwDOFjpgDM4Ltjae.+pbRmgncqKAXfQ==",
         "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u442-b06",
         "release_name": "jdk8u442-b06",
@@ -1711,7 +1711,7 @@
                 "updated_at": "2024-07-26T09:44:19Z"
             }
         ],
-        "download_count": 4697275,
+        "download_count": 4697283,
         "id": "RE_kwDOFjpgDM4J5uvr.K5Od4h/CZHoFcw==",
         "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u422-b05",
         "release_name": "jdk8u422-b05",
@@ -2002,7 +2002,7 @@
                 "updated_at": "2024-04-24T00:30:31Z"
             }
         ],
-        "download_count": 4741070,
+        "download_count": 4741081,
         "id": "RE_kwDOFjpgDM4JDCWe.X2L5qgn3Mm3dUA==",
         "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u412-b08",
         "release_name": "jdk8u412-b08",
@@ -2293,7 +2293,7 @@
                 "updated_at": "2024-01-24T16:02:56Z"
             }
         ],
-        "download_count": 5624426,
+        "download_count": 5624437,
         "id": "RE_kwDOFjpgDM4INb83.WXM639CH+rN8AA==",
         "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u402-b06",
         "release_name": "jdk8u402-b06",
@@ -2345,7 +2345,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 819114,
+                "download_count": 819115,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
@@ -2363,7 +2363,7 @@
                 "package": {
                     "checksum": "a6b7e671cc12f9fc16db59419bda8be00da037e14aaf5d5afb78042c145b76ed",
                     "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jre_x64_windows_hotspot_8u392b08.zip.sha256.txt",
-                    "download_count": 232675,
+                    "download_count": 232676,
                     "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jre_x64_windows_hotspot_8u392b08.zip",
                     "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jre_x64_windows_hotspot_8u392b08.zip.json",
                     "name": "OpenJDK8U-jre_x64_windows_hotspot_8u392b08.zip",
@@ -2584,7 +2584,7 @@
                 "updated_at": "2023-11-01T15:30:12Z"
             }
         ],
-        "download_count": 4250125,
+        "download_count": 4250131,
         "id": "RE_kwDOFjpgDM4HgFwl.BG2AKzj0QYhCAQ==",
         "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u392-b08",
         "release_name": "jdk8u392-b08",

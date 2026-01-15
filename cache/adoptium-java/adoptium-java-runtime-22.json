@@ -264,7 +264,7 @@
                 "updated_at": "2024-07-23T16:42:59Z"
             }
         ],
-        "download_count": 5346919,
+        "download_count": 5346939,
         "id": "RE_kwDOKGCZys4J45er.H7QdUU9VwHUKvw==",
         "release_link": "https://github.com/adoptium/temurin22-binaries/releases/tag/jdk-22.0.2%2B9",
         "release_name": "jdk-22.0.2+9",
@@ -513,7 +513,7 @@
                 "updated_at": "2024-04-23T09:29:51Z"
             }
         ],
-        "download_count": 3335565,
+        "download_count": 3335581,
         "id": "RE_kwDOKGCZys4JDlGr.dLGgyr6YyMMGPA==",
         "release_link": "https://github.com/adoptium/temurin22-binaries/releases/tag/jdk-22.0.1%2B8",
         "release_name": "jdk-22.0.1+8",
