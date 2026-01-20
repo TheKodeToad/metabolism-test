@@ -3,10 +3,22 @@
   "latest": {
     "april-fools": "25w14craftmine",
     "release": "1.21.11",
-    "snapshot": "26.1-snapshot-3",
+    "snapshot": "26.1-snapshot-4",
     "special": "1.21.11-unobf"
   },
   "versions": [
+    {
+      "id": "26.1-snapshot-4",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/26.1-snapshot-4.json",
+      "time": "2026-01-20T16:03:02+00:00",
+      "releaseTime": "2026-01-20T14:15:37+00:00",
+      "sha1": "c1ed8362f4979b84bf964f71ee0e90bfa0db9667",
+      "complianceLevel": 1,
+      "mojangVersion": "26.1-snapshot-4",
+      "equivalentTo": "26.1-snapshot-4",
+      "phase": "post-1.0"
+    },
     {
       "id": "26.1-snapshot-3",
       "type": "snapshot",
