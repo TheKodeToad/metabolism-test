@@ -9,7 +9,7 @@
     {
       "uid": "net.adoptium.java",
       "name": "Adoptium Provided Java",
-      "sha256": "f4d1f7a6a7bbf869bca7d3118ceb4b66ea9f09e1ffbb199ee6882fdcf4a6eeb8"
+      "sha256": "4e9def1b54ab555840f676ef038667e4783a683b52e4843976a1989d59498d23"
     },
     {
       "uid": "net.fabricmc.fabric-loader",
@@ -34,7 +34,7 @@
     {
       "uid": "net.neoforged",
       "name": "NeoForge",
-      "sha256": "cbb2102d18efdf198edceb221c3dc1a33a760b0189a1b50ca76dfa4903dfdcfd"
+      "sha256": "9541a2bcac59f4d1f13a4ae2d22d64690f84edd91ea3f0393d39ead9b718ce16"
     },
     {
       "uid": "org.lwjgl",
