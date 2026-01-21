@@ -17,9 +17,9 @@
     },
     {
       "version": "java17",
-      "releaseTime": "2023-10-19T17:48:32.000Z",
+      "releaseTime": "2023-10-27T12:22:54.000Z",
       "recommended": false,
-      "sha256": "ac555f4f2b95e8cfcc9eb3db34961096881e6560079b9288a65b7d37f41362bf"
+      "sha256": "87220c0c9fcdb7813ce98ace52a204eae8cf255e1db1f2f20fef780e2c097525"
     },
     {
       "version": "java18",
