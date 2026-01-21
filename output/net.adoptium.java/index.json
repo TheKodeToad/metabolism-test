@@ -34,16 +34,10 @@
       "sha256": "7b7e013a1a2db92c0f4a9558a0b8b17936be8d2c4f4f71c66da0727b167838bb"
     },
     {
-      "version": "java20",
-      "releaseTime": "2023-03-23T10:01:40.000Z",
-      "recommended": false,
-      "sha256": "33a9d7854adabebc5e0b7f73a9be35593c01cb66d788fb2f920383f26d4f5601"
-    },
-    {
       "version": "java21",
       "releaseTime": "2023-10-24T09:03:26.000Z",
       "recommended": false,
-      "sha256": "f8ed3395e9183f25a44829cbb40f26be5c8ef6d79039973f6ab4b34e18c8dd98"
+      "sha256": "a65ed0acdc736bf5af4e42f40c554f1f2f0d523374b23bc0c3475822395effef"
     },
     {
       "version": "java22",
