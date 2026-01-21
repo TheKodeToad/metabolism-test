@@ -18633,6 +18633,19 @@
       "sha256": "36bfc708637dcab327297be2946e43666ff6acb9b568328d84c5e3f6b358f21d"
     },
     {
+      "version": "26.1.0.0-alpha.8+snapshot-4",
+      "type": "release",
+      "releaseTime": "2026-01-21T22:58:09.493Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "26.1-snapshot-4"
+        }
+      ],
+      "recommended": false,
+      "sha256": "eb59ff9a072ca9f16b29eda7dff35f45663eb572c70696105779a70d0abd6f97"
+    },
+    {
       "version": "47.1.5",
       "type": "release",
       "releaseTime": "2023-07-13T01:22:00.000Z",
