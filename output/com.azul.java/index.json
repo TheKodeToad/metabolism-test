@@ -7,7 +7,7 @@
       "version": "java25",
       "releaseTime": "2025-09-05T12:58:16.000Z",
       "recommended": false,
-      "sha256": "65e0597442eab432d966a18853cb6c01f82f3cb049bc423a6b73356c1c41f6a7"
+      "sha256": "0463207f1232181c409b42a44082ba5e3e44a7fa00ae3c5c8bae7df93ba4986f"
     },
     {
       "version": "java24",
@@ -31,7 +31,7 @@
       "version": "java21",
       "releaseTime": "2023-10-11T21:35:23.000Z",
       "recommended": false,
-      "sha256": "25dbdb9b6492b7bdc90c8e7c12a5a506ffadbb80bc89c03a1dde2bc3b1f972fa"
+      "sha256": "f4d89a22fc2dc7b72f332ab0cd6025f72c9a971903473927b951e3f863924815"
     },
     {
       "version": "java20",
@@ -55,7 +55,7 @@
       "version": "java17",
       "releaseTime": "2022-01-08T12:54:50.000Z",
       "recommended": false,
-      "sha256": "84dd586a35cf99bf7cd76859d737f975fc34e35e207517eb45c3de263bfd1dcd"
+      "sha256": "3265e4bf6711777b1c4496a5a6d9c1730c55799951c23ba0175c949f2b8c0376"
     },
     {
       "version": "java16",
@@ -91,7 +91,7 @@
       "version": "java11",
       "releaseTime": "2021-04-04T21:57:26.000Z",
       "recommended": false,
-      "sha256": "1ef2c174fe16400325e99afbfb36ed8c010c69a9ec4723f5685a5404976f2751"
+      "sha256": "68efce05ed3b9a5595621821540512ccd41b0f9812eb213cad80092326ff0ef8"
     },
     {
       "version": "java9",
@@ -103,13 +103,7 @@
       "version": "java8",
       "releaseTime": "2020-11-06T22:38:25.000Z",
       "recommended": false,
-      "sha256": "ca1fc104b6ebddc5cc0d124a64ebc85b4299257dabe58330b6013c9f32e54bd7"
-    },
-    {
-      "version": "java7",
-      "releaseTime": "2014-11-21T11:59:00.000Z",
-      "recommended": false,
-      "sha256": "16e6961ebbfef77485f8b5ca9e30dccaaeac81e81c8c076d2c7ff405729585ce"
+      "sha256": "d7c5ce7738eb39e61e96d465d4f5c5a35307a4b6d3ad5c8664161e1ac2e84de1"
     }
   ]
 }
