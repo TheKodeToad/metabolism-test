@@ -3,7 +3,7 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 576,
+                "download_count": 583,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -11,7 +11,7 @@
                 "package": {
                     "checksum": "991be6ac6725e76109ecbd131d658f992dcbeacba3a8b4b6650302c8012b52fb",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz.sha256.txt",
-                    "download_count": 576,
+                    "download_count": 583,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz",
@@ -44,7 +44,7 @@
                 "updated_at": "2026-01-21T18:40:47Z"
             }
         ],
-        "download_count": 14290,
+        "download_count": 14297,
         "id": "RE_kwDOI-qQc84QmwMQ.gTLOTSgndZDaeA==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.10%2B7",
         "release_name": "jdk-21.0.10+7",
@@ -55,7 +55,7 @@
             "size": 114820169
         },
         "timestamp": "2026-01-21T11:30:56Z",
-        "updated_at": "2026-01-21T18:41:16Z",
+        "updated_at": "2026-01-21T18:41:27Z",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,
