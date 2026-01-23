@@ -25,6 +25,25 @@
       "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_x64_linux_hotspot_17.0.18_8.tar.gz"
     },
     {
+      "name": "eclipse_temurin_jre17.0.18+8",
+      "runtimeOS": "linux-arm32",
+      "version": {
+        "major": 17,
+        "minor": 0,
+        "security": 18,
+        "build": 8
+      },
+      "releaseTime": "2026-01-21T14:08:41.000Z",
+      "vendor": "eclipse",
+      "packageType": "jre",
+      "downloadType": "archive",
+      "checksum": {
+        "type": "sha256",
+        "hash": "437c30e861fb091d4bb2ff66a28b1d09e7ac9167f6163e286cb2968d29864e1b"
+      },
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_arm_linux_hotspot_17.0.18_8.tar.gz"
+    },
+    {
       "name": "eclipse_temurin_jre17.0.17+10",
       "runtimeOS": "linux-x64",
       "version": {
