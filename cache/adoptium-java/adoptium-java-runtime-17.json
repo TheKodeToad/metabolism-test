@@ -1,9 +1,10 @@
 [
     {
+        "aqavit_results_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/AQAvitTapFiles.tar.gz",
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 28051,
+                "download_count": 28318,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -11,7 +12,7 @@
                 "package": {
                     "checksum": "8b418e38cca87945858ae911988401720095eb671357d47437b4adb49c28dcab",
                     "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_x64_linux_hotspot_17.0.18_8.tar.gz.sha256.txt",
-                    "download_count": 28051,
+                    "download_count": 28318,
                     "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_x64_linux_hotspot_17.0.18_8.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jre_x64_linux_hotspot_17.0.18_8.tar.gz.json",
                     "name": "OpenJDK17U-jre_x64_linux_hotspot_17.0.18_8.tar.gz",
@@ -128,7 +129,7 @@
                 "updated_at": "2026-01-23T16:23:26Z"
             }
         ],
-        "download_count": 247179,
+        "download_count": 248619,
         "id": "RE_kwDOFjpjCs4Qm8hh.RxmrZ8Kp52upgQ==",
         "release_link": "https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.18%2B8",
         "release_name": "jdk-17.0.18+8",
@@ -144,7 +145,7 @@
             "size": 108989264
         },
         "timestamp": "2026-01-21T14:08:41Z",
-        "updated_at": "2026-01-26T13:00:58Z",
+        "updated_at": "2026-01-27T15:22:49Z",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
