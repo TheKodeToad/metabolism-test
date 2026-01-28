@@ -11,9 +11,9 @@
     },
     {
       "version": "java11",
-      "releaseTime": "2023-10-18T15:19:20.000Z",
+      "releaseTime": "2024-01-18T15:02:29.000Z",
       "recommended": false,
-      "sha256": "e7bc1183153766fddffabb5f3d12ab4daaa6561ce50acab1965294bae6fc0bb3"
+      "sha256": "57138686b9520af39addeb0a1f6c1527dc6d8624908549ab210812c1444d3360"
     },
     {
       "version": "java17",
