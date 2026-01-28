@@ -25,6 +25,25 @@
       "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz"
     },
     {
+      "name": "eclipse_temurin_jre21.0.10+7",
+      "runtimeOS": "linux-arm64",
+      "version": {
+        "major": 21,
+        "minor": 0,
+        "security": 10,
+        "build": 7
+      },
+      "releaseTime": "2026-01-21T11:30:56.000Z",
+      "vendor": "eclipse",
+      "packageType": "jre",
+      "downloadType": "archive",
+      "checksum": {
+        "type": "sha256",
+        "hash": "3ca84da7c4f57eee8d7e7f0645dc904a3a06456d32b37a4dd57a5e7527245250"
+      },
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.10_7.tar.gz"
+    },
+    {
       "name": "eclipse_temurin_jre21.0.9+10",
       "runtimeOS": "mac-os-arm64",
       "version": {
