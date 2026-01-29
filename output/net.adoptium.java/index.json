@@ -5,9 +5,9 @@
   "versions": [
     {
       "version": "java8",
-      "releaseTime": "2023-10-19T18:08:54.000Z",
+      "releaseTime": "2024-01-19T15:54:22.000Z",
       "recommended": false,
-      "sha256": "7a225bfdaf1ba9649ab36d1a25115ec38572160feb6393e33d29e5d7987f91af"
+      "sha256": "50580b525746b8fd6871cde2c4fd5ef4aa7be68192d5f1260da3a413a1615ef2"
     },
     {
       "version": "java11",
