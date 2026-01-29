@@ -25,6 +25,25 @@
       "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.2%2B10/OpenJDK25U-jre_x64_linux_hotspot_25.0.2_10.tar.gz"
     },
     {
+      "name": "eclipse_temurin_jre25.0.2+10",
+      "runtimeOS": "linux-arm64",
+      "version": {
+        "major": 25,
+        "minor": 0,
+        "security": 2,
+        "build": 10
+      },
+      "releaseTime": "2026-01-22T08:56:31.000Z",
+      "vendor": "eclipse",
+      "packageType": "jre",
+      "downloadType": "archive",
+      "checksum": {
+        "type": "sha256",
+        "hash": "e90ad4a618a0228a2126e7c6abfbc0729e2649d7d72cef45fd640239866eb050"
+      },
+      "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.2%2B10/OpenJDK25U-jre_aarch64_linux_hotspot_25.0.2_10.tar.gz"
+    },
+    {
       "name": "eclipse_temurin_jre25.0.1+8",
       "runtimeOS": "linux-x64",
       "version": {
