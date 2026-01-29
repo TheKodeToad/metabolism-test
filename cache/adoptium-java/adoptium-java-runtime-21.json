@@ -4,7 +4,7 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 17468,
+                "download_count": 18083,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -12,7 +12,7 @@
                 "package": {
                     "checksum": "991be6ac6725e76109ecbd131d658f992dcbeacba3a8b4b6650302c8012b52fb",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz.sha256.txt",
-                    "download_count": 17468,
+                    "download_count": 18083,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz",
@@ -25,7 +25,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 245,
+                "download_count": 261,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -33,7 +33,7 @@
                 "package": {
                     "checksum": "4f6200277644afe6ad49218ae1dd45ab3d0d0b2ac4109163604e36156a93a306",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.10_7.tar.gz.sha256.txt",
-                    "download_count": 245,
+                    "download_count": 261,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.10_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.10_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.10_7.tar.gz",
@@ -46,7 +46,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 94,
+                "download_count": 96,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -54,7 +54,7 @@
                 "package": {
                     "checksum": "d1cd7b33dcd81293b0b705f4d0e79adce092786be31736a63abe6a4b31841ae5",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.10_7.tar.gz.sha256.txt",
-                    "download_count": 94,
+                    "download_count": 96,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.10_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.10_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.10_7.tar.gz",
@@ -109,7 +109,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 67,
+                "download_count": 82,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -117,7 +117,7 @@
                 "package": {
                     "checksum": "3ca84da7c4f57eee8d7e7f0645dc904a3a06456d32b37a4dd57a5e7527245250",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.10_7.tar.gz.sha256.txt",
-                    "download_count": 67,
+                    "download_count": 82,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.10_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.10_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.10_7.tar.gz",
@@ -130,7 +130,7 @@
             },
             {
                 "architecture": "ppc64",
-                "download_count": 0,
+                "download_count": 3,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -138,7 +138,7 @@
                 "package": {
                     "checksum": "18215da5821f43e804a8e83fd08b14205c6fbde19af3042de9e75e180fefd019",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.10_7.tar.gz.sha256.txt",
-                    "download_count": 0,
+                    "download_count": 3,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.10_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.10_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.10_7.tar.gz",
@@ -148,9 +148,30 @@
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.10+7_adopt",
                 "updated_at": "2026-01-29T11:27:28Z"
+            },
+            {
+                "architecture": "s390x",
+                "download_count": 0,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "48f8529714c90c6cc61aa729cf8952f2fc47f2f2890551ba7f9e1c061b04be13",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_s390x_linux_hotspot_21.0.10_7.tar.gz.sha256.txt",
+                    "download_count": 0,
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_s390x_linux_hotspot_21.0.10_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_s390x_linux_hotspot_21.0.10_7.tar.gz.json",
+                    "name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.10_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_s390x_linux_hotspot_21.0.10_7.tar.gz.sig",
+                    "size": 48762733
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.10+7_adopt",
+                "updated_at": "2026-01-29T15:16:06Z"
             }
         ],
-        "download_count": 313556,
+        "download_count": 324229,
         "id": "RE_kwDOI-qQc84QmwMQ.gTLOTSgndZDaeA==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.10%2B7",
         "release_name": "jdk-21.0.10+7",
@@ -166,7 +187,7 @@
             "size": 114820169
         },
         "timestamp": "2026-01-21T11:30:56Z",
-        "updated_at": "2026-01-29T11:27:35Z",
+        "updated_at": "2026-01-29T15:16:11Z",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,
@@ -183,13 +204,13 @@
         "binaries": [
             {
                 "architecture": "aarch64",
-                "download_count": 102864,
+                "download_count": 103039,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "0d9d1dcc862279e1a9b422995000b0bc3079ab7523516538e00f6517b5502ea4",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.pkg.sha256.txt",
-                    "download_count": 15324,
+                    "download_count": 15350,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.pkg.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.pkg",
@@ -201,7 +222,7 @@
                 "package": {
                     "checksum": "1f7f6506b598e85d7d8ff8b36563d98657d2d81b16bfca3cd242d7906cfbd11b",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.tar.gz.sha256.txt",
-                    "download_count": 87540,
+                    "download_count": 87689,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.tar.gz",
@@ -214,7 +235,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 178849,
+                "download_count": 178923,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -222,7 +243,7 @@
                 "package": {
                     "checksum": "aeab55d064a1a27a3744b0880b9b414077b4ed2b1790817eea3df60aec946431",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_linux_hotspot_21.0.9_10.tar.gz.sha256.txt",
-                    "download_count": 178849,
+                    "download_count": 178923,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_linux_hotspot_21.0.9_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_linux_hotspot_21.0.9_10.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.9_10.tar.gz",
@@ -256,7 +277,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 5521,
+                "download_count": 5532,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -264,7 +285,7 @@
                 "package": {
                     "checksum": "17aca4ecc1600f70ec88ea0f8bf3a06ba6806bdae8c96d03c07683c800f0d4e8",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.9_10.tar.gz.sha256.txt",
-                    "download_count": 5521,
+                    "download_count": 5532,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.9_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.9_10.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.9_10.tar.gz",
@@ -298,7 +319,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 16702,
+                "download_count": 16750,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -306,7 +327,7 @@
                 "package": {
                     "checksum": "1d041073c65e834bdb4da732485a54ff829859dcd1549e7992f15bd73341be29",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.9_10.tar.gz.sha256.txt",
-                    "download_count": 16702,
+                    "download_count": 16750,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.9_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.9_10.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.9_10.tar.gz",
@@ -319,13 +340,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 1772451,
+                "download_count": 1776190,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "56b167659821fe125ea3b2974b0da1bac725b886b77193629d8ef880d38517e1",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_windows_hotspot_21.0.9_10.msi.sha256.txt",
-                    "download_count": 291699,
+                    "download_count": 292486,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_windows_hotspot_21.0.9_10.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_windows_hotspot_21.0.9_10.msi.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.9_10.msi",
@@ -337,7 +358,7 @@
                 "package": {
                     "checksum": "39c5e23f3ce4d420663afba8ffde28034b72e2b3e240943dc2321bc1f912eef9",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_windows_hotspot_21.0.9_10.zip.sha256.txt",
-                    "download_count": 1480752,
+                    "download_count": 1483704,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_windows_hotspot_21.0.9_10.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_windows_hotspot_21.0.9_10.zip.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.9_10.zip",
@@ -413,13 +434,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 7872,
+                "download_count": 7887,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "c37732a6a53e65c58f579908adf825b8f482b31635936d8582f31320b93cf3d4",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.9_10.msi.sha256.txt",
-                    "download_count": 5361,
+                    "download_count": 5370,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.9_10.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.9_10.msi.json",
                     "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.9_10.msi",
@@ -431,7 +452,7 @@
                 "package": {
                     "checksum": "418099dc1e6dfe9b374fedbb33a10786964a1c465e5b09c385ecb1a4e2fe883c",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.9_10.zip.sha256.txt",
-                    "download_count": 2511,
+                    "download_count": 2517,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.9_10.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.9_10.zip.json",
                     "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.9_10.zip",
@@ -444,13 +465,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 36896,
+                "download_count": 36957,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "b5c5c5f32f856a872723078aa0cdadbbea191a8df7b1034a8d03843dcbfa1a9d",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_mac_hotspot_21.0.9_10.pkg.sha256.txt",
-                    "download_count": 13592,
+                    "download_count": 13620,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_mac_hotspot_21.0.9_10.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_mac_hotspot_21.0.9_10.pkg.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.9_10.pkg",
@@ -462,7 +483,7 @@
                 "package": {
                     "checksum": "945abc49249f1e89a2a6a008d70d63dc42b25bbe5e1711ff97aeec70063008d2",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_mac_hotspot_21.0.9_10.tar.gz.sha256.txt",
-                    "download_count": 23304,
+                    "download_count": 23337,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_mac_hotspot_21.0.9_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_mac_hotspot_21.0.9_10.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.9_10.tar.gz",
@@ -474,7 +495,7 @@
                 "updated_at": "2025-11-03T20:11:53Z"
             }
         ],
-        "download_count": 7646931,
+        "download_count": 7658565,
         "id": "RE_kwDOI-qQc84PTq2J.CSIS1fKdtOrSBQ==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.9%2B10",
         "release_name": "jdk-21.0.9+10",
@@ -507,7 +528,7 @@
         "binaries": [
             {
                 "architecture": "aarch64",
-                "download_count": 8268,
+                "download_count": 8417,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -515,7 +536,7 @@
                 "package": {
                     "checksum": "f495749fce8d8974323f30428c1183168f90592dc90bb94c96edab33ffccc94e",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.8_9.tar.gz.sha256.txt",
-                    "download_count": 8268,
+                    "download_count": 8417,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.8_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.8_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.8_9.tar.gz",
@@ -528,13 +549,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 31335,
+                "download_count": 31349,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "c49855a983e4a422b42234776c8752221cfc0aefeed2ae7422696491d5f9114f",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.pkg.sha256.txt",
-                    "download_count": 19075,
+                    "download_count": 19081,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.pkg.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.pkg",
@@ -546,7 +567,7 @@
                 "package": {
                     "checksum": "34464861ed170ea0e5acdf870011f9e92f836e712b620ba37c4b2d0e5aeb8675",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.tar.gz.sha256.txt",
-                    "download_count": 12260,
+                    "download_count": 12268,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.tar.gz",
@@ -559,7 +580,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 29794,
+                "download_count": 29946,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -567,7 +588,7 @@
                 "package": {
                     "checksum": "f54f6e2a907c4aef95ce6d7388474c6d5d87ae87899dd309561672bcfda9121e",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.8_9.tar.gz.sha256.txt",
-                    "download_count": 29794,
+                    "download_count": 29946,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.8_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.8_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.8_9.tar.gz",
@@ -580,7 +601,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 1957,
+                "download_count": 1963,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -588,7 +609,7 @@
                 "package": {
                     "checksum": "12c351c7a6906ca4ddd3f158cbd9ebf2733bab2dc432dc3f9d5685476b16b7bc",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.8_9.tar.gz.sha256.txt",
-                    "download_count": 1957,
+                    "download_count": 1963,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.8_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.8_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.8_9.tar.gz",
@@ -601,7 +622,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 9527,
+                "download_count": 9685,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -609,7 +630,7 @@
                 "package": {
                     "checksum": "f499e2d5c596fd531c8427b2fb207c9eeabed783adad32aeed64b03dd476a231",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.8_9.tar.gz.sha256.txt",
-                    "download_count": 9527,
+                    "download_count": 9685,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.8_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.8_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.8_9.tar.gz",
@@ -622,13 +643,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 36221,
+                "download_count": 36245,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "e0a2d5106f537f463021341cde2a3bb444cdbcba3ffc4e128d43a18be802deae",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.8_9.pkg.sha256.txt",
-                    "download_count": 17724,
+                    "download_count": 17730,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.8_9.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.8_9.pkg.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.8_9.pkg",
@@ -640,7 +661,7 @@
                 "package": {
                     "checksum": "7849fd9e0d48c6638a1f82a81000ef170e32600fd7a32fc257668e7e7ae041b4",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.8_9.tar.gz.sha256.txt",
-                    "download_count": 18497,
+                    "download_count": 18515,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.8_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.8_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.8_9.tar.gz",
@@ -653,7 +674,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 229674,
+                "download_count": 229946,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -661,7 +682,7 @@
                 "package": {
                     "checksum": "968c283e104059dae86ea1d670672a80170f27a39529d815843ec9c1f0fa2a03",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_linux_hotspot_21.0.8_9.tar.gz.sha256.txt",
-                    "download_count": 229674,
+                    "download_count": 229946,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_linux_hotspot_21.0.8_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_linux_hotspot_21.0.8_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.8_9.tar.gz",
@@ -674,7 +695,7 @@
             },
             {
                 "architecture": "riscv64",
-                "download_count": 1636,
+                "download_count": 1642,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -682,7 +703,7 @@
                 "package": {
                     "checksum": "1c87410971cd7c3cd175bfe81cfecbe83462a64291caf1055cdcc0feb56e907d",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.8_9.tar.gz.sha256.txt",
-                    "download_count": 1636,
+                    "download_count": 1642,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.8_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.8_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.8_9.tar.gz",
@@ -695,7 +716,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 1854,
+                "download_count": 1861,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -703,7 +724,7 @@
                 "package": {
                     "checksum": "7f2f9e48cc0e970b671b4ee8c69bf98002e27e4546e0c33071a2ecac38a8154c",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_s390x_linux_hotspot_21.0.8_9.tar.gz.sha256.txt",
-                    "download_count": 1854,
+                    "download_count": 1861,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_s390x_linux_hotspot_21.0.8_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_s390x_linux_hotspot_21.0.8_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.8_9.tar.gz",
@@ -716,13 +737,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 906778,
+                "download_count": 906919,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "9e38a94eed115fb834c2c4375bc493cef1a47e28c82bd83f623efe3fca017e7a",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.8_9.msi.sha256.txt",
-                    "download_count": 352576,
+                    "download_count": 352657,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.8_9.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.8_9.msi.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.8_9.msi",
@@ -734,7 +755,7 @@
                 "package": {
                     "checksum": "238d74ec4ec9422d416fa98805ba375eecd8bc8f971bd0c61a21051a4fe42db8",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.8_9.zip.sha256.txt",
-                    "download_count": 554202,
+                    "download_count": 554262,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.8_9.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.8_9.zip.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.8_9.zip",
@@ -747,7 +768,7 @@
             },
             {
                 "architecture": "ppc64",
-                "download_count": 1631,
+                "download_count": 1637,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -755,7 +776,7 @@
                 "package": {
                     "checksum": "6058142a11c1dddc326401ef4cfcc5213b59c77a78eaa2736e113695fa680e1c",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.8_9.tar.gz.sha256.txt",
-                    "download_count": 1631,
+                    "download_count": 1637,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.8_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.8_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.8_9.tar.gz",
@@ -768,13 +789,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 25154,
+                "download_count": 25165,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "2b3e8a5edfdf1676f1c3ec2437f5782df9bc165376c7e47229f29c5bc6b1e888",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.8_9.msi.sha256.txt",
-                    "download_count": 15090,
+                    "download_count": 15097,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.8_9.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.8_9.msi.json",
                     "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.8_9.msi",
@@ -786,7 +807,7 @@
                 "package": {
                     "checksum": "559b35e0ccb5b72b42d477aa104eb00256b79e26391348689beb36f65f7da95c",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.8_9.zip.sha256.txt",
-                    "download_count": 10064,
+                    "download_count": 10068,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.8_9.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.8_9.zip.json",
                     "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.8_9.zip",
@@ -798,7 +819,7 @@
                 "updated_at": "2025-07-22T20:34:51Z"
             }
         ],
-        "download_count": 7713724,
+        "download_count": 7721557,
         "id": "RE_kwDOI-qQc84N5Gqk.yYNJgmgzq+4hTQ==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.8%2B9",
         "release_name": "jdk-21.0.8+9",
@@ -830,13 +851,13 @@
         "binaries": [
             {
                 "architecture": "aarch64",
-                "download_count": 37677,
+                "download_count": 37700,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "8019572fbac8e42bf21d83737a8d218cf331a4b367464457b69a822b965b0844",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.pkg.sha256.txt",
-                    "download_count": 19555,
+                    "download_count": 19561,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.pkg.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.pkg",
@@ -848,7 +869,7 @@
                 "package": {
                     "checksum": "61dca7744d0b92d5d270f03e2ff32d64e95f3f7c8d0acbe642d7733ccb8523ac",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
-                    "download_count": 18122,
+                    "download_count": 18139,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz",
@@ -861,13 +882,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 31119,
+                "download_count": 31135,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "5ba74d6105e48ab8121c59b0ede0215626e0c481d5854bcf634149e51a1e5142",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.pkg.sha256.txt",
-                    "download_count": 18714,
+                    "download_count": 18720,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.pkg.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.pkg",
@@ -879,7 +900,7 @@
                 "package": {
                     "checksum": "c43f6adf33cc76f9060cedc879f004958296d8f924c6c9838d2f6eec4478ac0f",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
-                    "download_count": 12405,
+                    "download_count": 12415,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz",
@@ -892,7 +913,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 179141,
+                "download_count": 179224,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -900,7 +921,7 @@
                 "package": {
                     "checksum": "6d48379e00d47e6fdd417e96421e973898ac90765ea8ff2d09ae0af6d5d6a1c6",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
-                    "download_count": 179141,
+                    "download_count": 179224,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_linux_hotspot_21.0.7_6.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_linux_hotspot_21.0.7_6.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.7_6.tar.gz",
@@ -913,7 +934,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 13740,
+                "download_count": 13748,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -921,7 +942,7 @@
                 "package": {
                     "checksum": "ab455a401d25e0cd20e652d2ee72e9f56beba0d9faac5a5c62c9b27a19df804b",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
-                    "download_count": 13740,
+                    "download_count": 13748,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.7_6.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.7_6.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.7_6.tar.gz",
@@ -934,7 +955,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 2710,
+                "download_count": 2717,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -942,7 +963,7 @@
                 "package": {
                     "checksum": "24dddeebdf350d6e0bd6e68176c8eee0a4ff9a5c84efd0fd456848d7ad4c1791",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_s390x_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
-                    "download_count": 2710,
+                    "download_count": 2717,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_s390x_linux_hotspot_21.0.7_6.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_s390x_linux_hotspot_21.0.7_6.tar.gz.json",
                     "name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.7_6.tar.gz",
@@ -955,7 +976,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 7479,
+                "download_count": 7489,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -963,7 +984,7 @@
                 "package": {
                     "checksum": "f252e13683b381f9f3bfa4948c827ebd80b8e5bd444a1f99de02c56d76c7ad4c",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
-                    "download_count": 7479,
+                    "download_count": 7489,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
@@ -976,13 +997,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 824149,
+                "download_count": 824267,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "7c75fbd2c99649580b7869b756effa5b6b30e6808fae1ebc7eeb63921aafd096",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.msi.sha256.txt",
-                    "download_count": 327639,
+                    "download_count": 327653,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.msi.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.msi",
@@ -994,7 +1015,7 @@
                 "package": {
                     "checksum": "b2850a96293048ed3020f8bfca2d92a785ae9bf80c7d96bbfe3ec4ccf45aef98",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.zip.sha256.txt",
-                    "download_count": 496510,
+                    "download_count": 496614,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.zip.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.zip",
@@ -1007,7 +1028,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 5305,
+                "download_count": 5312,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1015,7 +1036,7 @@
                 "package": {
                     "checksum": "53877576d3a9dcbf2024789208aa5f045cc65a5645b07d67124b09c2a84f4e1a",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
-                    "download_count": 5305,
+                    "download_count": 5312,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz",
@@ -1028,7 +1049,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 2738,
+                "download_count": 2745,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1036,7 +1057,7 @@
                 "package": {
                     "checksum": "721d3b374cb333269d487e7f99e2d247576c989d2e08a2842738ef62f432bcbd",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
-                    "download_count": 2738,
+                    "download_count": 2745,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.7_6.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.7_6.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.7_6.tar.gz",
@@ -1049,7 +1070,7 @@
             },
             {
                 "architecture": "ppc64",
-                "download_count": 5628,
+                "download_count": 5634,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1057,7 +1078,7 @@
                 "package": {
                     "checksum": "e0c111c6d770b51657baf5012a6558fb8fd222d23b1aa4c87965286008bca72e",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.7_6.tar.gz.sha256.txt",
-                    "download_count": 5628,
+                    "download_count": 5634,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.7_6.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.7_6.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.7_6.tar.gz",
@@ -1070,7 +1091,7 @@
             },
             {
                 "architecture": "riscv64",
-                "download_count": 2520,
+                "download_count": 2527,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1078,7 +1099,7 @@
                 "package": {
                     "checksum": "8fd14594d0ad8576ba9b698fd10df4a297c548cfdc81cfbe52ac660aeaf5e2b2",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
-                    "download_count": 2520,
+                    "download_count": 2527,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.7_6.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.7_6.tar.gz.json",
                     "name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.7_6.tar.gz",
@@ -1091,13 +1112,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 24490,
+                "download_count": 24501,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "1e0cb28bc80fe9bac6680f1c4ef44943e55d72a9ec25b3b9719c1c3955349495",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi.sha256.txt",
-                    "download_count": 16126,
+                    "download_count": 16133,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi.json",
                     "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi",
@@ -1109,7 +1130,7 @@
                 "package": {
                     "checksum": "0e2d89e3d66739ffff74f7ed9582ebe3f7748898a0eaec96164e4ec5e8236b28",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip.sha256.txt",
-                    "download_count": 8364,
+                    "download_count": 8368,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip.json",
                     "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip",
@@ -1121,7 +1142,7 @@
                 "updated_at": "2025-04-25T13:53:51Z"
             }
         ],
-        "download_count": 8674489,
+        "download_count": 8682720,
         "id": "RE_kwDOI-qQc84Mr3wU.huK+NdStksAwPA==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.7%2B6",
         "release_name": "jdk-21.0.7+6",
@@ -1153,13 +1174,13 @@
         "binaries": [
             {
                 "architecture": "aarch64",
-                "download_count": 33878,
+                "download_count": 33903,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "889b86ae2c55d690fbc865e30ed02c3faf737462eb4a460ce39eabc94b9d76fc",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.6_7.pkg.sha256.txt",
-                    "download_count": 21087,
+                    "download_count": 21093,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.6_7.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.6_7.pkg.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.6_7.pkg",
@@ -1171,7 +1192,7 @@
                 "package": {
                     "checksum": "9b792bbd408676483caaeb619439190abf1552fe11ab05b19c80d408e5f49c25",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.6_7.tar.gz.sha256.txt",
-                    "download_count": 12791,
+                    "download_count": 12810,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.6_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.6_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.6_7.tar.gz",
@@ -1184,13 +1205,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 3484900,
+                "download_count": 3485432,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "3f511d4edbb81fdb7d044cabede018b0823b2f277103f5f47e8c72b526e9c256",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.6_7.msi.sha256.txt",
-                    "download_count": 392642,
+                    "download_count": 392707,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.6_7.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.6_7.msi.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.6_7.msi",
@@ -1202,7 +1223,7 @@
                 "package": {
                     "checksum": "707c981a4ff9e680a9ea5d6f625eafe8bc47e1f89140a67d761fde24fc02ab49",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.6_7.zip.sha256.txt",
-                    "download_count": 3092258,
+                    "download_count": 3092725,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.6_7.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.6_7.zip.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.6_7.zip",
@@ -1215,7 +1236,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 209048,
+                "download_count": 209274,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1223,7 +1244,7 @@
                 "package": {
                     "checksum": "7fc9d6837da5fa1f12e0f41901fd70a73154914b8c8ecbbcad2d44176a989937",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.6_7.tar.gz.sha256.txt",
-                    "download_count": 209048,
+                    "download_count": 209274,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.6_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.6_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.6_7.tar.gz",
@@ -1236,13 +1257,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 34570,
+                "download_count": 34586,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "4d7129dfda33e6ad7f2357c0903debc4415cfd93bd53185b8d850b669f84c0c9",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.6_7.pkg.sha256.txt",
-                    "download_count": 19801,
+                    "download_count": 19807,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.6_7.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.6_7.pkg.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.6_7.pkg",
@@ -1254,7 +1275,7 @@
                 "package": {
                     "checksum": "632f7cba1aa752ae4108eccf3abc8b7e51b75d262e11e0cb9077b847438e5549",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.6_7.tar.gz.sha256.txt",
-                    "download_count": 14769,
+                    "download_count": 14779,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.6_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.6_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.6_7.tar.gz",
@@ -1267,7 +1288,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 13864,
+                "download_count": 13871,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1275,7 +1296,7 @@
                 "package": {
                     "checksum": "f1b78f2bd6d505d5e0539261737740ad11ade3233376b4ca52e6c72fbefd2bf6",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.6_7.tar.gz.sha256.txt",
-                    "download_count": 13864,
+                    "download_count": 13871,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.6_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.6_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.6_7.tar.gz",
@@ -1288,7 +1309,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 3541,
+                "download_count": 3547,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1296,7 +1317,7 @@
                 "package": {
                     "checksum": "381e31581af3858d4c471829c3da3263e83dfe8ac5d36b58403babb57f6e202c",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.6_7.tar.gz.sha256.txt",
-                    "download_count": 3541,
+                    "download_count": 3547,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.6_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.6_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.6_7.tar.gz",
@@ -1309,7 +1330,7 @@
             },
             {
                 "architecture": "ppc64",
-                "download_count": 9520,
+                "download_count": 9526,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1317,7 +1338,7 @@
                 "package": {
                     "checksum": "886632e830a080c60b50cfa3f4821c8daa258190c877a4a3e2d38322ed7f4456",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.6_7.tar.gz.sha256.txt",
-                    "download_count": 9520,
+                    "download_count": 9526,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.6_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.6_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.6_7.tar.gz",
@@ -1330,7 +1351,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 3449,
+                "download_count": 3455,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1338,7 +1359,7 @@
                 "package": {
                     "checksum": "7165f6df22dcd8d5bb351560fb0eb0a507d2fc12897b3c8163a36f4eb34e47ce",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_s390x_linux_hotspot_21.0.6_7.tar.gz.sha256.txt",
-                    "download_count": 3449,
+                    "download_count": 3455,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_s390x_linux_hotspot_21.0.6_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_s390x_linux_hotspot_21.0.6_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.6_7.tar.gz",
@@ -1351,7 +1372,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 9041,
+                "download_count": 9051,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1359,7 +1380,7 @@
                 "package": {
                     "checksum": "2330f38feb59ab7af0e2fffc12d5500005d35f7f53f49dd8a9f9aa1ae68aee5f",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.6_7.tar.gz.sha256.txt",
-                    "download_count": 9041,
+                    "download_count": 9051,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.6_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.6_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.6_7.tar.gz",
@@ -1372,7 +1393,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 6460,
+                "download_count": 6466,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1380,7 +1401,7 @@
                 "package": {
                     "checksum": "bcd459e70cdddaa6ada0d855ce944c592814042f1e12d53aa08fa89eedcdf893",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.6_7.tar.gz.sha256.txt",
-                    "download_count": 6460,
+                    "download_count": 6466,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.6_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.6_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.6_7.tar.gz",
@@ -1393,7 +1414,7 @@
             },
             {
                 "architecture": "riscv64",
-                "download_count": 3253,
+                "download_count": 3259,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1401,7 +1422,7 @@
                 "package": {
                     "checksum": "a8d219a4a97f9c53ba88cb8927910005d4f3d08a87ab1bdebff921ef41afa93d",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.6_7.tar.gz.sha256.txt",
-                    "download_count": 3253,
+                    "download_count": 3259,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.6_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.6_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.6_7.tar.gz",
@@ -1414,13 +1435,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 25023,
+                "download_count": 25034,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "919be827bbbece030c0aa3f6c99e72efb62e597e443b7950bf060225c1595869",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.6_7.msi.sha256.txt",
-                    "download_count": 18781,
+                    "download_count": 18788,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.6_7.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.6_7.msi.json",
                     "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.6_7.msi",
@@ -1432,7 +1453,7 @@
                 "package": {
                     "checksum": "031153a95c4946bfa6874b39cb6d85d57d71eb5502af649466f899a6575868a6",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.6_7.zip.sha256.txt",
-                    "download_count": 6242,
+                    "download_count": 6246,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.6_7.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.6_7.zip.json",
                     "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.6_7.zip",
@@ -1444,7 +1465,7 @@
                 "updated_at": "2025-01-28T14:29:35Z"
             }
         ],
-        "download_count": 10384000,
+        "download_count": 10390877,
         "id": "RE_kwDOI-qQc84LsPZ-.yzZc7C32yBYddw==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.6%2B7",
         "release_name": "jdk-21.0.6+7",
@@ -1477,7 +1498,7 @@
         "binaries": [
             {
                 "architecture": "aarch64",
-                "download_count": 15733,
+                "download_count": 15748,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1485,7 +1506,7 @@
                 "package": {
                     "checksum": "e4d02c33aeaf8e1148c1c505e129a709c5bc1889e855d4fb4f001b1780db42b4",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.5_11.tar.gz.sha256.txt",
-                    "download_count": 15733,
+                    "download_count": 15748,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.5_11.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.5_11.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.5_11.tar.gz",
@@ -1498,13 +1519,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 35443,
+                "download_count": 35457,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "8042255d7bd0ca0a3aac7d6945c6a27e14fac2c0206e3c01e7474e4ba86f3460",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_mac_hotspot_21.0.5_11.pkg.sha256.txt",
-                    "download_count": 25284,
+                    "download_count": 25290,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_mac_hotspot_21.0.5_11.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_mac_hotspot_21.0.5_11.pkg.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.5_11.pkg",
@@ -1516,7 +1537,7 @@
                 "package": {
                     "checksum": "0e0dcb571f7bf7786c111fe066932066d9eab080c9f86d8178da3e564324ee81",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_mac_hotspot_21.0.5_11.tar.gz.sha256.txt",
-                    "download_count": 10159,
+                    "download_count": 10167,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_mac_hotspot_21.0.5_11.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_mac_hotspot_21.0.5_11.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.5_11.tar.gz",
@@ -1529,7 +1550,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 157856,
+                "download_count": 157982,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1537,7 +1558,7 @@
                 "package": {
                     "checksum": "553dda64b3b1c3c16f8afe402377ffebe64fb4a1721a46ed426a91fd18185e62",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_linux_hotspot_21.0.5_11.tar.gz.sha256.txt",
-                    "download_count": 157856,
+                    "download_count": 157982,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_linux_hotspot_21.0.5_11.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_linux_hotspot_21.0.5_11.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.5_11.tar.gz",
@@ -1550,7 +1571,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 6320,
+                "download_count": 6326,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1558,7 +1579,7 @@
                 "package": {
                     "checksum": "12b988a3d934e3eb89c6a981a93f8e2adf0a62cc9030487dee76c0c29b93714d",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.5_11.tar.gz.sha256.txt",
-                    "download_count": 6320,
+                    "download_count": 6326,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.5_11.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.5_11.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.5_11.tar.gz",
@@ -1571,7 +1592,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 19397,
+                "download_count": 19445,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1579,7 +1600,7 @@
                 "package": {
                     "checksum": "2dfa33fb8e9474e6967c6cf17964abb5ddce9c17fa6a9f8d7aa221a0ae295df9",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.5_11.tar.gz.sha256.txt",
-                    "download_count": 19397,
+                    "download_count": 19445,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.5_11.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.5_11.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.5_11.tar.gz",
@@ -1592,7 +1613,7 @@
             },
             {
                 "architecture": "riscv64",
-                "download_count": 5409,
+                "download_count": 5422,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1600,7 +1621,7 @@
                 "package": {
                     "checksum": "c6fe71bb6ce61366242073e3904c4f51613252a885d54be81c65d3fadd2c5b7c",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.5_11.tar.gz.sha256.txt",
-                    "download_count": 5409,
+                    "download_count": 5422,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.5_11.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.5_11.tar.gz.json",
                     "name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.5_11.tar.gz",
@@ -1613,13 +1634,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 34073,
+                "download_count": 34090,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "b87ac26267f5c5a475bcb2e3f9226fa21e78602191c6ee5d1ddc1c4b17bbb4b1",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.5_11.pkg.sha256.txt",
-                    "download_count": 25131,
+                    "download_count": 25137,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.5_11.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.5_11.pkg.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.5_11.pkg",
@@ -1631,7 +1652,7 @@
                 "package": {
                     "checksum": "12249a1c5386957c93fc372260c483ae921b1ec6248a5136725eabd0abc07f93",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.5_11.tar.gz.sha256.txt",
-                    "download_count": 8942,
+                    "download_count": 8953,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.5_11.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.5_11.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.5_11.tar.gz",
@@ -1644,13 +1665,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 820142,
+                "download_count": 820229,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "baa356843cbe2cbc8e49bad1cfef27eaaf5e59748a1627be40492804753c706a",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_windows_hotspot_21.0.5_11.msi.sha256.txt",
-                    "download_count": 397820,
+                    "download_count": 397844,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_windows_hotspot_21.0.5_11.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_windows_hotspot_21.0.5_11.msi.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.5_11.msi",
@@ -1662,7 +1683,7 @@
                 "package": {
                     "checksum": "1749b36cfac273cee11802bf3e90caada5062de6a3fef1a3814c0568b25fd654",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_windows_hotspot_21.0.5_11.zip.sha256.txt",
-                    "download_count": 422322,
+                    "download_count": 422385,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_windows_hotspot_21.0.5_11.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_windows_hotspot_21.0.5_11.zip.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.5_11.zip",
@@ -1675,7 +1696,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 5871,
+                "download_count": 5884,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1683,7 +1704,7 @@
                 "package": {
                     "checksum": "ae9ad61578da420fa7aeb01d3f6909da8a74d54a31bb8ba090a263cfadf221cc",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.5_11.tar.gz.sha256.txt",
-                    "download_count": 5871,
+                    "download_count": 5884,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.5_11.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.5_11.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.5_11.tar.gz",
@@ -1696,7 +1717,7 @@
             },
             {
                 "architecture": "ppc64",
-                "download_count": 11930,
+                "download_count": 11936,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1704,7 +1725,7 @@
                 "package": {
                     "checksum": "d6a3655e8d7572dd75cbd92a6b3526b7d21ef1fbc12aa11b2595f02375e7b38b",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.5_11.tar.gz.sha256.txt",
-                    "download_count": 11930,
+                    "download_count": 11936,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.5_11.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.5_11.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.5_11.tar.gz",
@@ -1717,7 +1738,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 5816,
+                "download_count": 5829,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1725,7 +1746,7 @@
                 "package": {
                     "checksum": "19f457a67c281dac23a1b39794912db6353ee4ba45f9299e58b0251a4faf3141",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_s390x_linux_hotspot_21.0.5_11.tar.gz.sha256.txt",
-                    "download_count": 5816,
+                    "download_count": 5829,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_s390x_linux_hotspot_21.0.5_11.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_s390x_linux_hotspot_21.0.5_11.tar.gz.json",
                     "name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.5_11.tar.gz",
@@ -1738,13 +1759,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 28169,
+                "download_count": 28180,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "8cf6f2f5f2a9f1db9a76c1505200333016a0d0d9a8f30dcee4c76120f823e8d6",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.5_11.msi.sha256.txt",
-                    "download_count": 21269,
+                    "download_count": 21276,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.5_11.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.5_11.msi.json",
                     "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.5_11.msi",
@@ -1756,7 +1777,7 @@
                 "package": {
                     "checksum": "2f689ae673479c87f07daf6b7729de022a5fc415d3304ed4d25031eac0b9ce42",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.5_11.zip.sha256.txt",
-                    "download_count": 6900,
+                    "download_count": 6904,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.5_11.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.5_11.zip.json",
                     "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.5_11.zip",
@@ -1768,7 +1789,7 @@
                 "updated_at": "2024-10-23T14:54:59Z"
             }
         ],
-        "download_count": 8873868,
+        "download_count": 8884825,
         "id": "RE_kwDOI-qQc84KvtIq.TIHoH+KLk6SDfw==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.5%2B11",
         "release_name": "jdk-21.0.5+11",
@@ -1801,7 +1822,7 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 398202,
+                "download_count": 398788,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1809,7 +1830,7 @@
                 "package": {
                     "checksum": "d3affbb011ca6c722948f6345d15eba09bded33f9947d4d67e09723e2518c12a",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.4_7.tar.gz.sha256.txt",
-                    "download_count": 398202,
+                    "download_count": 398788,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.4_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.4_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.4_7.tar.gz",
@@ -1822,7 +1843,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 18034,
+                "download_count": 18062,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1830,7 +1851,7 @@
                 "package": {
                     "checksum": "58845ce4275f3ec74fba075597c8216bb201773da036c4703be8b7b7b457355d",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.4_7.tar.gz.sha256.txt",
-                    "download_count": 18034,
+                    "download_count": 18062,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.4_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.4_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.4_7.tar.gz",
@@ -1843,7 +1864,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 6381,
+                "download_count": 6387,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1851,7 +1872,7 @@
                 "package": {
                     "checksum": "f9410264235861deaf30f97bec80870cf3bc38b1d8e57d897d8bb1f706ae6705",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.4_7.tar.gz.sha256.txt",
-                    "download_count": 6381,
+                    "download_count": 6387,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.4_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.4_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.4_7.tar.gz",
@@ -1864,7 +1885,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 9284,
+                "download_count": 9295,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1872,7 +1893,7 @@
                 "package": {
                     "checksum": "0dfd0ebab44d777f65bceaff7f79e8e0b9deb74a5eb166922483f1864bcf2052",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.4_7.tar.gz.sha256.txt",
-                    "download_count": 9284,
+                    "download_count": 9295,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.4_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.4_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.4_7.tar.gz",
@@ -1885,13 +1906,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 970292,
+                "download_count": 972258,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "f791336654046441cc82b86bb49fb6823863a181f243f163bb82571ce8c0900f",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.4_7.pkg.sha256.txt",
-                    "download_count": 24763,
+                    "download_count": 24769,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.4_7.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.4_7.pkg.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.4_7.pkg",
@@ -1903,7 +1924,7 @@
                 "package": {
                     "checksum": "f67f17413d012672da11163dd73600e0d92eef6f6ff27c6ae25523bd9df74222",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.4_7.tar.gz.sha256.txt",
-                    "download_count": 945529,
+                    "download_count": 947489,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.4_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_mac_hotspot_21.0.4_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.4_7.tar.gz",
@@ -1916,7 +1937,7 @@
             },
             {
                 "architecture": "riscv64",
-                "download_count": 7009,
+                "download_count": 7019,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -1924,7 +1945,7 @@
                 "package": {
                     "checksum": "bf814344429f53d11f8aace14d326e2580ea6e66dd81b109c79160bd41735237",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.4_7.tar.gz.sha256.txt",
-                    "download_count": 7009,
+                    "download_count": 7019,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.4_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.4_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.4_7.tar.gz",
@@ -1937,13 +1958,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 12088551,
+                "download_count": 12110080,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "cf5b9440680994f1571eb1b83fe017eafbec9e6e8a9cd033b3c099e967c1a553",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.4_7.msi.sha256.txt",
-                    "download_count": 398284,
+                    "download_count": 398298,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.4_7.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.4_7.msi.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.4_7.msi",
@@ -1955,7 +1976,7 @@
                 "package": {
                     "checksum": "b58f6117d26a138da4cb962b974efc4be4b88b65093366146965d16ad3c45e75",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.4_7.zip.sha256.txt",
-                    "download_count": 11690267,
+                    "download_count": 11711782,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.4_7.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_windows_hotspot_21.0.4_7.zip.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.4_7.zip",
@@ -1968,13 +1989,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 35883,
+                "download_count": 35899,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "390c8dcf44fa014fac043e9dec7df550476636fee0f4c3719cf6a18d9eed1517",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.4_7.pkg.sha256.txt",
-                    "download_count": 24898,
+                    "download_count": 24904,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.4_7.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.4_7.pkg.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.4_7.pkg",
@@ -1986,7 +2007,7 @@
                 "package": {
                     "checksum": "14b39c00ec0ec6e0c465f784261449d0a1c4256b3b15c63c222397ccb31758aa",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.4_7.tar.gz.sha256.txt",
-                    "download_count": 10985,
+                    "download_count": 10995,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.4_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.4_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.4_7.tar.gz",
@@ -1999,7 +2020,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 6196,
+                "download_count": 6206,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2007,7 +2028,7 @@
                 "package": {
                     "checksum": "46cf93653e2b553fb1c91760cfe2ff20999ba358d648d2df69e5948784768440",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.4_7.tar.gz.sha256.txt",
-                    "download_count": 6196,
+                    "download_count": 6206,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.4_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.4_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.4_7.tar.gz",
@@ -2020,7 +2041,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 6283,
+                "download_count": 6293,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2028,7 +2049,7 @@
                 "package": {
                     "checksum": "7fb5b09987cb41de5118fecb5a81771b3a38a245cff411b39af33dbfbca3e760",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_s390x_linux_hotspot_21.0.4_7.tar.gz.sha256.txt",
-                    "download_count": 6283,
+                    "download_count": 6293,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_s390x_linux_hotspot_21.0.4_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_s390x_linux_hotspot_21.0.4_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.4_7.tar.gz",
@@ -2041,7 +2062,7 @@
             },
             {
                 "architecture": "ppc64",
-                "download_count": 11436,
+                "download_count": 11442,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2049,7 +2070,7 @@
                 "package": {
                     "checksum": "62946bb90e6070e329ebd1983f65fee9ec184968a904534a68e9e484b8a3c3b5",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.4_7.tar.gz.sha256.txt",
-                    "download_count": 11436,
+                    "download_count": 11442,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.4_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.4_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.4_7.tar.gz",
@@ -2061,7 +2082,7 @@
                 "updated_at": "2024-07-24T11:12:28Z"
             }
         ],
-        "download_count": 22007070,
+        "download_count": 22040682,
         "id": "RE_kwDOI-qQc84J4xmL.E60VKAhYKTNV9A==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.4%2B7",
         "release_name": "jdk-21.0.4+7",
@@ -2093,13 +2114,13 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 757792,
+                "download_count": 757950,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "790bd6bd823618ce33e366294159282b92d3fcd41886e375fd4b876843e0d90f",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.3_9.msi.sha256.txt",
-                    "download_count": 378929,
+                    "download_count": 378954,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.3_9.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.3_9.msi.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.3_9.msi",
@@ -2111,7 +2132,7 @@
                 "package": {
                     "checksum": "f79eaa741cb9ec4d20c7fd57a0fc52c715da183bc68eb19f4778b816b89ef003",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.3_9.zip.sha256.txt",
-                    "download_count": 378863,
+                    "download_count": 378996,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.3_9.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_windows_hotspot_21.0.3_9.zip.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.3_9.zip",
@@ -2124,7 +2145,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 145563,
+                "download_count": 145765,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2132,7 +2153,7 @@
                 "package": {
                     "checksum": "f1af100c4afca2035f446967323230150cfe5872b5a664d98c86963e5c066e0d",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_linux_hotspot_21.0.3_9.tar.gz.sha256.txt",
-                    "download_count": 145563,
+                    "download_count": 145765,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_linux_hotspot_21.0.3_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_linux_hotspot_21.0.3_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.3_9.tar.gz",
@@ -2145,7 +2166,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 14829,
+                "download_count": 14838,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2153,7 +2174,7 @@
                 "package": {
                     "checksum": "c7c31bc6f5ab4c4b6f4559e11c2fa9541ae6757ab8da6dd85c29163913bd9238",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.3_9.tar.gz.sha256.txt",
-                    "download_count": 14829,
+                    "download_count": 14838,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.3_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.3_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.3_9.tar.gz",
@@ -2166,13 +2187,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 33660,
+                "download_count": 33674,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "e1f932138ad1c023451a4a4709ef4d042f015540c061fb2218ac635ca2eb60a8",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.3_9.pkg.sha256.txt",
-                    "download_count": 24659,
+                    "download_count": 24665,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.3_9.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.3_9.pkg.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.3_9.pkg",
@@ -2184,7 +2205,7 @@
                 "package": {
                     "checksum": "8df56361b834c4681ef304ae9dc8406ce3d79c8572d2d6c2fefcbea55be7d86b",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.3_9.tar.gz.sha256.txt",
-                    "download_count": 9001,
+                    "download_count": 9009,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.3_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.3_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.3_9.tar.gz",
@@ -2197,13 +2218,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 55745,
+                "download_count": 55782,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "232637649ad61e4b274da77603ffa342c3d2e8ac7b6636336e7487f56c2f8511",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.3_9.pkg.sha256.txt",
-                    "download_count": 24446,
+                    "download_count": 24452,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.3_9.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.3_9.pkg.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.3_9.pkg",
@@ -2215,7 +2236,7 @@
                 "package": {
                     "checksum": "d7fc89c196ed03deb8a98f6599e1b2e78859ec8ec752142549cd3710f3e1a025",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.3_9.tar.gz.sha256.txt",
-                    "download_count": 31299,
+                    "download_count": 31330,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.3_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.3_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.3_9.tar.gz",
@@ -2228,7 +2249,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 6712,
+                "download_count": 6718,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2236,7 +2257,7 @@
                 "package": {
                     "checksum": "a60dbad08a1977269dec7782f90225107479bfc8d10d2894f437778ae2e2b737",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_s390x_linux_hotspot_21.0.3_9.tar.gz.sha256.txt",
-                    "download_count": 6712,
+                    "download_count": 6718,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_s390x_linux_hotspot_21.0.3_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_s390x_linux_hotspot_21.0.3_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.3_9.tar.gz",
@@ -2249,7 +2270,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 11283,
+                "download_count": 11289,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2257,7 +2278,7 @@
                 "package": {
                     "checksum": "b3e7170deab11a7089fe8e14f9f398424fd86db085f745dad212f6cfc4121df6",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.3_9.tar.gz.sha256.txt",
-                    "download_count": 11283,
+                    "download_count": 11289,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.3_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.3_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.3_9.tar.gz",
@@ -2270,7 +2291,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 6596,
+                "download_count": 6602,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2278,7 +2299,7 @@
                 "package": {
                     "checksum": "54e8618da373258654fe788d509f087d3612de9e080eb6831601069dbc8a4b2b",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.3_9.tar.gz.sha256.txt",
-                    "download_count": 6596,
+                    "download_count": 6602,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.3_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.3_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.3_9.tar.gz",
@@ -2291,7 +2312,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 6586,
+                "download_count": 6592,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2299,7 +2320,7 @@
                 "package": {
                     "checksum": "aa628c6accc9d075b7b0f2bff6487f8ca0b8f057af31842a85fc8b363e1e10f3",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.3_9.tar.gz.sha256.txt",
-                    "download_count": 6586,
+                    "download_count": 6592,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.3_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.3_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.3_9.tar.gz",
@@ -2312,7 +2333,7 @@
             },
             {
                 "architecture": "riscv64",
-                "download_count": 6244,
+                "download_count": 6250,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2320,7 +2341,7 @@
                 "package": {
                     "checksum": "83cae236bf823b6d6525a255f1e4ebd7bdb2e40e3778d1eb4d34b43478a680f9",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.3_9.tar.gz.sha256.txt",
-                    "download_count": 6244,
+                    "download_count": 6250,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.3_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.3_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.3_9.tar.gz",
@@ -2333,7 +2354,7 @@
             },
             {
                 "architecture": "ppc64",
-                "download_count": 11609,
+                "download_count": 11615,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2341,7 +2362,7 @@
                 "package": {
                     "checksum": "5997318a3def70923a8d39bae1d03551c23f868a26ad8e3f9e447d41831e45d9",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.3_9.tar.gz.sha256.txt",
-                    "download_count": 11609,
+                    "download_count": 11615,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.3_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.3%2B9/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.3_9.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.3_9.tar.gz",
@@ -2353,7 +2374,7 @@
                 "updated_at": "2024-04-23T09:39:48Z"
             }
         ],
-        "download_count": 8126981,
+        "download_count": 8136220,
         "id": "RE_kwDOI-qQc84JDDAC.NfaTTem3TYxcjw==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.3%2B9",
         "release_name": "jdk-21.0.3+9",
@@ -2385,13 +2406,13 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 35686,
+                "download_count": 35696,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "02eacc082480d2dde87420bd16189040ae65677ef344dbcb5be6760bf94c8570",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_mac_hotspot_21.0.2_13.pkg.sha256.txt",
-                    "download_count": 27697,
+                    "download_count": 27703,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_mac_hotspot_21.0.2_13.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_mac_hotspot_21.0.2_13.pkg.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.2_13.pkg",
@@ -2403,7 +2424,7 @@
                 "package": {
                     "checksum": "e7d2eb566cbabae99385684989cf894f9ef86b2462a1911ea48fe50e197ce53a",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_mac_hotspot_21.0.2_13.tar.gz.sha256.txt",
-                    "download_count": 7989,
+                    "download_count": 7993,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_mac_hotspot_21.0.2_13.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_mac_hotspot_21.0.2_13.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.2_13.tar.gz",
@@ -2416,13 +2437,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 33549,
+                "download_count": 33561,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "5ab734be603a80f744340cac096ab064baee5d569917058455ccaa6480895710",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.2_13.pkg.sha256.txt",
-                    "download_count": 25563,
+                    "download_count": 25569,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.2_13.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.2_13.pkg.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.2_13.pkg",
@@ -2434,7 +2455,7 @@
                 "package": {
                     "checksum": "c5704de3e0b6fb977db97b9b50d68dd65630e330375fd721ce9621dc407a4fb2",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.2_13.tar.gz.sha256.txt",
-                    "download_count": 7986,
+                    "download_count": 7992,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.2_13.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.2_13.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.2_13.tar.gz",
@@ -2447,7 +2468,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 127892,
+                "download_count": 127943,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2455,7 +2476,7 @@
                 "package": {
                     "checksum": "51141204fe01a9f9dd74eab621d5eca7511eac67315c9975dbde5f2625bdca55",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_linux_hotspot_21.0.2_13.tar.gz.sha256.txt",
-                    "download_count": 127892,
+                    "download_count": 127943,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_linux_hotspot_21.0.2_13.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_linux_hotspot_21.0.2_13.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.2_13.tar.gz",
@@ -2468,13 +2489,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 405041,
+                "download_count": 405069,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "20a07730d415bda3f90ebdd6270fd11f68ba60c082b23218ef79076f3fc8392c",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_windows_hotspot_21.0.2_13.msi.sha256.txt",
-                    "download_count": 344411,
+                    "download_count": 344423,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_windows_hotspot_21.0.2_13.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_windows_hotspot_21.0.2_13.msi.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.2_13.msi",
@@ -2486,7 +2507,7 @@
                 "package": {
                     "checksum": "a29b88541bc11276de4c4cbdfac60e374ef8a34a415f61cb02a2b6a46f0e1064",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_windows_hotspot_21.0.2_13.zip.sha256.txt",
-                    "download_count": 60630,
+                    "download_count": 60646,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_windows_hotspot_21.0.2_13.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_windows_hotspot_21.0.2_13.zip.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.2_13.zip",
@@ -2499,7 +2520,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 7263,
+                "download_count": 7269,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2507,7 +2528,7 @@
                 "package": {
                     "checksum": "caaf48e50787b80b810dc08ee91bd4ffe0d0696bd14906a92f05bf8c14aabb22",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.2_13.tar.gz.sha256.txt",
-                    "download_count": 7263,
+                    "download_count": 7269,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.2_13.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.2_13.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.2_13.tar.gz",
@@ -2520,7 +2541,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 6864,
+                "download_count": 6870,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2528,7 +2549,7 @@
                 "package": {
                     "checksum": "ff8191fa5b23a175932e7f4fab10a6e8df61fd71b6529c7d21451c81e82f8d55",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_s390x_linux_hotspot_21.0.2_13.tar.gz.sha256.txt",
-                    "download_count": 6864,
+                    "download_count": 6870,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_s390x_linux_hotspot_21.0.2_13.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_s390x_linux_hotspot_21.0.2_13.tar.gz.json",
                     "name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.2_13.tar.gz",
@@ -2541,7 +2562,7 @@
             },
             {
                 "architecture": "ppc64",
-                "download_count": 10297,
+                "download_count": 10303,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2549,7 +2570,7 @@
                 "package": {
                     "checksum": "5858955f17c773a984f46f69077f87964f1e73f871d7e72f25acb494ff3f849a",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.2_13.tar.gz.sha256.txt",
-                    "download_count": 10297,
+                    "download_count": 10303,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.2_13.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.2_13.tar.gz.json",
                     "name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.2_13.tar.gz",
@@ -2562,7 +2583,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 17949,
+                "download_count": 17955,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2570,7 +2591,7 @@
                 "package": {
                     "checksum": "64c78854184c92a4da5cda571c8e357043bfaf03a03434eef58550cc3410d8a4",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.2_13.tar.gz.sha256.txt",
-                    "download_count": 17949,
+                    "download_count": 17955,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.2_13.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.2_13.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.2_13.tar.gz",
@@ -2583,7 +2604,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 10250,
+                "download_count": 10256,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2591,7 +2612,7 @@
                 "package": {
                     "checksum": "e961c43fa418a74d5349d519d4f05b70f2017b13420812946be88349729c8ff3",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.2_13.tar.gz.sha256.txt",
-                    "download_count": 10250,
+                    "download_count": 10256,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.2_13.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.2_13.tar.gz.json",
                     "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.2_13.tar.gz",
@@ -2604,7 +2625,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 13339,
+                "download_count": 13345,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2612,7 +2633,7 @@
                 "package": {
                     "checksum": "7077b9e42b40f1ed8d59a71ae59a57d5d55de2685cc5efd70a0405618da616d7",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.2_13.tar.gz.sha256.txt",
-                    "download_count": 13339,
+                    "download_count": 13345,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.2_13.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.2_13.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.2_13.tar.gz",
@@ -2625,7 +2646,7 @@
             },
             {
                 "architecture": "riscv64",
-                "download_count": 6202,
+                "download_count": 6208,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -2633,7 +2654,7 @@
                 "package": {
                     "checksum": "efdeca282553229aa20d909ab9f5fb14eee52b56067a5598e6c649ef5f99a63d",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.2_13.tar.gz.sha256.txt",
-                    "download_count": 6202,
+                    "download_count": 6208,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.2_13.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.2%2B13/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.2_13.tar.gz.json",
                     "name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.2_13.tar.gz",
@@ -2645,7 +2666,7 @@
                 "updated_at": "2024-03-13T12:52:53Z"
             }
         ],
-        "download_count": 6519584,
+        "download_count": 6523537,
         "id": "RE_kwDOI-qQc84IM10l.GpKksR021FRz2w==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.2%2B13",
         "release_name": "jdk-21.0.2+13",
@@ -2677,13 +2698,13 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 300756,
+                "download_count": 300784,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "9bb4db6e70e105e77a2f395ab925d6413ccd2a97d81fe7eab67cfdc373cfbe9e",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.msi.sha256.txt",
-                    "download_count": 244194,
+                    "download_count": 244203,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.msi",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.msi.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.msi",
@@ -2695,7 +2716,7 @@
                 "package": {
                     "checksum": "38bb68f9db9c85a63496570c53a1bcbac18c808677595d7e939d2f5b38e9a7aa",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.zip.sha256.txt",
-                    "download_count": 56562,
+                    "download_count": 56581,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.zip",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.zip.json",
                     "name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.1_12.zip",
@@ -2707,7 +2728,7 @@
                 "updated_at": "2023-10-27T17:22:28Z"
             }
         ],
-        "download_count": 1310491,
+        "download_count": 1310605,
         "id": "RE_kwDOI-qQc84HiGV0.tpDPkK8/jPEH8w==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.1%2B12",
         "release_name": "jdk-21.0.1+12",
