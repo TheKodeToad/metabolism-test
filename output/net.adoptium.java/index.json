@@ -43,7 +43,7 @@
       "version": "java21",
       "releaseTime": "2023-10-24T09:03:26.000Z",
       "recommended": false,
-      "sha256": "34e58fed98ec3f0348c79d40d3b107f935ff2804fac0cefebbc28e09a4a055d0"
+      "sha256": "6b524e3a1c6ac88a1a77f55fb296cf1bce0f4a4db8709528316991fbf3578bfb"
     },
     {
       "version": "java22",
@@ -67,7 +67,7 @@
       "version": "java25",
       "releaseTime": "2025-09-17T11:42:50.000Z",
       "recommended": false,
-      "sha256": "2709fcc5a5e5531505c4a33a0169438707fad1d4873f6b7b79cf5c9844ec26ef"
+      "sha256": "f354cf0a9daf01da5f0dd169f695de12bc00838a14446390324e9c664a6b1811"
     }
   ]
 }
