@@ -7,7 +7,7 @@
       "version": "java8",
       "releaseTime": "2024-01-19T15:54:22.000Z",
       "recommended": false,
-      "sha256": "50580b525746b8fd6871cde2c4fd5ef4aa7be68192d5f1260da3a413a1615ef2"
+      "sha256": "ed5027fada9fbe065139bf1cc78951bc313137d56aabf8b933c94df82071654e"
     },
     {
       "version": "java11",
@@ -67,7 +67,7 @@
       "version": "java25",
       "releaseTime": "2025-09-17T11:42:50.000Z",
       "recommended": false,
-      "sha256": "89a3eb6d1409971da9f795b261e5e8740898d7800b9318fe149ea47515819ffa"
+      "sha256": "856df2c5b4de453c4863d714b7064979d85f2d58aeb916e4c2858e127c6e9f5e"
     }
   ]
 }

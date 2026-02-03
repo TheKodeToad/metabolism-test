@@ -4,7 +4,7 @@
         "binaries": [
             {
                 "architecture": "ppc64le",
-                "download_count": 36,
+                "download_count": 47,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -12,7 +12,7 @@
                 "package": {
                     "checksum": "b563c5c90dcff0c1cf5a1bdc3110e560c979254a17e696902e922631264cf342",
                     "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_ppc64le_linux_hotspot_8u482b08.tar.gz.sha256.txt",
-                    "download_count": 36,
+                    "download_count": 47,
                     "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_ppc64le_linux_hotspot_8u482b08.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_ppc64le_linux_hotspot_8u482b08.tar.gz.json",
                     "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_8u482b08.tar.gz",
@@ -22,9 +22,72 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u482-b08_adopt",
                 "updated_at": "2026-01-29T23:32:54Z"
+            },
+            {
+                "architecture": "x64",
+                "download_count": 93,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "01672ca52509f4cb1ffa8aed905808fed7b984f3e279cb13d90a6e865ff6199f",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_x64_linux_hotspot_8u482b08.tar.gz.sha256.txt",
+                    "download_count": 93,
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_x64_linux_hotspot_8u482b08.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_x64_linux_hotspot_8u482b08.tar.gz.json",
+                    "name": "OpenJDK8U-jre_x64_linux_hotspot_8u482b08.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_x64_linux_hotspot_8u482b08.tar.gz.sig",
+                    "size": 41850657
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u482-b08_adopt",
+                "updated_at": "2026-02-02T09:24:07Z"
+            },
+            {
+                "architecture": "aarch64",
+                "download_count": 0,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "46496dfa7e58784adf96a3a2bd1ac8be9fda2d8749a9c52bf74fb582aa1449e2",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_aarch64_linux_hotspot_8u482b08.tar.gz.sha256.txt",
+                    "download_count": 0,
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_aarch64_linux_hotspot_8u482b08.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_aarch64_linux_hotspot_8u482b08.tar.gz.json",
+                    "name": "OpenJDK8U-jre_aarch64_linux_hotspot_8u482b08.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_aarch64_linux_hotspot_8u482b08.tar.gz.sig",
+                    "size": 40816694
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u482-b08_adopt",
+                "updated_at": "2026-02-02T16:20:47Z"
+            },
+            {
+                "architecture": "x64",
+                "download_count": 0,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "c1b64ab1d2c96ac0fd89c60377396cc4457f954ee7ce931f3a0e547f701e6595",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_x64_alpine-linux_hotspot_8u482b08.tar.gz.sha256.txt",
+                    "download_count": 0,
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_x64_alpine-linux_hotspot_8u482b08.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_x64_alpine-linux_hotspot_8u482b08.tar.gz.json",
+                    "name": "OpenJDK8U-jre_x64_alpine-linux_hotspot_8u482b08.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_x64_alpine-linux_hotspot_8u482b08.tar.gz.sig",
+                    "size": 41769848
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u482-b08_adopt",
+                "updated_at": "2026-02-02T16:21:26Z"
             }
         ],
-        "download_count": 114,
+        "download_count": 5407,
         "id": "RE_kwDOFjpgDM4Qrz8a.Tc4dgztdV3oapg==",
         "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u482-b08",
         "release_name": "jdk8u482-b08",
@@ -34,8 +97,13 @@
             "size": 14840
         },
         "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jdk-sources_8u482b08.tar.gz",
+            "name": "OpenJDK8U-jdk-sources_8u482b08.tar.gz",
+            "size": 94178432
+        },
         "timestamp": "2026-01-26T13:12:32Z",
-        "updated_at": "2026-01-29T23:33:12Z",
+        "updated_at": "2026-02-02T16:21:48Z",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
