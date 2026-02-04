@@ -42,7 +42,7 @@
     "sha1": "10a2a0e75b03cfb5a7196abbdf43b54f7fa61deb",
     "size": 71214,
     "totalSize": 112865736,
-    "url": "https://launchermeta.mojang.com/v1/packages/10a2a0e75b03cfb5a7196abbdf43b54f7fa61deb/14w31a.json"
+    "url": "https://piston-meta.mojang.com/v1/packages/10a2a0e75b03cfb5a7196abbdf43b54f7fa61deb/14w31a.json"
   },
   "libraries": [
     {
@@ -331,6 +331,11 @@
         "windows": "natives-windows-${arch}",
         "osx": "natives-osx",
         "linux": "natives-linux"
+      },
+      "extract": {
+        "exclude": [
+          "META-INF/"
+        ]
       }
     },
     {
@@ -359,6 +364,11 @@
       ],
       "natives": {
         "windows": "natives-windows-${arch}"
+      },
+      "extract": {
+        "exclude": [
+          "META-INF/"
+        ]
       }
     }
   ]

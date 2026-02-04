@@ -6,12 +6,13 @@
   "releaseTime": "2022-08-23T15:37:38.000Z",
   "runtimes": [
     {
-      "name": "azul_zulu_jre18.0.2",
+      "name": "azul_zulu_jre18.0.2+1",
       "runtimeOS": "windows-x64",
       "version": {
         "major": 18,
         "minor": 0,
-        "security": 2
+        "security": 2,
+        "build": 1
       },
       "releaseTime": "2022-08-23T15:37:38.000Z",
       "vendor": "azul",
@@ -24,12 +25,13 @@
       "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jre18.0.2.1-win_x64.zip"
     },
     {
-      "name": "azul_zulu_jre18.0.2",
+      "name": "azul_zulu_jre18.0.2+1",
       "runtimeOS": "windows-x86",
       "version": {
         "major": 18,
         "minor": 0,
-        "security": 2
+        "security": 2,
+        "build": 1
       },
       "releaseTime": "2022-08-23T15:37:38.000Z",
       "vendor": "azul",
@@ -42,12 +44,13 @@
       "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jre18.0.2.1-win_i686.zip"
     },
     {
-      "name": "azul_zulu_jre18.0.2",
+      "name": "azul_zulu_jre18.0.2+1",
       "runtimeOS": "mac-os-x64",
       "version": {
         "major": 18,
         "minor": 0,
-        "security": 2
+        "security": 2,
+        "build": 1
       },
       "releaseTime": "2022-08-23T15:37:38.000Z",
       "vendor": "azul",
@@ -60,12 +63,13 @@
       "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jre18.0.2.1-macosx_x64.zip"
     },
     {
-      "name": "azul_zulu_jre18.0.2",
+      "name": "azul_zulu_jre18.0.2+1",
       "runtimeOS": "mac-os-arm64",
       "version": {
         "major": 18,
         "minor": 0,
-        "security": 2
+        "security": 2,
+        "build": 1
       },
       "releaseTime": "2022-08-23T15:37:38.000Z",
       "vendor": "azul",
@@ -78,12 +82,13 @@
       "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jre18.0.2.1-macosx_aarch64.zip"
     },
     {
-      "name": "azul_zulu_jre18.0.2",
+      "name": "azul_zulu_jre18.0.2+1",
       "runtimeOS": "linux-x64",
       "version": {
         "major": 18,
         "minor": 0,
-        "security": 2
+        "security": 2,
+        "build": 1
       },
       "releaseTime": "2022-08-23T15:37:38.000Z",
       "vendor": "azul",
@@ -96,12 +101,13 @@
       "url": "https://cdn.azul.com/zulu/bin/zulu18.32.13-ca-jre18.0.2.1-linux_x64.zip"
     },
     {
-      "name": "azul_zulu_jre18.0.2",
+      "name": "azul_zulu_jre18.0.2+1",
       "runtimeOS": "linux-x86",
       "version": {
         "major": 18,
         "minor": 0,
-        "security": 2
+        "security": 2,
+        "build": 1
       },
       "releaseTime": "2022-08-23T15:37:38.000Z",
       "vendor": "azul",

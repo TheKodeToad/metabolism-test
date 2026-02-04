@@ -15,7 +15,8 @@
     "FirstThreadOnMacOS"
   ],
   "compatibleJavaMajors": [
-    16
+    16,
+    17
   ],
   "compatibleJavaName": "java-runtime-alpha",
   "mainClass": "net.minecraft.client.main.Main",
@@ -322,6 +323,11 @@
       "natives": {
         "windows": "natives-windows",
         "linux": "natives-linux"
+      },
+      "extract": {
+        "exclude": [
+          "META-INF/"
+        ]
       }
     },
     {
@@ -350,6 +356,11 @@
       ],
       "natives": {
         "osx": "natives-osx"
+      },
+      "extract": {
+        "exclude": [
+          "META-INF/"
+        ]
       }
     },
     {

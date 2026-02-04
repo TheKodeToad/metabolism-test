@@ -312,6 +312,11 @@
       "natives": {
         "windows": "natives-windows",
         "linux": "natives-linux"
+      },
+      "extract": {
+        "exclude": [
+          "META-INF/"
+        ]
       }
     },
     {
@@ -340,6 +345,11 @@
       ],
       "natives": {
         "osx": "natives-osx"
+      },
+      "extract": {
+        "exclude": [
+          "META-INF/"
+        ]
       }
     },
     {
