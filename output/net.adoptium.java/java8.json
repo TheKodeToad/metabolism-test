@@ -44,6 +44,63 @@
       "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_aarch64_linux_hotspot_8u482b08.tar.gz"
     },
     {
+      "name": "eclipse_temurin_jre8.0.482+8",
+      "runtimeOS": "linux-arm32",
+      "version": {
+        "major": 8,
+        "minor": 0,
+        "security": 482,
+        "build": 8
+      },
+      "releaseTime": "2026-01-26T13:12:32.000Z",
+      "vendor": "eclipse",
+      "packageType": "jre",
+      "downloadType": "archive",
+      "checksum": {
+        "type": "sha256",
+        "hash": "29c93e29421b9f77bc95305834f3239313466fd988111b5cf409fd9a2f727cff"
+      },
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_arm_linux_hotspot_8u482b08.tar.gz"
+    },
+    {
+      "name": "eclipse_temurin_jre8.0.482+8",
+      "runtimeOS": "mac-os-x64",
+      "version": {
+        "major": 8,
+        "minor": 0,
+        "security": 482,
+        "build": 8
+      },
+      "releaseTime": "2026-01-26T13:12:32.000Z",
+      "vendor": "eclipse",
+      "packageType": "jre",
+      "downloadType": "archive",
+      "checksum": {
+        "type": "sha256",
+        "hash": "df3c40357842b742fc5f838302c017835b9baeb48dd6213dde9b3774075dab90"
+      },
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_x64_mac_hotspot_8u482b08.tar.gz"
+    },
+    {
+      "name": "eclipse_temurin_jre8.0.482+8",
+      "runtimeOS": "windows-x64",
+      "version": {
+        "major": 8,
+        "minor": 0,
+        "security": 482,
+        "build": 8
+      },
+      "releaseTime": "2026-01-26T13:12:32.000Z",
+      "vendor": "eclipse",
+      "packageType": "jre",
+      "downloadType": "archive",
+      "checksum": {
+        "type": "sha256",
+        "hash": "61c4fe5c2d3c06cf6fa79de8e62da52444c95be1616b8dc8ad1e6d8db72f37bf"
+      },
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_x64_windows_hotspot_8u482b08.zip"
+    },
+    {
       "name": "eclipse_temurin_jre8.0.472+8",
       "runtimeOS": "linux-x64",
       "version": {
