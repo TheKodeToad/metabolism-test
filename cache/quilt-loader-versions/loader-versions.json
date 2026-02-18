@@ -1,6 +1,18 @@
 [
   {
     "separator": ".",
+    "build": 3,
+    "maven": "org.quiltmc:quilt-loader:0.30.0-beta.3",
+    "version": "0.30.0-beta.3"
+  },
+  {
+    "separator": ".",
+    "build": 2,
+    "maven": "org.quiltmc:quilt-loader:0.30.0-beta.2",
+    "version": "0.30.0-beta.2"
+  },
+  {
+    "separator": ".",
     "build": 0,
     "maven": "org.quiltmc:quilt-loader:0.30.0-beta.0",
     "version": "0.30.0-beta.0"
