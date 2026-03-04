@@ -19,12 +19,12 @@
     {
       "uid": "net.fabricmc.intermediary",
       "name": "Fabric Intermediary",
-      "sha256": "3e10e18647973e8a7372380ad755380fdb6f34262076afc066db7f1263c325f7"
+      "sha256": "416b45ec198d199230a4e79da3cf2a74cd69cd5362c1c7fc53d855c1dfbd7959"
     },
     {
       "uid": "net.minecraft",
       "name": "Minecraft",
-      "sha256": "963f77253e0eb3eca384ee1897576f6daa62bbf442650b74c61ebe97195d125c"
+      "sha256": "437589a05b445588323372e262ccf80e6458101834e1c9e8703f46fb51031c52"
     },
     {
       "uid": "net.minecraft.java",
@@ -34,7 +34,7 @@
     {
       "uid": "net.neoforged",
       "name": "NeoForge",
-      "sha256": "ba6ff70e69e57096b30ef93602e902917f5dd17b1d05527abbb08c8a99a5d63a"
+      "sha256": "2f4f218590599a9035ca4d63fef548b278da9bde6077897ea4115124f543cc42"
     },
     {
       "uid": "org.lwjgl",

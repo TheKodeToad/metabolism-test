@@ -4,6 +4,19 @@
   "formatVersion": 1,
   "versions": [
     {
+      "version": "26.1-snapshot-11",
+      "type": "release",
+      "releaseTime": "2025-10-30T20:49:07.000Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "26.1-snapshot-11"
+        }
+      ],
+      "recommended": true,
+      "sha256": "107aaad9a723a7e159a8acd6003b8141d04583e507788b935d4eaebf5e4ba2d5"
+    },
+    {
       "version": "26.1-snapshot-10",
       "type": "release",
       "releaseTime": "2025-10-30T20:49:07.000Z",
