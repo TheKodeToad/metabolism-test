@@ -3,7 +3,7 @@
   "name": "Azul Provided Java",
   "formatVersion": 1,
   "version": "java8",
-  "releaseTime": "2020-11-06T22:38:25.000Z",
+  "releaseTime": "2021-04-07T00:22:59.000Z",
   "runtimes": [
     {
       "name": "azul_zulu_jre8.0.482",
@@ -148,78 +148,6 @@
         "hash": "bd69dc7a81b89c2e573bcc7bbc0d2a2937bcb51979679c9f0cb42d702491dea7"
       },
       "url": "https://cdn.azul.com/zulu/bin/zulu8.54.0.21-ca-jre8.0.292-win_i686.zip"
-    },
-    {
-      "name": "azul_zulu_jre8.0.292",
-      "runtimeOS": "linux-x86",
-      "version": {
-        "major": 8,
-        "minor": 0,
-        "security": 292
-      },
-      "releaseTime": "2021-04-07T00:22:59.000Z",
-      "vendor": "azul",
-      "packageType": "jre",
-      "downloadType": "archive",
-      "checksum": {
-        "type": "sha256",
-        "hash": "461f44e78f83df2f56fc78d4fee27a0bc02ac5992ed538ee0010266b3c78c057"
-      },
-      "url": "https://cdn.azul.com/zulu/bin/zulu8.54.0.21-ca-jre8.0.292-linux_i686.zip"
-    },
-    {
-      "name": "azul_zulu_jre8.0.275",
-      "runtimeOS": "windows-x64",
-      "version": {
-        "major": 8,
-        "minor": 0,
-        "security": 275
-      },
-      "releaseTime": "2020-11-06T22:38:25.000Z",
-      "vendor": "azul",
-      "packageType": "jre",
-      "downloadType": "archive",
-      "checksum": {
-        "type": "sha256",
-        "hash": "65e08595f0b542712d84873da6f48ac1ec1d13aeadd50e86684fb1d9de691d84"
-      },
-      "url": "https://cdn.azul.com/zulu/bin/zulu8.50.0.51-ca-jre8.0.275-win_x64.zip"
-    },
-    {
-      "name": "azul_zulu_jre8.0.275",
-      "runtimeOS": "mac-os-x64",
-      "version": {
-        "major": 8,
-        "minor": 0,
-        "security": 275
-      },
-      "releaseTime": "2020-11-06T22:38:25.000Z",
-      "vendor": "azul",
-      "packageType": "jre",
-      "downloadType": "archive",
-      "checksum": {
-        "type": "sha256",
-        "hash": "430ec8d654d329f854ee5577ffee52e1dcf58f9cbf3e75e34cc6bf0457538216"
-      },
-      "url": "https://cdn.azul.com/zulu/bin/zulu8.50.0.51-ca-jre8.0.275-macosx_x64.zip"
-    },
-    {
-      "name": "azul_zulu_jre8.0.275",
-      "runtimeOS": "linux-x64",
-      "version": {
-        "major": 8,
-        "minor": 0,
-        "security": 275
-      },
-      "releaseTime": "2020-11-06T22:38:25.000Z",
-      "vendor": "azul",
-      "packageType": "jre",
-      "downloadType": "archive",
-      "checksum": {
-        "type": "sha256",
-        "hash": "5603a48f67c6791d132a825815f49fa432709a1d352f114d025ef25452ffe7fa"
-      },
-      "url": "https://cdn.azul.com/zulu/bin/zulu8.50.0.51-ca-jre8.0.275-linux_x64.zip"
     }
   ]
 }

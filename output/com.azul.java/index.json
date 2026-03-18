@@ -4,6 +4,12 @@
   "formatVersion": 1,
   "versions": [
     {
+      "version": "java26",
+      "releaseTime": "2026-02-20T17:49:34.000Z",
+      "recommended": false,
+      "sha256": "c1583685ab1cd1c20f95352d6ddb281dab433cebfddb4ae3b94ddcb6c9a356d3"
+    },
+    {
       "version": "java25",
       "releaseTime": "2025-09-05T12:58:16.000Z",
       "recommended": false,
@@ -101,9 +107,9 @@
     },
     {
       "version": "java8",
-      "releaseTime": "2020-11-06T22:38:25.000Z",
+      "releaseTime": "2021-04-07T00:22:59.000Z",
       "recommended": false,
-      "sha256": "e8aa12f303b06369535fb13bce72e10ba39e7d720e4f487c0df7e46ac5bb9766"
+      "sha256": "c1106c031293687d21cb499f8f99a0a05fa68a346b2e7e0fd8fa228362f2be41"
     }
   ]
 }
