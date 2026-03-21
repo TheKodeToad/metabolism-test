@@ -3,20 +3,32 @@
   "latest": {
     "april-fools": "25w14craftmine",
     "release": "1.21.11",
-    "snapshot": "26.1-rc-1",
+    "snapshot": "26.1-rc2",
     "special": "1.21.11-unobf"
   },
   "versions": [
     {
-      "id": "26.1-rc-1",
+      "id": "26.1-rc2",
       "type": "snapshot",
-      "url": "https://meta.omniarchive.uk/versions/v1/26.1-rc-1.json",
-      "time": "2026-03-19T16:12:02+00:00",
+      "url": "https://meta.omniarchive.uk/versions/v1/26.1-rc2.json",
+      "time": "2026-03-20T14:00:01+00:00",
+      "releaseTime": "2026-03-20T10:21:13+00:00",
+      "sha1": "fdd4bd937f7fd27859c8cc4ca87c7d4864ec3a78",
+      "complianceLevel": 1,
+      "mojangVersion": "26.1-rc-2",
+      "equivalentTo": "26.1-rc2",
+      "phase": "post-1.0"
+    },
+    {
+      "id": "26.1-rc1",
+      "type": "snapshot",
+      "url": "https://meta.omniarchive.uk/versions/v1/26.1-rc1.json",
+      "time": "2026-03-20T04:50:38+00:00",
       "releaseTime": "2026-03-19T14:48:47+00:00",
-      "sha1": "40f51ba64cb3c645ece8a1795d3e02674432c90b",
+      "sha1": "24970e85964f268a59704421f7e237c1a6247402",
       "complianceLevel": 1,
       "mojangVersion": "26.1-rc-1",
-      "equivalentTo": "26.1-rc-1",
+      "equivalentTo": "26.1-rc1",
       "phase": "post-1.0"
     },
     {
