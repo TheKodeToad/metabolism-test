@@ -2,11 +2,23 @@
   "$schema": "https://meta.omniarchive.uk/schemas/v1/manifest.schema.json",
   "latest": {
     "april-fools": "25w14craftmine",
-    "release": "1.21.11",
+    "release": "26.1",
     "snapshot": "26.1-rc3",
     "special": "1.21.11-unobf"
   },
   "versions": [
+    {
+      "id": "26.1",
+      "type": "release",
+      "url": "https://meta.omniarchive.uk/versions/v1/26.1.json",
+      "time": "2026-03-24T16:03:01+00:00",
+      "releaseTime": "2026-03-24T12:11:04+00:00",
+      "sha1": "72a7e71d04dec153645edf8cdd729bdc753b7f7d",
+      "complianceLevel": 1,
+      "mojangVersion": "26.1",
+      "equivalentTo": "26.1",
+      "phase": "post-1.0"
+    },
     {
       "id": "26.1-rc3",
       "type": "snapshot",
