@@ -11236,6 +11236,19 @@
       "sha256": "876db5b8bfeaf1344e4d80544c1f879b237e79edfd590cfe2521edb70a88c4f3"
     },
     {
+      "version": "21.1.222",
+      "type": "release",
+      "releaseTime": "2026-03-27T19:01:18.760Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "1.21.1"
+        }
+      ],
+      "recommended": false,
+      "sha256": "16cc5484f0ed4d46606f8f4c522c000390a62327882569f2c9bc98b401671e07"
+    },
+    {
       "version": "21.2.0-beta",
       "type": "release",
       "releaseTime": "2024-10-22T16:36:02.191Z",
@@ -18685,6 +18698,19 @@
       "sha256": "a7582a7fe2ff35cc5e504916a031d6277bdce70e8009f4dcf1bf8d3ad37f973f"
     },
     {
+      "version": "21.11.41-beta",
+      "type": "release",
+      "releaseTime": "2026-03-27T18:49:51.868Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "1.21.11"
+        }
+      ],
+      "recommended": false,
+      "sha256": "d20410d8b567cf8cec3d9be6f93bcc0e67de58fdc37d4b0c547934e2fa7cc7a9"
+    },
+    {
       "version": "26.1.0.0-alpha.1+snapshot-1",
       "type": "release",
       "releaseTime": "2025-12-19T23:44:19.420Z",
@@ -18943,6 +18969,32 @@
       ],
       "recommended": false,
       "sha256": "bd52769f292f20167054494d027dc637ed56fe019a22bc88984b576f979e6927"
+    },
+    {
+      "version": "26.1.0.6-beta",
+      "type": "release",
+      "releaseTime": "2026-03-27T11:45:40.287Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "26.1"
+        }
+      ],
+      "recommended": false,
+      "sha256": "522048b1235d0d849cb963c192dd57bee7eeb05ac259b1a6ea768ff8e116829b"
+    },
+    {
+      "version": "26.1.0.7-beta",
+      "type": "release",
+      "releaseTime": "2026-03-27T18:40:51.474Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "26.1"
+        }
+      ],
+      "recommended": false,
+      "sha256": "e0f902c228fae49c935974eac341251fed8194927e595295f6896e5d453298b9"
     },
     {
       "version": "47.1.5",
