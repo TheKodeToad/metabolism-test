@@ -19023,6 +19023,84 @@
       "sha256": "7fd3cc641886d32d86815bea6a186c07cc81de29aea7bfa28bf51f8549713d26"
     },
     {
+      "version": "26.1.0.10-beta",
+      "type": "release",
+      "releaseTime": "2026-03-29T16:04:04.765Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "26.1"
+        }
+      ],
+      "recommended": false,
+      "sha256": "e305c69dca6455a71b9e38fb14da8bad239e049ad5ad4d8652ac1ddbf428c678"
+    },
+    {
+      "version": "26.1.0.11-beta",
+      "type": "release",
+      "releaseTime": "2026-03-29T16:08:04.996Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "26.1"
+        }
+      ],
+      "recommended": false,
+      "sha256": "dc3a8ca6fbc525431a5fb283b58c1157bc3f98eecfe6842afac0d3a535e9b1bb"
+    },
+    {
+      "version": "26.1.0.12-beta",
+      "type": "release",
+      "releaseTime": "2026-03-29T18:22:08.062Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "26.1"
+        }
+      ],
+      "recommended": false,
+      "sha256": "00729fd8013a83de79b814b97f71e7e698f40a80053726bf71dc91abc89679ec"
+    },
+    {
+      "version": "26.1.0.13-beta",
+      "type": "release",
+      "releaseTime": "2026-03-29T19:30:44.370Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "26.1"
+        }
+      ],
+      "recommended": false,
+      "sha256": "537249d6fe88192541f810b4032e864f60ab46d90147913a99f2b97288eb9fbb"
+    },
+    {
+      "version": "26.1.0.14-beta",
+      "type": "release",
+      "releaseTime": "2026-03-29T19:39:31.608Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "26.1"
+        }
+      ],
+      "recommended": false,
+      "sha256": "9e0fa04eed477151485477e9dbdaaec454a786a85b89f36a08ac7dfe1b60d416"
+    },
+    {
+      "version": "26.1.0.15-beta",
+      "type": "release",
+      "releaseTime": "2026-03-29T19:43:37.481Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "26.1"
+        }
+      ],
+      "recommended": false,
+      "sha256": "9fc217bd90a5245436863c996b90897bd30d1ddbdd0a8b84dc20e8399dc91dcc"
+    },
+    {
       "version": "47.1.5",
       "type": "release",
       "releaseTime": "2023-07-13T01:22:00.000Z",
