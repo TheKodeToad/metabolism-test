@@ -68,6 +68,12 @@
       "releaseTime": "2025-09-17T11:42:50.000Z",
       "recommended": false,
       "sha256": "856df2c5b4de453c4863d714b7064979d85f2d58aeb916e4c2858e127c6e9f5e"
+    },
+    {
+      "version": "java26",
+      "releaseTime": "2026-03-23T19:32:48.000Z",
+      "recommended": false,
+      "sha256": "996f70d8c79c0443e899216eea9946b2cf6d9a9b3a68e57a05ab39a656ff58d6"
     }
   ]
 }

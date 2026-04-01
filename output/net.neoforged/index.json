@@ -19127,6 +19127,32 @@
       "sha256": "d52c87a876666120b04a7bec8d929e50f28a96d7e55dc00577b89dfc72e88a4c"
     },
     {
+      "version": "26.1.0.18-beta",
+      "type": "release",
+      "releaseTime": "2026-03-31T06:55:36.861Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "26.1"
+        }
+      ],
+      "recommended": false,
+      "sha256": "54d743cc9a984f75cfdf5a980f403613b27fc80eb45fcba14c991d9e3fa1908d"
+    },
+    {
+      "version": "26.1.0.19-beta",
+      "type": "release",
+      "releaseTime": "2026-03-31T22:34:15.570Z",
+      "requires": [
+        {
+          "uid": "net.minecraft",
+          "equals": "26.1"
+        }
+      ],
+      "recommended": false,
+      "sha256": "3edba56d482843fb63bfa26b9f0ba70f01344d002e7af58e1a2e77c00c1f53c5"
+    },
+    {
       "version": "47.1.5",
       "type": "release",
       "releaseTime": "2023-07-13T01:22:00.000Z",
