@@ -4,6 +4,30 @@
   "formatVersion": 1,
   "versions": [
     {
+      "version": "0.30.0-beta.5",
+      "type": "beta",
+      "releaseTime": "2026-04-01T13:39:51.000Z",
+      "requires": [
+        {
+          "uid": "net.fabricmc.intermediary"
+        }
+      ],
+      "recommended": true,
+      "sha256": "a06c1de23166c4e76745a1ba5af7b3dba26e738d9f7578ccb421866f269fb8ed"
+    },
+    {
+      "version": "0.30.0-beta.4",
+      "type": "beta",
+      "releaseTime": "2026-04-01T13:39:52.000Z",
+      "requires": [
+        {
+          "uid": "net.fabricmc.intermediary"
+        }
+      ],
+      "recommended": false,
+      "sha256": "00245b96b9849162d0748b8e35458f89b4c7a745ae15f07a4a31aa0df24a2882"
+    },
+    {
       "version": "0.30.0-beta.3",
       "type": "beta",
       "releaseTime": "2026-02-17T01:40:51.000Z",
@@ -12,7 +36,7 @@
           "uid": "net.fabricmc.intermediary"
         }
       ],
-      "recommended": true,
+      "recommended": false,
       "sha256": "3f703a23b980bbc5d61b5e5ba1cf98056a5fc1f0fd152ad2cfb74f547866be0a"
     },
     {
